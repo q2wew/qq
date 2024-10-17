@@ -1,4 +1,6 @@
-//profile-title: base64:VFZDIHwgdm1lc3M={
+//profile-title: base64:VFZDIHwgdm1lc3M=
+
+{
     "log": {
         "disabled": false,
         "level": "fatal",
@@ -100,6 +102,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 1",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 2",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 3",
@@ -163,6 +166,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 1",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 2",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 3",
@@ -240,6 +244,23 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
+            "type": "vmess",
+            "server": "50023.baidu-cdn.top",
+            "server_port": 50023,
+            "uuid": "0900abc9-29a4-4f70-98de-336b5d4b79d6",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
         },
         {
             "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 1",

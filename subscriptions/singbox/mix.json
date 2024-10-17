@@ -1,4 +1,6 @@
-//profile-title: base64:VFZDIHwgbWl4{
+//profile-title: base64:VFZDIHwgbWl4
+
+{
     "log": {
         "disabled": false,
         "level": "fatal",
@@ -100,6 +102,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 4",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 6",
@@ -150,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCskplzwssmz",
+                "TVCzejhxcwnbt",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -628,6 +631,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 4",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 6",
@@ -678,7 +682,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCskplzwssmz",
+                "TVCzejhxcwnbt",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -1170,6 +1174,20 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 2",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1b:26eb::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-78",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
@@ -2379,7 +2397,7 @@
             }
         },
         {
-            "tag": "TVCskplzwssmz",
+            "tag": "TVCzejhxcwnbt",
             "type": "vless",
             "server": "",
             "server_port": 0,
