@@ -40,7 +40,9 @@ $profileConfigs = [
     "warp://" . $choosenIps[1] . ":" . $choosenPort . "?ifp=5-10#WiW-🔵&&detour=warp://" . $choosenIps[0] . ":" . $choosenPort . "?ifp=5-10#WARP-🔵",
 ];
 
-$profileHeader = "#profile-title: base64:" . base64_encode("TVC | WARP") . "";
+$profileHeader = "#profile-title: base64:" . base64_encode("TVC | WARP") . "
+
+";
 
 $profileOutput = $profileHeader . "
 " . implode("\n", $profileConfigs);

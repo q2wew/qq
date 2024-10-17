@@ -349,7 +349,9 @@ function processConvertion ($base64ConfigsList, $configsName = "Created By q2wew
             $structure['outbounds'][1]['outbounds'][] = $toSingbox['tag'];
         }
     }
-    $headerText = "//profile-title: base64:" . base64_encode($configsName) . "";
+    $headerText = "//profile-title: base64:" . base64_encode($configsName) . "
+
+";
     return $headerText . json_encode($structure, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 }
 

@@ -363,5 +363,7 @@ function tehran_time()
 }
 
 function hiddifyHeader ($subscriptionName) {
-    return "#profile-title: base64:" . base64_encode($subscriptionName) . "";
+    return "#profile-title: base64:" . base64_encode($subscriptionName) . "
+
+";
 }
