@@ -124,8 +124,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 30",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 31",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 34",
-                "❔XX | 🔴 | vless | @Parsashonam | 35",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 0",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -154,7 +152,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCaxekwrbdus",
+                "TVCjcknlpceap",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -515,8 +513,6 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 4",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -661,8 +657,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 30",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 31",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 34",
-                "❔XX | 🔴 | vless | @Parsashonam | 35",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 0",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -691,7 +685,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCaxekwrbdus",
+                "TVCjcknlpceap",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -1052,8 +1046,6 @@
                 "🇮🇷IR | 🟢 | vmess | @Hope_Net | 4",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -1616,51 +1608,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 35",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1b:26eb::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-74",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 36",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 443,
-            "uuid": "Parsashonam-74",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Parsashonam\/ws?ed=2560",
-                "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
-                }
             }
         },
         {
@@ -2444,7 +2391,7 @@
             }
         },
         {
-            "tag": "TVCaxekwrbdus",
+            "tag": "TVCjcknlpceap",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -11492,47 +11439,6 @@
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
                     "Host": "104.26.13.31"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "183.236.48.163",
-            "server_port": 58831,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
-            "type": "vmess",
-            "server": "ip.sb",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "ip.sb"
                 }
             }
         },
