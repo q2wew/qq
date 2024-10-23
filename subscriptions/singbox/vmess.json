@@ -129,9 +129,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @ISVvpn | 1",
-                "🇺🇸US | 🟢 | vmess | @ISVvpn | 3"
+                "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
             ]
         },
         {
@@ -165,9 +163,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @ISVvpn | 1",
-                "🇺🇸US | 🟢 | vmess | @ISVvpn | 3"
+                "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -783,40 +779,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-            "type": "vmess",
-            "server": "188.114.96.2",
-            "server_port": 443,
-            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "188.114.96.2",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "188.114.96.2"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🟢 | vmess | @ISVvpn | 1",
             "type": "vmess",
             "server": "plex.com",
@@ -847,40 +809,6 @@
                 "path": "\/racevpn",
                 "headers": {
                     "Host": "plex.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ISVvpn | 3",
-            "type": "vmess",
-            "server": "www.Kayak.com",
-            "server_port": 443,
-            "uuid": "6529ee7d-b090-4515-8595-8bbdb6227fe1",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.Kayak.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/racevpn",
-                "headers": {
-                    "Host": "www.Kayak.com"
                 }
             }
         }
