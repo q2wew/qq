@@ -138,7 +138,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0","type":"vless","server":"162.159.138.178","port":8080,"udp":false,"uuid":"42ae576a-0b4d-40d8-bcf5-9997d4fb0e41","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 18","type":"trojan","server":"13.51.220.245","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"13.51.188.221","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"TVCiytcsgvplx","type":"trojan","server":"","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"TVChkjurrezno","type":"trojan","server":"","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"cfcdn1.sanfencdn9.com","port":"2052","cipher":"auto","uuid":"cd47cb10-d851-489b-86cd-ffaf659ed943","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/WNMicnDh","headers":{"host":"tw1eskJpKcA.inivtrak.xyz"}}}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"ambxxic01hk.dorabbb.top","port":"44806","cipher":"auto","uuid":"fe9333e9-c864-41ea-8076-a0df85cc50de","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸US | 🔴 | vless | @customv2ray | 11","type":"vless","server":"www.speedtest.net","port":2052,"udp":false,"uuid":"c05ffb1d-e27c-48e5-92e1-f00dedf23013","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram@Linkvws?ed=2560","headers":{"host":"sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.se1.v2vless.sitespeedtest.net"}}}
@@ -202,7 +202,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19'
-      - 'TVCiytcsgvplx'
+      - 'TVChkjurrezno'
       - '🇺🇸US | 🟢 | vmess | @mftizi | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 11'
@@ -266,7 +266,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19'
-      - 'TVCiytcsgvplx'
+      - 'TVChkjurrezno'
       - '🇺🇸US | 🟢 | vmess | @mftizi | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 11'
@@ -329,7 +329,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19'
-      - 'TVCiytcsgvplx'
+      - 'TVChkjurrezno'
       - '🇺🇸US | 🟢 | vmess | @mftizi | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 11'
