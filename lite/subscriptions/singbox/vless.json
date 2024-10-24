@@ -147,7 +147,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
@@ -223,7 +223,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
@@ -656,7 +656,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "aa4c2759-16f3-458a-aa28-719226d74ae5",
+            "uuid": "7ec0a5b6-fc43-491c-a95b-3085357960a7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -677,7 +677,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "aa4c2759-16f3-458a-aa28-719226d74ae5",
+            "uuid": "7ec0a5b6-fc43-491c-a95b-3085357960a7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1429,11 +1429,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
             "type": "vless",
-            "server": "104.18.124.193",
-            "server_port": 2096,
-            "uuid": "875b139d-eeb5-446f-8dd2-622c27f74d42",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "a4a12c4c-c63a-4aac-9685-0c52fbebfe65",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1441,21 +1441,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "cc.vmessprotocol.ggff.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol?ed=1024",
+                "path": "\/@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol",
                 "headers": {
-                    "Host": "cc.vmessprotocol.ggff.net"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
