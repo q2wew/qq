@@ -102,7 +102,6 @@
                 "URL-TEST",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -117,7 +116,6 @@
             "outbounds": [
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -175,23 +173,6 @@
             "server": "ambxxic01hk.dorabbb.top",
             "server_port": 44806,
             "uuid": "fe9333e9-c864-41ea-8076-a0df85cc50de",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
-            "type": "vmess",
-            "server": "50.114.243.61",
-            "server_port": 43834,
-            "uuid": "b246e34d-bbd1-4016-8f74-ea461c37e411",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -298,9 +279,9 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
             "type": "vmess",
-            "server": "104.19.42.49",
-            "server_port": 2095,
-            "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+            "server": "gt021.bestforxray.buzz",
+            "server_port": 443,
+            "uuid": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -311,22 +292,32 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "ausgt02.bestforxray.buzz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/github.com\/Alvin9999",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "104.19.42.49"
+                    "Host": "ausgt02.bestforxray.buzz"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
-            "server": "104.20.25.146",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "server": "d.seribus.org",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 1,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -335,11 +326,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "d.seribus.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/github.com\/Alvin9999",
+                "path": "\/linkvws",
                 "headers": {
-                    "Host": "104.20.25.146"
+                    "Host": "d.seribus.org"
                 }
             }
         }
