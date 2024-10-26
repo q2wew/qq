@@ -154,7 +154,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCeljrjwkvww",
+                "TVCnfervkamoy",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -459,7 +459,6 @@
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 5",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 7",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🟢 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 306",
@@ -512,7 +511,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 7",
-                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -690,7 +688,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCeljrjwkvww",
+                "TVCnfervkamoy",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -995,7 +993,6 @@
                 "🇭🇰HK | 🟢 | vless | @VmessProtocol | 5",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 7",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🟢 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 306",
@@ -1048,7 +1045,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 7",
-                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -2425,7 +2421,7 @@
             }
         },
         {
-            "tag": "TVCeljrjwkvww",
+            "tag": "TVCnfervkamoy",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -10028,37 +10024,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @VmessProtocol | 9",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2096,
-            "uuid": "56459666-71e5-4978-802d-aee180b50788",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cc.vmessprotocol.ggff.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol?ed=1024",
-                "headers": {
-                    "Host": "cc.vmessprotocol.ggff.net"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
@@ -11468,40 +11433,6 @@
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
                     "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🟢 | vmess | @Hope_Net | 8",
-            "type": "vmess",
-            "server": "185.146.173.129",
-            "server_port": 443,
-            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nt-haze-7dad.rogap16875.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/afrhms16v.bestxray.buzz\/linkws",
-                "headers": {
-                    "Host": "nt-haze-7dad.rogap16875.workers.dev"
                 }
             }
         },
