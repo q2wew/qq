@@ -152,7 +152,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCbdotxwbdcz",
+                "TVCcqmkowzpgk",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -178,8 +178,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -596,7 +594,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCbdotxwbdcz",
+                "TVCcqmkowzpgk",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -622,8 +620,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -2196,7 +2192,7 @@
             }
         },
         {
-            "tag": "TVCbdotxwbdcz",
+            "tag": "TVCcqmkowzpgk",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -2845,58 +2841,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Zmaoz.Faculty.Ucdavis.Edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8080",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
