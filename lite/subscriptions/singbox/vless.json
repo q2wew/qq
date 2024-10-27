@@ -110,8 +110,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -157,8 +157,8 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 3",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
@@ -184,8 +184,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -231,8 +231,8 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 3",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
@@ -540,7 +540,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
             "type": "vless",
             "server": "ArV2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -561,7 +561,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
             "type": "vless",
             "server": "Arv2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -631,7 +631,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "14253b73-e86a-477d-8d82-baf5ee7db760",
+            "uuid": "e95af615-8093-4b2e-ad3e-fbf9eaaab25c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -652,7 +652,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "14253b73-e86a-477d-8d82-baf5ee7db760",
+            "uuid": "e95af615-8093-4b2e-ad3e-fbf9eaaab25c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1755,7 +1755,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 3",
+            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 4",
             "type": "vless",
             "server": "wolfshop.tixoshop.com",
             "server_port": 45764,
@@ -1769,7 +1769,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 4",
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 5",
             "type": "vless",
             "server": "IP_CF",
             "server_port": 0,
@@ -1837,9 +1837,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
             "type": "vless",
-            "server": "NUFiLTER.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "c61e4071-ba2b-4d0d-ba3c-ce69bdcb7132",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1847,11 +1847,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "20Fb0424.bpb-WoRker-PaNeL-1xD.pAges.DEv",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "path": "\/9U5M5dY6sepIb4Up?ed=2560",
                 "headers": {
-                    "Host": "NUFiLTER.fastly80.hosting-ip.com"
+                    "Host": "20Fb0424.bpb-WoRker-PaNeL-1xD.pAges.DEv"
                 }
             }
         },
