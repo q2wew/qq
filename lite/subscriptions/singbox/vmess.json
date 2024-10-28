@@ -100,7 +100,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
                 "🇸🇪SE | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
@@ -115,7 +115,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
                 "🇸🇪SE | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
@@ -146,7 +146,24 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 16",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
+            "type": "vmess",
+            "server": "ambxxic01hk.dorabbb.top",
+            "server_port": 44801,
+            "uuid": "ac92dfb6-ce5b-4c2b-9c1c-59b9770901fc",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "cfcdn3.sanfencdn9.com",
             "server_port": 80,
@@ -164,30 +181,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/video\/VDXcaM7r",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-            "type": "vmess",
-            "server": "cfcdn1.sanfencdn9.com",
-            "server_port": 2052,
-            "uuid": "cd47cb10-d851-489b-86cd-ffaf659ed943",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/video\/WNMicnDh",
                 "headers": {
                     "Host": ""
                 }
