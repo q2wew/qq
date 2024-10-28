@@ -154,7 +154,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVClfdvivohyn",
+                "TVCqpcghgrmrx",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -495,12 +495,12 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 5",
-                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 7",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 10",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
+                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 12",
-                "🚩CF | 🔴 | vless | @nofiltering2 | 14",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
+                "🚩CF | 🔴 | vless | @nofiltering2 | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -603,7 +603,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVClfdvivohyn",
+                "TVCqpcghgrmrx",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -944,12 +944,12 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 5",
-                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 7",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 10",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
+                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 12",
-                "🚩CF | 🔴 | vless | @nofiltering2 | 14",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
+                "🚩CF | 🔴 | vless | @nofiltering2 | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -2251,7 +2251,7 @@
             }
         },
         {
-            "tag": "TVClfdvivohyn",
+            "tag": "TVCqpcghgrmrx",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -11023,6 +11023,37 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
             "type": "vless",
+            "server": "199.232.15.239",
+            "server_port": 443,
+            "uuid": "267b19e0-8849-41c2-aa3c-50ccd4478b31",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "FullHD.4K.ELiV2RaY.ai",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/VLESS?-ELiV2rAY-ELiV2rAY",
+                "headers": {
+                    "Host": "FullHD.4K.ELiV2RaY.ai"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
+            "type": "vless",
             "server": "151.101.2.216",
             "server_port": 80,
             "uuid": "TELEGRAM-NUFiLTER",
@@ -11042,7 +11073,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -11056,7 +11087,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 5",
+            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
             "type": "vless",
             "server": "49.12.33.185",
             "server_port": 443,
@@ -11087,7 +11118,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @nofiltering2 | 9",
             "type": "vless",
             "server": "llil4.flaptop.sbs",
             "server_port": 1487,
@@ -11101,7 +11132,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 12",
             "type": "vless",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -11122,7 +11153,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
             "type": "vless",
             "server": "199.232.5.159",
             "server_port": 443,
@@ -11153,7 +11184,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @nofiltering2 | 14",
+            "tag": "🚩CF | 🔴 | vless | @nofiltering2 | 16",
             "type": "vless",
             "server": "104.19.58.3",
             "server_port": 8443,
@@ -11180,27 +11211,6 @@
                 "path": "\/JoinBede,@ELiV2RaY-@ELiV2RaY?ed=2560",
                 "headers": {
                     "Host": "Join-ELiV2RaY-Join-ELiV2RaY.paGEs.DEV"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
-            "type": "vless",
-            "server": "151.101.0.155",
-            "server_port": 80,
-            "uuid": "6c76e884-b9cf-4e3c-b308-6f61d891f886",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-                "headers": {
-                    "Host": "151.101.0.155"
                 }
             }
         },
