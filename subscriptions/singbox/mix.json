@@ -152,7 +152,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCjslpcpgfqj",
+                "TVCkciaotwran",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -178,6 +178,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -307,8 +308,9 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 4",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 5",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 6",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 12",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 13",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 14",
@@ -637,7 +639,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCjslpcpgfqj",
+                "TVCkciaotwran",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -663,6 +665,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -792,8 +795,9 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 4",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 5",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 6",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 12",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 13",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 14",
@@ -2278,7 +2282,7 @@
             }
         },
         {
-            "tag": "TVCjslpcpgfqj",
+            "tag": "TVCkciaotwran",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -2708,7 +2712,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
             "type": "vless",
-            "server": "Arv2ry.fastly80.hosting-ip.com",
+            "server": "ArV2ry.fastly80.hosting-ip.com",
             "server_port": 80,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
@@ -2722,15 +2726,15 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
                 "headers": {
-                    "Host": "Arv2ry.fastly80.hosting-ip.com"
+                    "Host": "ArV2ry.fastly80.hosting-ip.com"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
+            "server": "Arv2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -2741,17 +2745,17 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "Arv2ry.fastly80.hosting-ip.com"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
             "type": "vless",
-            "server": "Arv2ry.fastly80.hosting-ip.com",
-            "server_port": 80,
+            "server": "www.speedtest.net",
+            "server_port": 8880,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -2762,16 +2766,16 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "Arv2ry.fastly80.hosting-ip.com"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
             "type": "vless",
-            "server": "ArV2ry.fastly80.hosting-ip.com",
+            "server": "Arv2ry.fastly80.hosting-ip.com",
             "server_port": 80,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
@@ -2785,13 +2789,34 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
                 "headers": {
-                    "Host": "ArV2ry.fastly80.hosting-ip.com"
+                    "Host": "Arv2ry.fastly80.hosting-ip.com"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
             "type": "vless",
+            "server": "ArV2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "ArV2ry.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
+            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
             "uuid": "telegram-id-ArV2ray",
@@ -2811,7 +2836,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
             "type": "vless",
             "server": "Arv2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -2832,7 +2857,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
             "type": "vless",
             "server": "ArV2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -2853,7 +2878,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2870,27 +2895,6 @@
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
-            "type": "vless",
-            "server": "Arv2ry.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
-                "headers": {
-                    "Host": "Arv2ry.fastly80.hosting-ip.com"
                 }
             }
         },
@@ -2917,6 +2921,27 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
+            "type": "vless",
+            "server": "Arv2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "Arv2ry.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
             "type": "vless",
             "server": "ArV2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -5794,7 +5819,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "ad3cc925-52f0-4834-ab85-602d9c1c08ac",
+            "uuid": "7d3020a1-f293-4442-86ca-392b533fd0b4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5825,7 +5850,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "59e346e1-558b-49b8-a30c-bc1a07de84b0",
+            "uuid": "ad3cc925-52f0-4834-ab85-602d9c1c08ac",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5856,7 +5881,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "f5557a40-a8a3-47cb-a6ae-5f9f5c12f642",
+            "uuid": "59e346e1-558b-49b8-a30c-bc1a07de84b0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5887,7 +5912,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "c0898e3b-bcf1-4210-b887-6d1011d648c4",
+            "uuid": "f5557a40-a8a3-47cb-a6ae-5f9f5c12f642",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5918,7 +5943,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
+            "uuid": "c0898e3b-bcf1-4210-b887-6d1011d648c4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5949,6 +5974,37 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
+            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8880",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 7",
+            "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
             "uuid": "7629875e-5255-4a46-970f-5f343a179984",
             "flow": "",
             "packet_encoding": "xudp",
@@ -5976,7 +6032,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 9",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -6007,7 +6063,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 9",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 10",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
