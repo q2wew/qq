@@ -138,8 +138,7 @@
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 9",
                 "🇬🇧GB | 🟢 | vmess | @Hope_Net | 10",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 11",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12"
+                "🚩CF | 🟢 | vmess | @Hope_Net | 11"
             ]
         },
         {
@@ -182,8 +181,7 @@
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 9",
                 "🇬🇧GB | 🟢 | vmess | @Hope_Net | 10",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 11",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12"
+                "🚩CF | 🟢 | vmess | @Hope_Net | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1139,23 +1137,6 @@
                 "headers": {
                     "Host": ""
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "abccbaa-cbaa-abac-badc-ccbbaaabccab",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         }
     ],
