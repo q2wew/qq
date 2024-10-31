@@ -160,8 +160,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 4",
+                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
@@ -244,8 +244,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 4",
+                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
@@ -1565,7 +1565,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "9c026691-b79d-4e6d-b408-6a1ef928855f",
+            "uuid": "80943f32-cdc8-44b4-b058-b0126e8daa39",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1596,7 +1596,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "9c026691-b79d-4e6d-b408-6a1ef928855f",
+            "uuid": "80943f32-cdc8-44b4-b058-b0126e8daa39",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1781,7 +1781,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -1798,7 +1798,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🇫🇷FR | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "beyonddsz.cfd",
             "server_port": 443,
