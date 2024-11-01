@@ -176,7 +176,7 @@ proxies:
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0","type":"trojan","server":"104.18.12.229","port":2053,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"172.66.44.131","port":443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3","type":"trojan","server":"172.64.153.235","port":2053,"udp":false,"password":"bpb-trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"bpB-worKER-paneL1-e4p.pAGes.dEV"}
-  - {"name":"🚩CF | 🟢 | trojan | @VmessProtocol | 10","type":"trojan","server":"104.17.147.22","port":2053,"udp":false,"password":"bpb-trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"bPB-worker-PANeL1-e4p.paGes.DeV"}
+  - {"name":"🇭🇰HK | 🟢 | trojan | @VmessProtocol | 1","type":"trojan","server":"45.146.232.171","port":10465,"udp":false,"password":"325ba822-760d-4a51-9711-f72ba8d16933","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"q08m.vgraxiw73s.hasyaf.cn"}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"2a01:4f8:1c1b:222a::1","port":"80","cipher":"auto","uuid":"00d8d4b6-c5e6-4d77-b58b-c9443ec707aa","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱NL | 🟢 | vmess | @yaney_01 | 1","type":"vmess","server":"45.199.138.217","port":"41000","cipher":"auto","uuid":"f9fa3a9c-f7d5-414f-88e6-6970585d9949","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/282018252526","headers":{"host":"45.199.138.217"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
@@ -187,7 +187,6 @@ proxies:
   - {"name":"🇯🇵JP | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"35.74.231.235","port":21581,"cipher":"auto","uuid":"02bf7660-c38f-30b4-b740-2f9b4d717704","alterId":"1","tls":true,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"104.16.60.8","port":2082,"cipher":"auto","uuid":"f584de15-2034-4170-a723-f48c2bae5e0f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/afrhms16v.bestxray.buzz/linkws","headers":{"host":"worker-noisy-paper-fa00.hetoj18200.workers.dev"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"104.21.15.212","port":443,"cipher":"auto","uuid":"76221bfb-e92f-4e80-81c5-6fe48f50ac0b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"glweidf.sbs"}}}
-  - {"name":"🇯🇵JP | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"8vndq-g03.jp05-6786-vm0.entry.fr0307a.art","port":46484,"cipher":"auto","uuid":"22acc467-7440-386a-927a-d84be554b37e","alterId":"1","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇦🇪AE | 🟢 | ss | @kingofilter | 7","type":"ss","server":"series-a2-mec.varzesh360.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇦🇪AE | 🟢 | ss | @kingofilter | 8","type":"ss","server":"api.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
@@ -254,7 +253,7 @@ proxy-groups:
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
-      - '🚩CF | 🟢 | trojan | @VmessProtocol | 10'
+      - '🇭🇰HK | 🟢 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '🇳🇱NL | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
@@ -265,7 +264,6 @@ proxy-groups:
       - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 3'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 8'
   - name: URL-TEST
@@ -332,7 +330,7 @@ proxy-groups:
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
-      - '🚩CF | 🟢 | trojan | @VmessProtocol | 10'
+      - '🇭🇰HK | 🟢 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '🇳🇱NL | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
@@ -343,7 +341,6 @@ proxy-groups:
       - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 3'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 8'
   - name: FALLBACK
@@ -409,7 +406,7 @@ proxy-groups:
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
-      - '🚩CF | 🟢 | trojan | @VmessProtocol | 10'
+      - '🇭🇰HK | 🟢 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '🇳🇱NL | 🟢 | vmess | @yaney_01 | 1'
       - '🇺🇸US | 🟢 | vmess | @yaney_01 | 2'
@@ -420,7 +417,6 @@ proxy-groups:
       - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 3'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇯🇵JP | 🟢 | vmess | @Hope_Net | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 7'
       - '🇦🇪AE | 🟢 | ss | @kingofilter | 8'
 rules:
