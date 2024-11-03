@@ -165,8 +165,9 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @fnet00 | 8","type":"vless","server":"162.159.138.178","port":8080,"udp":false,"uuid":"d3bbc9aa-a915-4f57-80eb-6ba881d961fb","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11","type":"vless","server":"104.26.11.137","port":443,"udp":false,"uuid":"2b47debd-d627-11ee-aaa8-00505603e70d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"st-gb-1.brocdn.com","ws-opts":{"path":"/websocket","headers":{"host":"st-gb-1.brocdn.com"}}}
   - {"name":"🇨🇷CR | 🔴 | vless | @flyv2ray | 12","type":"vless","server":"190.93.247.56","port":2052,"udp":false,"uuid":"b574fc79-9e52-418f-9a05-3ed3876a5d62","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 7","type":"vless","server":"104.17.234.128","port":443,"udp":false,"uuid":"28c27cde-5cf8-4cdb-af94-f773b0263729","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=8080","headers":{"host":"join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 8","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"1a9e2093-d618-469b-8136-fdda12dbec00","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS?ed=2048","headers":{"host":"tehran5.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 7","type":"vless","server":"newt.ns.cloudflare.com","port":443,"udp":false,"uuid":"2eb29a03-6d5f-4a9b-9e7d-76527016bc20","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"UNLIMITEDDEV1.unlimiteddev-vpn.com","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080","headers":{"host":"UNLIMITEDDEV1.unlimiteddev-vpn.com"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 8","type":"vless","server":"104.17.234.128","port":443,"udp":false,"uuid":"28c27cde-5cf8-4cdb-af94-f773b0263729","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=8080","headers":{"host":"join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @nofiltering2 | 15","type":"vless","server":"iranserver.com","port":443,"udp":false,"uuid":"2df56fd0-d1b7-4793-b877-acd356d960f7","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"pages.dev","ws-opts":{"path":"/?ed=8080","headers":{"host":"download-93w.pages.dev"}}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 21","type":"vless","server":"public.alpanel.top","port":1403,"udp":true,"uuid":"4c6451ba-6594-4d67-a8ae-4df79815a4e3","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"tuyacn.com","grpc-opts":{"grpc-service-name":"@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam"},"reality-opts":{"public-key":"rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA","short-id":"99"}}
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 20","type":"vless","server":"104.17.234.114","port":8443,"udp":false,"uuid":"110ef14f-276f-451f-9fe5-65b4c1898d55","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=8080","headers":{"host":"join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 21","type":"vless","server":"funnelytics.io","port":8443,"udp":false,"uuid":"110ef14f-276f-451f-9fe5-65b4c1898d55","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2480","headers":{"host":"join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de"}}}
@@ -225,6 +226,7 @@ proxy-groups:
       - '🇨🇷CR | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 7'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
+      - '🇺🇸US | 🔴 | vless | @nofiltering2 | 15'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 20'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 21'
@@ -283,6 +285,7 @@ proxy-groups:
       - '🇨🇷CR | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 7'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
+      - '🇺🇸US | 🔴 | vless | @nofiltering2 | 15'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 20'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 21'
@@ -340,6 +343,7 @@ proxy-groups:
       - '🇨🇷CR | 🔴 | vless | @flyv2ray | 12'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 7'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
+      - '🇺🇸US | 🔴 | vless | @nofiltering2 | 15'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 20'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 21'

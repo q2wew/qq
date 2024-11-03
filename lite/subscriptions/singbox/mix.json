@@ -126,8 +126,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 15",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 16",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
@@ -161,8 +161,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
-                "❔XX | 🟢 | vmess | @Hope_Net | 11",
+                "❔XX | 🟢 | vmess | @Hope_Net | 10",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -173,6 +173,7 @@
                 "❔XX | 🔴 | vless | @iP_CF | 0",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 20",
@@ -211,8 +212,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 15",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 16",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
@@ -246,8 +247,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
-                "❔XX | 🟢 | vmess | @Hope_Net | 11",
+                "❔XX | 🟢 | vmess | @Hope_Net | 10",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -258,6 +259,7 @@
                 "❔XX | 🔴 | vless | @iP_CF | 0",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 20",
@@ -955,9 +957,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "16.16.49.60",
+            "server": "35.180.7.131",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -977,9 +979,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "16.171.92.50",
+            "server": "3.124.127.40",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -1858,7 +1860,24 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 10",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "babcaac-caab-acba-cabd-abccbcababac",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
             "server": "104.21.13.125",
             "server_port": 443,
@@ -1889,23 +1908,6 @@
                 "headers": {
                     "Host": "104.21.13.125"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 11",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "aabaccb-baca-baac-cbad-cabacabbbcac",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -2074,6 +2076,37 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
             "type": "vless",
+            "server": "newt.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "2eb29a03-6d5f-4a9b-9e7d-76527016bc20",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "UNLIMITEDDEV1.unlimiteddev-vpn.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080",
+                "headers": {
+                    "Host": "UNLIMITEDDEV1.unlimiteddev-vpn.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
             "uuid": "28c27cde-5cf8-4cdb-af94-f773b0263729",
@@ -2103,11 +2136,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "1a9e2093-d618-469b-8136-fdda12dbec00",
+            "server": "iranserver.com",
+            "server_port": 443,
+            "uuid": "2df56fd0-d1b7-4793-b877-acd356d960f7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2115,11 +2148,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS",
+                "path": "\/?ed=8080",
                 "headers": {
-                    "Host": "151.101.3.8"
+                    "Host": "pages.dev"
                 }
             }
         },
