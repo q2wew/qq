@@ -149,7 +149,7 @@ proxies:
   - {"name":"🇨🇦CA | 🟢 | trojan | @DirectVPN | 11","type":"trojan","server":"52.60.166.12","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇦CA | 🟢 | trojan | @DirectVPN | 12","type":"trojan","server":"35.182.209.139","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"52.15.98.167","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🚩CF | 🔴 | trojan | @v2ray1_ng | 5","type":"trojan","server":"162.159.136.232","port":8443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
+  - {"name":"🚩CF | 🔴 | trojan | @v2ray1_ng | 3","type":"trojan","server":"162.159.136.232","port":8443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0","type":"trojan","server":"104.18.12.229","port":2053,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"172.66.44.131","port":443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"e9464f45.trauma-2r4.pages.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3","type":"trojan","server":"172.64.153.235","port":2053,"udp":false,"password":"bpb-trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"bpB-worKER-paneL1-e4p.pAGes.dEV"}
@@ -191,7 +191,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇺🇸US | 🟢 | trojan | @DirectVPN | 13'
-      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 5'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 3'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
@@ -233,7 +233,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇺🇸US | 🟢 | trojan | @DirectVPN | 13'
-      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 5'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 3'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
@@ -274,7 +274,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇺🇸US | 🟢 | trojan | @DirectVPN | 13'
-      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 5'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 3'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 0'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 3'
