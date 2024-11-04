@@ -125,8 +125,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
@@ -198,8 +198,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
@@ -509,8 +509,8 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
+            "server": "ArV2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -521,9 +521,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "ArV2ry.fastly80.hosting-ip.com"
                 }
             }
         },
@@ -598,7 +598,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6e9dd901-9d98-4177-a907-b1cbbb269039",
+            "uuid": "522000a2-0e5f-47ca-b7ce-6fac20b8498a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -619,7 +619,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6e9dd901-9d98-4177-a907-b1cbbb269039",
+            "uuid": "522000a2-0e5f-47ca-b7ce-6fac20b8498a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -873,6 +873,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 11",
+            "type": "vless",
+            "server": "www.visa.com",
+            "server_port": 443,
+            "uuid": "1b3b276f-44b4-4c39-bfdf-67ff6337b41f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "POOrIaREd--persEPolIS.pAGEs.Dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI\/?ed=2560",
+                "headers": {
+                    "Host": "POOrIaREd--persEPolIS.pAGEs.Dev"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 12",
             "type": "vless",
             "server": "cfpage-39t.pages.dev",
@@ -900,37 +931,6 @@
                 "path": "\/TELEGRAM-MARAMBASHI\/?ed=2560",
                 "headers": {
                     "Host": "cfpage-39t.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 13",
-            "type": "vless",
-            "server": "104.20.78.17",
-            "server_port": 443,
-            "uuid": "e8b87dd9-cc8f-407c-a1f3-a564009fe6ee",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "dc1bf227.vf-8co.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI\/?ed=2560",
-                "headers": {
-                    "Host": "dc1bf227.vf-8co.pages.dev"
                 }
             }
         },
