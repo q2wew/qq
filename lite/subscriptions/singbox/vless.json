@@ -103,7 +103,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🔴 | vless | @ipV2Ray | 12",
@@ -127,8 +127,8 @@
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 12",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 17",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
@@ -168,7 +168,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🔴 | vless | @ipV2Ray | 12",
@@ -192,8 +192,8 @@
                 "🇺🇸US | 🔴 | vless | @servermomo | 0",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 12",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 17",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
@@ -305,7 +305,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -922,11 +922,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 7",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 6",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
+            "uuid": "c0898e3b-bcf1-4210-b887-6d1011d648c4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -953,11 +953,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 7",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "7629875e-5255-4a46-970f-5f343a179984",
+            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
