@@ -107,6 +107,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 3",
+                "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
@@ -139,6 +140,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 3",
+                "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
@@ -330,6 +332,35 @@
                     "enabled": true,
                     "public_key": "nS5815rpEsXGTPO9hjUW7KPMg_gkIgSfKHIN-JoLzg4",
                     "short_id": "1c5fb555a9609e45"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 4",
+            "type": "vless",
+            "server": "188.245.197.174",
+            "server_port": 1620,
+            "uuid": "7e6c5fae-62fe-4ed0-a4b2-64d4170c556b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
+                    "short_id": "3a622700e73c6642"
                 }
             }
         },
