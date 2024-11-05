@@ -161,16 +161,16 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "❔XX | 🔴 | vless | @ipV2Ray | 10",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
-                "TVCzngtyjtuik",
+                "TVCjmsugqgrjf",
                 "🇫🇷FR | 🔴 | vless | @ipV2Ray | 13",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 2",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
@@ -469,8 +469,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 3",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 5",
@@ -620,16 +618,16 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "❔XX | 🔴 | vless | @ipV2Ray | 10",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
-                "TVCzngtyjtuik",
+                "TVCjmsugqgrjf",
                 "🇫🇷FR | 🔴 | vless | @ipV2Ray | 13",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 2",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
@@ -928,8 +926,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 3",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 5",
@@ -2425,7 +2421,7 @@
             }
         },
         {
-            "tag": "TVCzngtyjtuik",
+            "tag": "TVCjmsugqgrjf",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -2470,7 +2466,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 1",
+            "type": "vless",
+            "server": "ArV2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "ArV2ry.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 2",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2501,7 +2518,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 3",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2532,7 +2549,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 4",
             "type": "vless",
             "server": "ArV2ry.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -2553,7 +2570,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 5",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2584,7 +2601,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 6",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2615,7 +2632,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 7",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2646,7 +2663,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "bwdraper.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2673,27 +2690,6 @@
                 "path": "\/v2pedia",
                 "headers": {
                     "Host": "bwdraper.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
-            "type": "vless",
-            "server": "ArV2ry.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
-                "headers": {
-                    "Host": "ArV2ry.fastly80.hosting-ip.com"
                 }
             }
         },
@@ -10131,47 +10127,6 @@
             "server": "127.0.0.1",
             "server_port": 1080,
             "uuid": "cbaacba-aacb-baca-bdac-ccbabbaabcca",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "172.64.166.2",
-            "server_port": 2095,
-            "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "172.64.166.2"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "aaaccbb-acab-aacb-dcba-cbcbaabcaacb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
