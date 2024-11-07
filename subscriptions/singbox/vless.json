@@ -276,7 +276,6 @@
                 "❔XX | 🟢 | vless | @vmessorg | 4",
                 "❔XX | 🟢 | vless | @vmessorg | 5",
                 "❔XX | 🟢 | vless | @vmessorg | 6",
-                "❔XX | 🟢 | vless | @vmessorg | 7",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
@@ -653,7 +652,6 @@
                 "❔XX | 🟢 | vless | @vmessorg | 4",
                 "❔XX | 🟢 | vless | @vmessorg | 5",
                 "❔XX | 🟢 | vless | @vmessorg | 6",
-                "❔XX | 🟢 | vless | @vmessorg | 7",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
@@ -5129,37 +5127,6 @@
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
             "uuid": "c0898e3b-bcf1-4210-b887-6d1011d648c4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8880",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @vmessorg | 7",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
