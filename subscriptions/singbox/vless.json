@@ -422,12 +422,13 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -801,12 +802,13 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -8768,7 +8770,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "06a42f28-ac67-46a4-b1f2-aafd34267d84",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
+                "headers": {
+                    "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 1",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -8799,7 +8822,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -8830,7 +8853,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -8844,7 +8867,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 3",
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 4",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -8875,7 +8898,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -8896,7 +8919,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
