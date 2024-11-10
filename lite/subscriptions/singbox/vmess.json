@@ -100,24 +100,26 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 36",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 37",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5"
+                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 36",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 37",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 36",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 37",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5"
+                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 36",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 37",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -140,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 16",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 16",
             "type": "vmess",
             "server": "yfg4l.c6tu5uwk9.buzz",
             "server_port": 80,
@@ -164,7 +166,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "120.232.153.40",
             "server_port": 35601,
@@ -181,7 +183,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ShadowProxy66 | 36",
+            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 36",
             "type": "vmess",
             "server": "www.bzfmc.com",
             "server_port": 443,
@@ -215,7 +217,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ShadowProxy66 | 37",
+            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 37",
             "type": "vmess",
             "server": "104.21.8.157",
             "server_port": 2082,
@@ -239,7 +241,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -263,7 +265,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -294,6 +296,23 @@
                 "headers": {
                     "Host": "104.26.8.210"
                 }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "188.114.99.187",
+            "server_port": 2095,
+            "uuid": "0e9a7ac2-2db9-4302-846c-3b71e0aa3d7b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         }
     ],
