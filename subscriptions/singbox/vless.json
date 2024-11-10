@@ -186,8 +186,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -253,15 +251,16 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "❔XX | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 12",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 1",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 0",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 2",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 3",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 4",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 5",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 6",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 8",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 7",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 9",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 11",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 10",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 12",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 2",
@@ -565,8 +564,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 2",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
@@ -632,15 +629,16 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "❔XX | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 12",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 1",
+                "🚩CF | 🔴 | vless | @UnlimitedDev | 0",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 2",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 3",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 4",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 5",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 6",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 8",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 7",
                 "🚩CF | 🟢 | vless | @UnlimitedDev | 9",
-                "🚩CF | 🟢 | vless | @UnlimitedDev | 11",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 10",
+                "🚩CF | 🟢 | vless | @UnlimitedDev | 12",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 2",
@@ -2890,58 +2888,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
-            "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mio.splashthat.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "mio.splashthat.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
             "tag": "🚩CF | 🔴 | vless | @free_v2rayyy | 1",
             "type": "vless",
             "server": "104.21.48.53",
@@ -4455,7 +4401,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 1",
+            "tag": "🚩CF | 🔴 | vless | @UnlimitedDev | 0",
+            "type": "vless",
+            "server": "104.18.165.38",
+            "server_port": 80,
+            "uuid": "769b5892-8463-41e5-8492-24f111115b01",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880",
+                "headers": {
+                    "Host": "104.18.165.38"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 2",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4486,7 +4453,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 2",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 3",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4517,7 +4484,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 3",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 4",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4548,7 +4515,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 4",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 5",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4579,7 +4546,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 5",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 6",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4610,7 +4577,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 6",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 7",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4641,7 +4608,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 8",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 9",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4672,7 +4639,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 9",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 10",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -4703,7 +4670,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 11",
+            "tag": "🚩CF | 🟢 | vless | @UnlimitedDev | 12",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
