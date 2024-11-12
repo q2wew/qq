@@ -399,8 +399,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🚩CF | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
+                "🚩CF | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🚩CF | 🔴 | vless | @free1_vpn | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -781,8 +783,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🚩CF | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
+                "🚩CF | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🚩CF | 🔴 | vless | @free1_vpn | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -8101,6 +8105,68 @@
         {
             "tag": "🚩CF | 🔴 | vless | @proxystore11 | 0",
             "type": "vless",
+            "server": "188.114.97.3",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "bpB-wORKer-PANel-BcR.PaGES.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/R1f5GLtyM8Ep9zAi?ed=2560",
+                "headers": {
+                    "Host": "bpB-wORKer-PANel-BcR.PaGES.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2053,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "bPb-wOrKeR-pANeL-bcr.PaGES.Dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/tvXfHqmZZxEe9SgL?ed=2560",
+                "headers": {
+                    "Host": "bPb-wOrKeR-pANeL-bcr.PaGES.Dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @proxystore11 | 2",
+            "type": "vless",
             "server": "188.114.97.2",
             "server_port": 443,
             "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
@@ -8130,7 +8196,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -8161,7 +8227,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
             "type": "vless",
             "server": "time.is",
             "server_port": 443,
@@ -8192,7 +8258,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
