@@ -105,7 +105,7 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
@@ -117,7 +117,7 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -243,7 +243,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
-            "uuid": "cacbbaa-bcaa-caba-dacb-cbbacbccabaa",
+            "uuid": "baccaba-baca-baca-adcb-aacbbcbbaacc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -256,11 +256,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "abccbaa-caab-acba-abdc-babbaccbaacc",
+            "server": "104.17.148.22",
+            "server_port": 2087,
+            "uuid": "1d01e6ae-0d97-4a9f-af23-8d754085a94f",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -270,6 +270,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
             }
         }
     ],
