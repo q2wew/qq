@@ -100,24 +100,24 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @mftizi | 18",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 18",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @mftizi | 18",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 18",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -140,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "120.232.153.40",
             "server_port": 35601,
@@ -157,7 +157,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 18",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "yfg4l.c6tu5uwk9.buzz",
             "server_port": 80,
@@ -181,7 +181,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -205,7 +205,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -239,6 +239,23 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "cabacab-abac-caab-dcab-bbacbaccaacb",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "127.0.0.1",
@@ -253,40 +270,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "185.146.173.59",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "185.146.173.59",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.146.173.59"
-                }
             }
         }
     ],
