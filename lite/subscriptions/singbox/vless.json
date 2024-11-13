@@ -103,9 +103,9 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 15",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -144,8 +144,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -171,9 +171,9 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 15",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -212,8 +212,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -311,7 +311,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -342,9 +342,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "184.72.243.243",
+            "server": "15.157.254.218",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -373,9 +373,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "52.19.38.133",
+            "server": "44.215.254.67",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1355,7 +1355,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
             "type": "vless",
             "server": "time.is",
             "server_port": 443,
@@ -1386,7 +1386,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
