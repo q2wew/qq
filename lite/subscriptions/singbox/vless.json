@@ -138,7 +138,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 6",
@@ -205,7 +205,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 6",
@@ -1193,11 +1193,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
             "type": "vless",
-            "server": "172.66.47.33",
+            "server": "104.16.16.16",
             "server_port": 443,
-            "uuid": "bba5ce00-09e4-4fce-8d26-35db5b4e38d4",
+            "uuid": "7d2dfb7a-2ecc-4448-bcbe-245a2092fe85",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1207,7 +1207,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cfpage-39t.pages.dev",
+                "server_name": "Pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1217,9 +1217,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
+                "path": "\/Telegram-Xv2ry2-7?ed=512",
                 "headers": {
-                    "Host": "cfpage-39t.pages.dev"
+                    "Host": "Pages.dev"
                 }
             }
         },
