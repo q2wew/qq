@@ -1390,9 +1390,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "hajlab.ucdavis.edu",
+            "server": "172.66.44.171",
             "server_port": 443,
-            "uuid": "63df7bc3-ef0a-47c9-8a70-95b00270b884",
+            "uuid": "4785f3ca-8fa3-4717-8c81-9d19087c73a3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1402,7 +1402,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
+                "server_name": "pardazeshvpn-tg104.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1412,18 +1412,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2560",
+                "path": "\/Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN",
                 "headers": {
-                    "Host": "hajlab.ucdavis.edu"
+                    "Host": "pardazeshvpn-tg104.pages.dev"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "162.159.44.205",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "2928d83a-ca75-4d52-b437-fa78c7601378",
+            "uuid": "34a83286-ba4e-4f0a-ac08-77a95469eeaf",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1433,7 +1433,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "freedom-1rj.pages.dev",
+                "server_name": "pardazesh18.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1443,9 +1443,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/freedom-1rj.pages.dev\/?ed=2560",
+                "path": "\/?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi",
                 "headers": {
-                    "Host": "freedom-1rj.pages.dev"
+                    "Host": "pardazesh18.pages.dev"
                 }
             }
         },
