@@ -103,16 +103,15 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 6",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 11",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
+                "🇭🇰HK | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 23",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 0",
@@ -140,16 +139,15 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 6",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 11",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
+                "🇭🇰HK | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 23",
                 "🇭🇰HK | 🟢 | vmess | @ShadowProxy66 | 0",
@@ -209,7 +207,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 6",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 7",
             "type": "vmess",
             "server": "120.232.153.71",
             "server_port": 34565,
@@ -226,7 +224,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
             "type": "vmess",
             "server": "183.236.48.161",
             "server_port": 31878,
@@ -243,7 +241,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
             "type": "vmess",
             "server": "z3.fragranceninja.com",
             "server_port": 12959,
@@ -277,7 +275,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
             "type": "vmess",
             "server": "d.baodesign.top",
             "server_port": 25004,
@@ -294,7 +292,7 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 11",
+            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 12",
             "type": "vmess",
             "server": "143.92.42.65",
             "server_port": 2902,
@@ -311,7 +309,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 45020,
@@ -328,7 +326,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
             "type": "vmess",
             "server": "ambxxic01hk.dorabbb.top",
             "server_port": 44801,
@@ -345,7 +343,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
             "type": "vmess",
             "server": "50021.baidu-cdn.top",
             "server_port": 50021,
@@ -362,7 +360,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
             "type": "vmess",
             "server": "50023.baidu-cdn.top",
             "server_port": 50023,
@@ -379,28 +377,11 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "149.104.20.212",
             "server_port": 18210,
             "uuid": "d57c4ac9-f43b-4856-ac46-4987a08e1f6f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
-            "type": "vmess",
-            "server": "45.125.35.57",
-            "server_port": 55305,
-            "uuid": "db87b0f5-01bb-448c-bb5f-9668fe09300e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
