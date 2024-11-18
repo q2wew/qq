@@ -121,7 +121,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 23",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
@@ -146,8 +146,8 @@
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -191,7 +191,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 23",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
@@ -216,8 +216,8 @@
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -754,7 +754,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "162.159.129.60",
             "server_port": 443,
@@ -1377,11 +1377,11 @@
             }
         },
         {
-            "tag": "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "20.217.216.51",
-            "server_port": 2053,
-            "uuid": "de44b044-8f90-4e18-b742-16591667ff96",
+            "server": "108.162.195.159",
+            "server_port": 443,
+            "uuid": "50b7fc84-85b4-4043-b1f7-6477c9017a44",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1391,7 +1391,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "edgetunnel-free.pages.dev",
+                "server_name": "purlitefastest.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1401,24 +1401,39 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/purlitefastest.pages.dev\/?ed=2560",
                 "headers": {
-                    "Host": "edgetunnel-free.pages.dev"
+                    "Host": "purlitefastest.pages.dev"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "DIGIV2RAy",
-            "flow": "",
+            "server": "89.187.169.71",
+            "server_port": 443,
+            "uuid": "6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g",
+                    "short_id": "01b200e90e250221"
+                }
             }
         },
         {
