@@ -412,11 +412,12 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -817,11 +818,12 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -8517,27 +8519,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "2266e5c0-1971-49aa-a454-e10a46ea0ee2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE?ed=2480",
-                "headers": {
-                    "Host": "151.101.3.8"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-            "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
             "uuid": "5d175779-9e00-4e13-a622-45e686a0cea0",
@@ -8567,7 +8548,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "2266e5c0-1971-49aa-a454-e10a46ea0ee2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE?ed=2480",
+                "headers": {
+                    "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "172.66.44.56",
             "server_port": 443,
@@ -8598,7 +8600,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "199.34.228.178",
             "server_port": 443,
@@ -8629,7 +8631,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
             "server": "167.82.30.71",
             "server_port": 80,
@@ -8650,7 +8652,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -8681,11 +8683,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "162.159.129.60",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "7d2dfb7a-2ecc-4448-bcbe-245a2092fe85",
+            "uuid": "fa1f09a0-c5f7-450a-b8d7-fa6767267411",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8695,7 +8697,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "Pages.dev",
+                "server_name": "bIa-dAily-confIgs.paGeS.Dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -8705,9 +8707,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/TELEGRAM-Daily_Configs?ed=2560",
                 "headers": {
-                    "Host": "Pages.dev"
+                    "Host": "bIa-dAily-confIgs.paGeS.Dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "104.18.37.146",
+            "server_port": 8443,
+            "uuid": "fa1f09a0-c5f7-450a-b8d7-fa6767267411",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "BiA-DAILY-coNfIGs.pAgES.DEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-Daily_Configs?ed=1048",
+                "headers": {
+                    "Host": "BiA-DAILY-coNfIGs.pAgES.DEV"
                 }
             }
         },
