@@ -113,7 +113,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+                "🇺🇸US | 🔴 | vless | @frev2ray | 21",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -186,7 +186,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+                "🇺🇸US | 🔴 | vless | @frev2ray | 21",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -591,7 +591,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+            "tag": "🇺🇸US | 🔴 | vless | @frev2ray | 21",
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
@@ -1475,37 +1475,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "172.66.44.56",
-            "server_port": 443,
-            "uuid": "3df56fd0-d1b7-4793-b877-acd356d960f3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
-                "headers": {
-                    "Host": "pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
             "server": "199.34.228.178",
             "server_port": 443,
             "uuid": "fca01448-d84a-436e-9aec-3be1ebdfb350",
@@ -1531,6 +1500,27 @@
                 "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
                 "headers": {
                     "Host": "sB-1u6.Pages.DEV"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "167.82.30.71",
+            "server_port": 80,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
+                "headers": {
+                    "Host": "167.82.30.71"
                 }
             }
         },

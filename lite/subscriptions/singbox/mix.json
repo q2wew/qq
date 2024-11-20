@@ -113,7 +113,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+                "🇺🇸US | 🔴 | vless | @frev2ray | 21",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -162,8 +162,8 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
@@ -197,7 +197,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+                "🇺🇸US | 🔴 | vless | @frev2ray | 21",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
@@ -246,8 +246,8 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
@@ -613,7 +613,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @frev2ray | 21",
+            "tag": "🇺🇸US | 🔴 | vless | @frev2ray | 21",
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
@@ -1643,37 +1643,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "172.66.44.56",
-            "server_port": 443,
-            "uuid": "3df56fd0-d1b7-4793-b877-acd356d960f3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
-                "headers": {
-                    "Host": "pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
             "server": "199.34.228.178",
             "server_port": 443,
             "uuid": "fca01448-d84a-436e-9aec-3be1ebdfb350",
@@ -1699,6 +1668,27 @@
                 "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
                 "headers": {
                     "Host": "sB-1u6.Pages.DEV"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "167.82.30.71",
+            "server_port": 80,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
+                "headers": {
+                    "Host": "167.82.30.71"
                 }
             }
         },
@@ -1823,11 +1813,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "https:\/\/github.com\/ALIILAPRO\/v2rayNG-Config",
-            "server_port": 433,
-            "uuid": "Free",
+            "server": "172.67.204.84",
+            "server_port": 443,
+            "uuid": "92610402-8d8c-43ff-895b-7b3c938ddfe0",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1837,14 +1827,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "download.game-one.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/6mHwql1HSSV5FOZe0UV1BYvuQ",
+                "headers": {
+                    "Host": "download.game-one.ir"
+                }
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "61.120.9.18",
-            "server_port": 43720,
-            "uuid": "f248d0e9-19f7-ea7f-6659-17a610dfe8d6",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "cacabba-abac-caba-acdb-abacbcbaccba",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
