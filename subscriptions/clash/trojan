@@ -158,7 +158,6 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"3.120.219.200","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"63.177.1.100","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇸🇪SE | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"16.16.155.121","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇳🇱NL | 🟢 | trojan | @ConfigsHUB | 11","type":"trojan","server":"64.225.70.82","port":36625,"udp":false,"password":"16c9fefb-41ea-4994-9246-54fb2c0faf1c","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.tmall.com"}
   - {"name":"🚩CF | 🔴 | trojan | @proxystore11 | 0","type":"trojan","server":"104.20.21.199","port":443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"b96ef9ae.trojanfree-76s.pages.dev"}
 proxy-groups:
   - name: MANUAL
@@ -206,7 +205,6 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇳🇱NL | 🟢 | trojan | @ConfigsHUB | 11'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
   - name: URL-TEST
     type: url-test
@@ -254,7 +252,6 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇳🇱NL | 🟢 | trojan | @ConfigsHUB | 11'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
   - name: FALLBACK
     type: fallback
@@ -301,7 +298,6 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇳🇱NL | 🟢 | trojan | @ConfigsHUB | 11'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
