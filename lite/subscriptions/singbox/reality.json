@@ -101,7 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -111,7 +111,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 6",
+            "tag": "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
             "server": "165.22.54.50",
             "server_port": 8889,
