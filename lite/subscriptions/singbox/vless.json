@@ -107,7 +107,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
@@ -147,8 +147,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
@@ -179,7 +179,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
@@ -219,8 +219,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
@@ -443,7 +443,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1436,11 +1436,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "172.67.187.170",
-            "server_port": 443,
-            "uuid": "7781631b-b5d1-4643-9ba4-f58b759fb874",
+            "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1448,36 +1448,33 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "kachiina.thelastronin.cloudns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
                 "headers": {
-                    "Host": "kachiina.thelastronin.cloudns.org"
+                    "Host": "NUFiLTER.fastly80-3.hosting-ip.com"
                 }
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "185.146.173.52",
-            "server_port": 8880,
-            "uuid": "608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@VPNCUSTOMIZE\/@VPNCUSTOMIZE🧔🏼‍♂🧔🏼‍♂?ed=512",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
             }
         },
         {
