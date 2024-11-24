@@ -106,7 +106,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
@@ -146,10 +146,9 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -177,7 +176,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
@@ -217,10 +216,9 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -381,7 +379,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "54.163.114.112",
+            "server": "98.82.251.161",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -410,9 +408,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "54.195.246.100",
+            "server": "54.163.114.112",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1404,11 +1402,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "EXPRESSVPN_420.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-EXPRESSVPN_420",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "DIGIV2RAY",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1418,18 +1416,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420",
+                "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
                 "headers": {
-                    "Host": "EXPRESSVPN_420.fastly80-2.hosting-ip.com"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 2",
             "type": "vless",
-            "server": "151.101.194.228",
+            "server": "time.js",
             "server_port": 443,
-            "uuid": "f8275dfe-4fd7-46b2-8d6c-de1891afb443",
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1439,7 +1437,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "bwdraper.faculty.ucdavis.edu",
+                "server_name": "Bpb-WORkeR-PaNEL-BCr.paGeS.Dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1449,9 +1447,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/de?ed=1048",
+                "path": "\/RHxQDpvcfA8JxbcI?ed=2560",
                 "headers": {
-                    "Host": "bwdraper.faculty.ucdavis.edu"
+                    "Host": "Bpb-WORkeR-PaNEL-BCr.paGeS.Dev"
                 }
             }
         },
@@ -1483,37 +1481,6 @@
                 "path": "\/U3BrDPuR1EwhR8hX?ed=2560",
                 "headers": {
                     "Host": "BPb-worKer-pANEL-BcR.paGES.DEv"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
-            "type": "vless",
-            "server": "188.114.97.3",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bpB-wORKer-PANel-BcR.PaGES.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/R1f5GLtyM8Ep9zAi?ed=2560",
-                "headers": {
-                    "Host": "bpB-wORKer-PANel-BcR.PaGES.dev"
                 }
             }
         },
