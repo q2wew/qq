@@ -340,11 +340,14 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
-                "🚩CF | 🔴 | vless | @vless_vmess | 5",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
-                "🚩CF | 🔴 | vless | @vless_vmess | 11",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 12",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
+                "🚩CF | 🔴 | vless | @vless_vmess | 9",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 13",
+                "🚩CF | 🔴 | vless | @vless_vmess | 15",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 16",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -395,9 +398,9 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
@@ -729,11 +732,14 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
-                "🚩CF | 🔴 | vless | @vless_vmess | 5",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
-                "🚩CF | 🔴 | vless | @vless_vmess | 11",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 12",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
+                "🚩CF | 🔴 | vless | @vless_vmess | 9",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 13",
+                "🚩CF | 🔴 | vless | @vless_vmess | 15",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 16",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -784,9 +790,9 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
@@ -6748,6 +6754,79 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
             "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 443,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mio.splashthat.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "mio.splashthat.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+            "type": "vless",
+            "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
+            "type": "vless",
+            "server": "NUFiLTER.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
+            "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
             "uuid": "fffa635a-174a-4d68-b9c6-9b8d87020f47",
@@ -6767,7 +6846,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -6788,7 +6867,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 5",
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 9",
             "type": "vless",
             "server": "104.17.214.22",
             "server_port": 443,
@@ -6819,7 +6898,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 13",
             "type": "vless",
             "server": "ru2.pls-hope.ir",
             "server_port": 2095,
@@ -6833,7 +6912,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 11",
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.207.36",
             "server_port": 8443,
@@ -6864,7 +6943,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -8256,21 +8335,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
             "type": "vless",
-            "server": "172.66.47.146",
+            "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "8ab0ad08-4804-41e4-a385-6e87543972fd",
+            "uuid": "8a3105f2-a816-4287-9d46-c4f3a780e767",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned=2560",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -8291,11 +8377,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "8a3105f2-a816-4287-9d46-c4f3a780e767",
+            "server": "live.theworldwidewolf.com",
+            "server_port": 443,
+            "uuid": "5a7f8259-8e88-47eb-a910-a746d2f58820",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8303,11 +8389,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.theworldwidewolf.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned=2560",
+                "path": "\/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws\/",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "live.theworldwidewolf.com"
                 }
             }
         },
