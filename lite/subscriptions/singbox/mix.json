@@ -104,7 +104,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 36",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 37",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
@@ -152,15 +152,15 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 8",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 9",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -185,7 +185,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 36",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 37",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
@@ -233,15 +233,15 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 8",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 9",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -368,7 +368,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1544,11 +1544,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "202.60.191.6",
-            "server_port": 17922,
-            "uuid": "de44b044-8f90-4e18-b742-16591667ff96",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "telegram-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1556,50 +1556,32 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "edgetunnel-free.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "edgetunnel-free.pages.dev"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 9",
-            "type": "trojan",
-            "server": "104.16.192.1",
-            "server_port": 443,
-            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "151.101.194.165",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "sherasheba.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/6b777a91",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER-telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
                 "headers": {
-                    "Host": "sherasheba.com"
+                    "Host": "151.101.194.165"
                 }
             }
         },
@@ -1753,7 +1735,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "194.87.31.160",
             "server_port": 8081,
@@ -1770,7 +1752,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "104.17.147.22",
             "server_port": 8880,
