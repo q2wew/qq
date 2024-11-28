@@ -112,6 +112,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 9",
+                "🇦🇲AM | 🟢 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -128,7 +129,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 7"
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 8"
             ]
         },
         {
@@ -145,6 +146,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 9",
+                "🇦🇲AM | 🟢 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -161,7 +163,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 7"
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -424,6 +426,35 @@
                     "enabled": true,
                     "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
                     "short_id": "3a622700e73c6642"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇲AM | 🟢 | vless | @ConfigsHUB | 13",
+            "type": "vless",
+            "server": "213.108.23.243",
+            "server_port": 26926,
+            "uuid": "93116f8b-f5b7-4811-9ee0-baafdde330c3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8",
+                    "short_id": "435d625ae815"
                 }
             }
         },
@@ -997,7 +1028,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 7",
+            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 8",
             "type": "vless",
             "server": "188.245.67.23",
             "server_port": 50875,
