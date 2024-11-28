@@ -142,8 +142,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -206,8 +206,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -1288,11 +1288,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "104.21.59.145",
+            "server": "104.19.216.72",
             "server_port": 443,
-            "uuid": "468d811a-8540-4517-9779-0f542b5150d2",
+            "uuid": "714c776d-ccf4-57db-97b2-3628ae1f1b3d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1302,7 +1302,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "PPal03.luCIEN-isAak.WOrkeRS.dEV",
+                "server_name": "ztv2ray.teyekas893.wORKeRS.DEV",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1312,31 +1312,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/je0xBlZdnSJJ7NFf?ed=2560",
+                "path": "\/vless-ws\/",
                 "headers": {
-                    "Host": "PPal03.luCIEN-isAak.WOrkeRS.dEV"
+                    "Host": "ztv2ray.teyekas893.wORKeRS.DEV"
                 }
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 8080,
-            "uuid": "801e6d41-930e-4eb8-bd7d-547404198deb",
+            "server": "185.119.240.34",
+            "server_port": 4009,
+            "uuid": "c97861ff-0b79-44df-9019-6f8b5dd796ee",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/servernett",
-                "headers": {
-                    "Host": "185.146.173.58"
-                }
             }
         },
         {
