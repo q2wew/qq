@@ -115,7 +115,6 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 6",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 13",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -130,7 +129,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 10",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -153,7 +151,6 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 6",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 13",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -168,7 +165,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 10",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -463,23 +459,6 @@
                 "headers": {
                     "Host": "cs.putihb.org"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 13",
-            "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "TELEGRAM-WHAL-FREE33",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -800,23 +779,6 @@
             "uuid": "ccabaab-bcaa-bcaa-dbca-acabbacbbcca",
             "security": "auto",
             "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
-            "type": "vmess",
-            "server": "142.0.134.242",
-            "server_port": 45017,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
