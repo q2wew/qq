@@ -383,7 +383,9 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -748,7 +750,9 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -7866,6 +7870,27 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
             "type": "vless",
+            "server": "NUFiLTER.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "dd1db063-d419-4ab7-9eba-ddc972300de8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80-2.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+            "type": "vless",
             "server": "Zmaoz.Faculty.UcdavIS.Edu",
             "server_port": 443,
             "uuid": "347c666a-f909-4394-f5b2-715e914db254",
@@ -7895,11 +7920,42 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
             "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8880,
-            "uuid": "b1a721d3-df5d-4c64-b75b-f799493140d7",
+            "server": "172.65.90.52",
+            "server_port": 2096,
+            "uuid": "263497fb-9ae2-4f7b-94c6-b0179e480448",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mOOn-AZaDNet.PAgeS.DeV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/gyUbkW525zXZfMgC?ed=2560",
+                "headers": {
+                    "Host": "mOOn-AZaDNet.PAgeS.DeV"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 80,
+            "uuid": "043d66f3-2147-4e62-8503-5fd9626acb5f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -7909,9 +7965,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/@Daily_Cofnigs,@Daily_Cofnigs,@Daily_Cofnigs?ed=2560",
                 "headers": {
-                    "Host": "104.17.148.22"
+                    "Host": "104.17.147.22"
                 }
             }
         },
