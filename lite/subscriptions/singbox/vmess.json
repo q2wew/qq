@@ -103,6 +103,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 16",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
@@ -117,6 +118,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 16",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
@@ -209,6 +211,23 @@
                 "headers": {
                     "Host": "cs.putihb.org"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 16",
+            "type": "vmess",
+            "server": "94.130.190.88",
+            "server_port": 7610,
+            "uuid": "5480b44f-5823-4246-bb8e-8a371da6dc4c",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
