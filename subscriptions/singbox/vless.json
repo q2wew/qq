@@ -322,12 +322,12 @@
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 11",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 13",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
+                "🚩CF | 🔴 | vless | @vless_vmess | 8",
                 "🚩CF | 🔴 | vless | @vless_vmess | 9",
                 "🚩CF | 🔴 | vless | @vless_vmess | 10",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 13",
@@ -382,10 +382,9 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -689,12 +688,12 @@
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 11",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 13",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
+                "🚩CF | 🔴 | vless | @vless_vmess | 8",
                 "🚩CF | 🔴 | vless | @vless_vmess | 9",
                 "🚩CF | 🔴 | vless | @vless_vmess | 10",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 13",
@@ -749,10 +748,9 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -6254,37 +6252,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 13",
-            "type": "vless",
-            "server": "172.67.187.170",
-            "server_port": 443,
-            "uuid": "7781631b-b5d1-4643-9ba4-f58b759fb874",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kachiina.thelastronin.cloudns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "kachiina.thelastronin.cloudns.org"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 0",
             "type": "vless",
             "server": "151.101.194.133",
@@ -6396,6 +6363,37 @@
                 "path": "\/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480",
                 "headers": {
                     "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 8",
+            "type": "vless",
+            "server": "172.67.187.170",
+            "server_port": 443,
+            "uuid": "7781631b-b5d1-4643-9ba4-f58b759fb874",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kachiina.thelastronin.cloudns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "kachiina.thelastronin.cloudns.org"
                 }
             }
         },
@@ -7868,28 +7866,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-            "type": "vless",
-            "server": "NUFiLTER.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "dd1db063-d419-4ab7-9eba-ddc972300de8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed",
-                "headers": {
-                    "Host": "NUFiLTER.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
             "type": "vless",
             "server": "Zmaoz.Faculty.UcdavIS.Edu",
             "server_port": 443,
@@ -7920,11 +7897,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 10",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
             "type": "vless",
-            "server": "172.65.90.52",
-            "server_port": 2096,
-            "uuid": "263497fb-9ae2-4f7b-94c6-b0179e480448",
+            "server": "104.17.148.22",
+            "server_port": 2086,
+            "uuid": "8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -7932,30 +7909,20 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "mOOn-AZaDNet.PAgeS.DeV",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/gyUbkW525zXZfMgC?ed=2560",
+                "path": "\/----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN",
                 "headers": {
-                    "Host": "mOOn-AZaDNet.PAgeS.DeV"
+                    "Host": "104.17.148.22"
                 }
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "104.17.147.22",
+            "server": "NUFiLTER.fastly80-2.hosting-ip.com",
             "server_port": 80,
-            "uuid": "043d66f3-2147-4e62-8503-5fd9626acb5f",
+            "uuid": "dd1db063-d419-4ab7-9eba-ddc972300de8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -7965,9 +7932,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@Daily_Cofnigs,@Daily_Cofnigs,@Daily_Cofnigs?ed=2560",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed",
                 "headers": {
-                    "Host": "104.17.147.22"
+                    "Host": "NUFiLTER.fastly80-2.hosting-ip.com"
                 }
             }
         },
