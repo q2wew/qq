@@ -122,8 +122,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 4",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 13",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -153,8 +153,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 4",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 13",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -471,9 +471,9 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
             "type": "vmess",
-            "server": "www.parsvds.com",
-            "server_port": 2087,
-            "uuid": "ad0a8c49-0785-46d9-bb14-2c3ab03a5dbb",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "fc8a0aa1-7897-4389-bee6-b0baaab587fb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -484,21 +484,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "OfFEr.miRAcLestorY.ToP.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "OfFEr.miRAcLestorY.ToP."
+                    "Host": ""
                 }
             }
         },
@@ -653,7 +643,31 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "176.32.33.158",
+            "server_port": 6191,
+            "uuid": "28f6d888-cbc5-4210-8cd2-b40cf566d9a8",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "62.112.221.47",
             "server_port": 3939,
@@ -667,40 +681,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
-            "type": "vmess",
-            "server": "104.21.84.114",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 1,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "be.hkddisney.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "be.hkddisney.org"
-                }
             }
         },
         {
