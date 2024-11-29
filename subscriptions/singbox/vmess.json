@@ -113,15 +113,15 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 6",
+                "🇩🇪DE | 🟢 | vmess | @customv2ray | 6",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 2",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 3",
@@ -134,7 +134,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 10",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 11",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 12",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 13",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 10",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -155,15 +154,15 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 6",
+                "🇩🇪DE | 🟢 | vmess | @customv2ray | 6",
                 "❔XX | 🟢 | vmess | @vless_vmess | 14",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 2",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 3",
@@ -176,7 +175,6 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 10",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 11",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 12",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 13",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 10",
                 "🇺🇸US | 🟢 | vmess | @ISVvpn | 1"
@@ -406,7 +404,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @customv2ray | 6",
+            "tag": "🇩🇪DE | 🟢 | vmess | @customv2ray | 6",
             "type": "vmess",
             "server": "denc36.xtooltech.cfd",
             "server_port": 443,
@@ -474,11 +472,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
             "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "fc8a0aa1-7897-4389-bee6-b0baaab587fb",
+            "server": "38.75.137.27",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -488,13 +486,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
@@ -648,7 +639,41 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "d.ritchier.info",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 1,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "d.ritchier.info",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "d.ritchier.info"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "172.64.99.22",
             "server_port": 2095,
@@ -672,7 +697,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "198.41.209.70",
             "server_port": 80,
@@ -696,7 +721,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "104.21.238.40",
             "server_port": 8880,
@@ -720,7 +745,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "104.21.238.135",
             "server_port": 2082,
@@ -744,7 +769,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "104.21.238.244",
             "server_port": 2086,
@@ -768,7 +793,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "104.21.238.148",
             "server_port": 2086,
@@ -792,7 +817,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 7",
             "type": "vmess",
             "server": "104.26.0.231",
             "server_port": 2086,
@@ -816,7 +841,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "104.21.238.183",
             "server_port": 2082,
@@ -840,7 +865,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "104.21.238.187",
             "server_port": 2082,
@@ -864,7 +889,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 10",
             "type": "vmess",
             "server": "104.21.238.216",
             "server_port": 2082,
@@ -888,7 +913,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
             "server": "104.26.0.7",
             "server_port": 2095,
@@ -912,7 +937,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 11",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 12",
             "type": "vmess",
             "server": "104.21.238.228",
             "server_port": 2095,
@@ -932,54 +957,6 @@
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
                     "Host": "104.21.238.228"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 12",
-            "type": "vmess",
-            "server": "104.26.0.119",
-            "server_port": 2095,
-            "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "104.26.0.119"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 13",
-            "type": "vmess",
-            "server": "104.21.238.200",
-            "server_port": 2086,
-            "uuid": "bc65fac2-7dc7-426f-acdd-0779a5035bde",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "104.21.238.200"
                 }
             }
         },
