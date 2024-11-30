@@ -146,6 +146,7 @@ proxies:
   - {"name":"🇨🇦CA | 🟢 | trojan | @DirectVPN | 11","type":"trojan","server":"52.60.190.229","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇦CA | 🟢 | trojan | @DirectVPN | 12","type":"trojan","server":"3.98.149.151","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇮🇪IE | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"54.78.33.85","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🚩CF | 🔴 | trojan | @v2ray1_ng | 16","type":"trojan","server":"141.101.114.52","port":443,"udp":false,"password":"bpb-trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"fcspring.ggff.net"}
   - {"name":"🚩CF | 🔴 | trojan | @proxystore11 | 0","type":"trojan","server":"104.17.102.149","port":2053,"udp":false,"password":"bpb-trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"bpb-WorkEr-panel-bcr.PagEs.DEv"}
   - {"name":"🇨🇦CA | 🔴 | trojan | @kingofilter | 5","type":"trojan","server":"135.84.79.80","port":443,"udp":false,"password":"dns68","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.putata.us.kg"}
 proxy-groups:
@@ -182,6 +183,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇮🇪IE | 🟢 | trojan | @DirectVPN | 13'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 16'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
       - '🇨🇦CA | 🔴 | trojan | @kingofilter | 5'
   - name: URL-TEST
@@ -218,6 +220,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇮🇪IE | 🟢 | trojan | @DirectVPN | 13'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 16'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
       - '🇨🇦CA | 🔴 | trojan | @kingofilter | 5'
   - name: FALLBACK
@@ -253,6 +256,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 11'
       - '🇨🇦CA | 🟢 | trojan | @DirectVPN | 12'
       - '🇮🇪IE | 🟢 | trojan | @DirectVPN | 13'
+      - '🚩CF | 🔴 | trojan | @v2ray1_ng | 16'
       - '🚩CF | 🔴 | trojan | @proxystore11 | 0'
       - '🇨🇦CA | 🔴 | trojan | @kingofilter | 5'
 rules:
