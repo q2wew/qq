@@ -144,7 +144,7 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -210,7 +210,7 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -1359,11 +1359,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "Zmaoz.Faculty.UcdavIS.Edu",
+            "server": "104.21.80.12",
             "server_port": 443,
-            "uuid": "3c0f245a-33a0-4492-9cd0-56dfa471bff9",
+            "uuid": "e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1373,7 +1373,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "Zmaoz.Faculty.UcdavIS.Edu.",
+                "server_name": "easynet23.gosomok252.workers.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1383,9 +1383,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@melov2ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=2048",
+                "path": "\/",
                 "headers": {
-                    "Host": "Zmaoz.Faculty.UcdavIS.Edu."
+                    "Host": "easynet23.gosomok252.workers.dev"
                 }
             }
         },
