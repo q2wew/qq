@@ -100,11 +100,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -141,7 +142,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -165,11 +167,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -206,7 +209,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -246,11 +250,42 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
+            "type": "vless",
+            "server": "Zmaoz.Faculty.Ucdavis.Edu",
+            "server_port": 443,
+            "uuid": "Parsashonam-112",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Parsashonam\/ws?ed=2560",
+                "headers": {
+                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-111",
+            "uuid": "Parsashonam-112",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -307,7 +342,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "15.236.245.146",
+            "server": "15.188.135.67",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -336,9 +371,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "18.159.193.81",
+            "server": "15.236.245.146",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1276,17 +1311,65 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "108.162.194.150",
-            "server_port": 2082,
-            "uuid": "38989afd-856f-4d23-a5f6-3da7e3eb86fc",
+            "server": "104.18.8.209",
+            "server_port": 2053,
+            "uuid": "1af8b2d6-213d-49ce-9bc9-ffbdc5830c35",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "EDGETunnel-AMl.pages.DEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-Daily_Configs-Daily_Configs\/?ed=2560",
+                "headers": {
+                    "Host": "EDGETunnel-AMl.pages.DEV"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "dart.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "98d15952-07aa-5331-b67f-0c2f8a60d0a6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "forestbiology.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-Daily_Configs-Daily_Configs\/?ed=2560",
+                "headers": {
+                    "Host": "forestbiology.ucdavis.edu"
+                }
             }
         },
         {
