@@ -112,7 +112,6 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 7",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -146,7 +145,6 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 7",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -427,35 +425,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 7",
-            "type": "vless",
-            "server": "147.45.179.104",
-            "server_port": 2040,
-            "uuid": "88f8642d-0c29-4e8c-af5f-360ff79d13bf",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tradingview.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Xe6ulIwaXh6rCT1UfqYdDR_ZP0erRgDNlUVwI-I7uB8",
-                    "short_id": ""
-                }
             }
         },
         {
