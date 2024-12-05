@@ -150,7 +150,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 318",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -231,7 +232,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 318",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -1551,11 +1553,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "visa.com",
-            "server_port": 80,
-            "uuid": "f846c7b2-eca6-496a-9716-134e1b253be5",
+            "server": "live.989bull.com",
+            "server_port": 443,
+            "uuid": "ID-ViraV2ray-5050",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1563,11 +1565,45 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.989bull.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/@Hqv2RayNG?ed=2480",
+                "path": "\/digikala.com\/login\/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=443",
                 "headers": {
-                    "Host": "visa.com"
+                    "Host": "live.989bull.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "104.17.148.22",
+            "server_port": 2053,
+            "uuid": "ca719d36-6fa3-4dcd-f7d0-29ed568f17bb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.piazon.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
