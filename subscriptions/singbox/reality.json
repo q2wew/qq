@@ -115,8 +115,8 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🟢 | vless | @VmessProtocol | 7",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -131,8 +131,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
-                "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 20"
+                "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
         },
         {
@@ -152,8 +151,8 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🟢 | vless | @VmessProtocol | 7",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -168,8 +167,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
-                "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 20"
+                "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -523,7 +521,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "172.235.143.157",
             "server_port": 80,
@@ -552,7 +550,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
             "type": "vless",
             "server": "join.v2rynng.darkping.net",
             "server_port": 1633,
@@ -1118,35 +1116,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 20",
-            "type": "vless",
-            "server": "188.245.67.23",
-            "server_port": 50875,
-            "uuid": "c341bdd5-038c-4a83-8519-b21c88ab6c27",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "business.stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4",
-                    "short_id": "a51aabe09367"
-                }
             }
         }
     ],
