@@ -124,7 +124,7 @@ proxies:
   - {"name":"🇨🇦CA | 🔴 | vless | @XsV2ray | 14","type":"vless","server":"zula.ir","port":2083,"udp":false,"uuid":"81dabced-dd35-445b-83fa-9ee3d786d97c","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"Xs.bo3kot.com","grpc-opts":{"grpc-service-name":"@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray"}}
   - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 14","type":"vless","server":"13.38.255.251","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
   - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 15","type":"vless","server":"13.36.69.166","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5","type":"vless","server":"visa.com.co","port":80,"udp":false,"uuid":"50e2cab1-c919-434d-a7d4-78dcd42fe963","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"www.speedtest.net","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2560","headers":{"host":"aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.VPNCUSTOMIZE.IraniBzai.com"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5","type":"vless","server":"visa.com.co","port":80,"udp":false,"uuid":"50e2cab1-c919-434d-a7d4-78dcd42fe963","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"www.speedtest.net","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2560","headers":{"host":"aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.VPNCUSTOMIZE.IraniBzai.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 22","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"d84a7372-305e-4064-bf4a-fe048801aeb4","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048","headers":{"host":"barkatc2.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 23","type":"vless","server":"Www.speedtest.net","port":8080,"udp":false,"uuid":"3a6ea2e7-e181-4595-9812-7faccf4955f6","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @frev2ray | 11","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"1ada4aaf-77e6-4890-9efc-7a5048c20010","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray?ed=2560","headers":{"host":"my.shad.ir"}}}
@@ -172,7 +172,7 @@ proxy-groups:
       - '🇨🇦CA | 🔴 | vless | @XsV2ray | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 15'
-      - '🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5'
+      - '🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 22'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 23'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 11'
@@ -220,7 +220,7 @@ proxy-groups:
       - '🇨🇦CA | 🔴 | vless | @XsV2ray | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 15'
-      - '🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5'
+      - '🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 22'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 23'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 11'
@@ -267,7 +267,7 @@ proxy-groups:
       - '🇨🇦CA | 🔴 | vless | @XsV2ray | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 14'
       - '🇫🇷FR | 🔴 | vless | @VlessConfig | 15'
-      - '🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5'
+      - '🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 22'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 23'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 11'
