@@ -103,8 +103,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 22",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 23",
@@ -137,7 +137,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 301",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -164,8 +165,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 22",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 23",
@@ -198,7 +199,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 301",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -297,9 +299,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "51.44.43.28",
+            "server": "13.43.242.147",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -328,9 +330,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "35.181.175.134",
+            "server": "18.170.144.94",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1145,12 +1147,12 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "ca.569520.xyz",
-            "server_port": 20002,
-            "uuid": "c7716936-798d-4237-b101-2d914e6d543a",
-            "flow": "xtls-rprx-vision",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "0e0ac2f4-3f2b-4d87-9eab-36f952f1d733",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1159,17 +1161,40 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "bis024.vse.cz",
+                "server_name": "hajlab.ucdavis.edu",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kmzzVOW3Nyf9hSsK27C_mR3tk4yi1vtZ6MQnWjqZnQg",
-                    "short_id": "d4b2b218"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
+            "type": "vless",
+            "server": "clearcreditrepair.com",
+            "server_port": 443,
+            "uuid": "aa6f3d6e-f835-46ab-e35e-71828493ec4f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/melo\/ws?e",
+                "headers": {
+                    "Host": "clearcreditrepair.com"
                 }
             }
         },
