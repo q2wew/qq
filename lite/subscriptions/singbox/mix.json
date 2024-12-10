@@ -147,10 +147,11 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
+                "❔XX | 🟢 | vmess | @Hope_Net | 13",
+                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
@@ -220,10 +221,11 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
+                "❔XX | 🟢 | vmess | @Hope_Net | 13",
+                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
@@ -1374,9 +1376,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "clearcreditrepair.com",
-            "server_port": 443,
-            "uuid": "aa6f3d6e-f835-46ab-e35e-71828493ec4f",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "e9978c18-0465-47e8-9c20-63d5549c8a60",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1386,9 +1388,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/melo\/ws?e",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443",
                 "headers": {
-                    "Host": "clearcreditrepair.com"
+                    "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "39d5ea22-1c73-4b12-8b5b-2be82c78add8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443",
+                "headers": {
+                    "Host": "151.101.3.8"
                 }
             }
         },
@@ -1451,7 +1474,24 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 13",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "bcaabca-acab-baca-abcd-ccbbcbcaaaab",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇵🇱PL | 🟢 | vmess | @Hope_Net | 14",
             "type": "vmess",
             "server": "188.68.234.53",
             "server_port": 24664,
@@ -1472,23 +1512,6 @@
                 "headers": {
                     "Host": ""
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
-            "type": "vmess",
-            "server": "142.0.134.243",
-            "server_port": 45017,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
