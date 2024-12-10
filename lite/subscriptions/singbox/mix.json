@@ -141,7 +141,6 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 7",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 298",
@@ -151,7 +150,7 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 15",
-                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 16",
+                "❔XX | 🟢 | vmess | @Hope_Net | 16",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
@@ -215,7 +214,6 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 7",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 298",
@@ -225,7 +223,7 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 15",
-                "🇵🇱PL | 🟢 | vmess | @Hope_Net | 16",
+                "❔XX | 🟢 | vmess | @Hope_Net | 16",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
@@ -1229,37 +1227,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
-            "type": "vless",
-            "server": "104.21.49.114",
-            "server_port": 443,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "a.xn--i-sx6a60i.us.kg",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "a.xn--i-sx6a60i.us.kg"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @MTConfig | 13",
             "type": "vless",
             "server": "o.mmd111.sbs",
@@ -1376,7 +1343,28 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "WeB.blUwAVe.iR",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "104.17.14.75",
             "server_port": 2095,
             "uuid": "f050cff5-f3a5-4d88-b653-e70fac34dd24",
             "flow": "",
@@ -1385,37 +1373,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 443,
-            "uuid": "357027be-f167-41c3-a878-aa64f6284761",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "12863995741163367406554084809141.v2line.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/v2line-paris-france-vl-ws-tls-advanced",
-                "headers": {
-                    "Host": "12863995741163367406554084809141.v2line.net"
-                }
             }
         },
         {
@@ -1481,7 +1438,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
-            "uuid": "bcaabca-acab-baca-abcd-ccbbcbcaaaab",
+            "uuid": "ababcca-abac-acab-dabc-caaacbbbcbca",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1494,11 +1451,11 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vmess | @Hope_Net | 16",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 16",
             "type": "vmess",
-            "server": "188.68.234.53",
-            "server_port": 24664,
-            "uuid": "bc97f674-c578-4940-9234-0a1da46041b9",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "bcaabca-acab-baca-abcd-ccbbcbcaaaab",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1508,13 +1465,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
