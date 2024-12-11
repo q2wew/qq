@@ -100,12 +100,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 28",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 22",
                 "❔XX | 🔴 | vless | @ipV2Ray | 23",
@@ -142,16 +142,15 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 8",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 5",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 6",
                 "❔XX | 🔴 | vless | @flyv2ray | 7",
                 "❔XX | 🔴 | vless | @flyv2ray | 8",
+                "❔XX | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @mehrosaboran | 9",
-                "❔XX | 🔴 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -167,12 +166,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 28",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 22",
                 "❔XX | 🔴 | vless | @ipV2Ray | 23",
@@ -209,16 +208,15 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 8",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 5",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 6",
                 "❔XX | 🔴 | vless | @flyv2ray | 7",
                 "❔XX | 🔴 | vless | @flyv2ray | 8",
+                "❔XX | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @mehrosaboran | 9",
-                "❔XX | 🔴 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -250,7 +248,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 28",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -281,7 +279,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -342,7 +340,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "15.188.151.224",
+            "server": "13.38.196.50",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -371,9 +369,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "35.157.46.218",
+            "server": "15.188.151.224",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1256,55 +1254,17 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 17",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "mcc.rayanfmusic.ir",
-            "server_port": 2096,
-            "uuid": "e0ba3fab-ee37-4426-a738-34e297fb8aeb",
+            "server": "116.203.201.23",
+            "server_port": 9595,
+            "uuid": "f6f183ff-6bdf-4596-88d3-165feab4417f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mcc.rayanfmusic.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed=2096",
-                "headers": {
-                    "Host": "mcc.rayanfmusic.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "EXPRESSVPN_420.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "14c013ed-5577-4618-bd0d-53133a898348",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420",
-                "headers": {
-                    "Host": "EXPRESSVPN_420.fastly80-3.hosting-ip.com"
-                }
             }
         },
         {
@@ -1415,6 +1375,27 @@
         {
             "tag": "❔XX | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
+            "server": "151.101.128.155",
+            "server_port": 80,
+            "uuid": "7bcf2287-2787-4bd6-b445-028643268169",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
+                "headers": {
+                    "Host": "151.101.128.155"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 8",
+            "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "b7b5990f-cd48-45ad-b1d9-ce88b5010961",
@@ -1434,11 +1415,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @flyv2ray | 8",
+            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 8",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "edccdb86-d9d8-4651-b764-c8f9ecccc835",
+            "server": "162.159.152.2",
+            "server_port": 80,
+            "uuid": "19d13bed-b8c5-4443-920e-12f833fed576",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1448,9 +1429,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/melo\/",
+                "path": "\/xmlrpc.php\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=1080",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "162.159.152.2"
                 }
             }
         },
@@ -1472,37 +1453,6 @@
                 "path": "\/xmlrpc.php?ed=1080",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 10",
-            "type": "vless",
-            "server": "connectcarolina.sites.unc.edu",
-            "server_port": 443,
-            "uuid": "tel--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "connectcarolina.sites.unc.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "connectcarolina.sites.unc.edu"
                 }
             }
         },
