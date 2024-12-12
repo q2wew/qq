@@ -140,7 +140,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
@@ -204,7 +205,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
@@ -1188,17 +1190,48 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 2086,
-            "uuid": "6183515f-5051-49f9-edd9-b8f1050340af",
+            "server": "185.146.173.39",
+            "server_port": 8880,
+            "uuid": "Parsashonam-127",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "mio.splashthat.com",
+            "server_port": 443,
+            "uuid": "14c013ed-5577-4618-bd0d-53133a898348",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.skornorth.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420",
+                "headers": {
+                    "Host": "live.skornorth.com"
+                }
             }
         },
         {
