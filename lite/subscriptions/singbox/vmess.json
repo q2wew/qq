@@ -102,11 +102,11 @@
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 13",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5"
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 4"
             ]
         },
         {
@@ -115,11 +115,11 @@
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 13",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5"
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -193,11 +193,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 13",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
             "type": "vmess",
-            "server": "app2.demo313.top",
-            "server_port": 6060,
-            "uuid": "0803b285-7d20-422c-a26d-080ad0611d70",
+            "server": "172.67.68.87",
+            "server_port": 8443,
+            "uuid": "a617b227-028b-420f-928f-e8c9ca551346",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -207,6 +207,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "recordemailprevent.tickespace.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ordemailpr?@TEHRANARGO-@TEHRANARGO?ed=2560",
+                "headers": {
+                    "Host": "recordemailprevent.tickespace.ir"
+                }
             }
         },
         {
@@ -268,11 +285,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "babccaa-baac-abac-dabc-cbaaabcbbacc",
+            "server_port": 8080,
+            "uuid": "acbcaab-caba-caba-abcd-cbbbccabcaaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -285,11 +302,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
-            "server": "sgp1.tiljkc.top",
-            "server_port": 34842,
-            "uuid": "edd1ca31-bdf4-377e-bc3a-76635a33c9cd",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "babccaa-baac-abac-dabc-cbaaabcbbacc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
