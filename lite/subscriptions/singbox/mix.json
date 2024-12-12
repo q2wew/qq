@@ -105,7 +105,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
+                "❔XX | 🔴 | vless | @ipV2Ray | 19",
                 "❔XX | 🔴 | vless | @ipV2Ray | 20",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
@@ -147,13 +147,13 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🔴 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 16",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🔴 | vless | @fnet00 | 8",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 7",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 8",
@@ -180,7 +180,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
+                "❔XX | 🔴 | vless | @ipV2Ray | 19",
                 "❔XX | 🔴 | vless | @ipV2Ray | 20",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
@@ -222,13 +222,13 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🔴 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 16",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🔴 | vless | @fnet00 | 8",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 7",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 8",
@@ -387,7 +387,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
+            "tag": "❔XX | 🔴 | vless | @ipV2Ray | 19",
             "type": "vless",
             "server": "116.203.108.70",
             "server_port": 80,
@@ -1400,45 +1400,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 14",
-            "type": "vmess",
-            "server": "hms24.ivideos.sbs",
-            "server_port": 443,
-            "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ivideos.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "ivideos.sbs"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "EXPRESSVPN_420.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "0fb47308-da7c-4b51-88e8-41bcc9d2a49f",
+            "server": "185.146.173.58",
+            "server_port": 8080,
+            "uuid": "ef4def1d-a5e3-4f4a-86fc-6de8505514e4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1448,9 +1414,40 @@
             },
             "transport": {
                 "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.146.173.58"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "mio.splashthat.com",
+            "server_port": 443,
+            "uuid": "0fb47308-da7c-4b51-88e8-41bcc9d2a49f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.skornorth.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
                 "path": "\/@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420------@EXPRESSVPN_420",
                 "headers": {
-                    "Host": "EXPRESSVPN_420.fast.hosting-ip.com"
+                    "Host": "live.skornorth.com"
                 }
             }
         },
@@ -1544,7 +1541,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -1561,7 +1558,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "45.159.219.89",
             "server_port": 2082,
