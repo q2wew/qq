@@ -138,6 +138,10 @@
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 11",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 14",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
@@ -410,12 +414,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 233",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 0",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @proxystore11 | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -525,6 +524,10 @@
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 11",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 14",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
@@ -797,12 +800,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 233",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 0",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @proxystore11 | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
@@ -1725,6 +1723,130 @@
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "13.39.136.76",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 14",
+            "type": "vless",
+            "server": "3.97.72.109",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+            "type": "vless",
+            "server": "15.223.165.79",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+            "type": "vless",
+            "server": "54.211.170.174",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+            "type": "vless",
+            "server": "35.175.86.113",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -8506,116 +8628,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "209.250.227.192",
-            "server_port": 2048,
-            "uuid": "08074685-1f9b-419b-87ea-c2c9d51b9461",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
-            "type": "vless",
-            "server": "live.skornorth.com",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.skornorth.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "live.skornorth.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-            "type": "vless",
-            "server": "pscresearch.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "40794205-2963-43ef-9f32-9808513b78b5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pscresearch.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws\/",
-                "headers": {
-                    "Host": "pscresearch.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 4",
-            "type": "vless",
-            "server": "mx1ccfa.matrix-shop8.ir",
-            "server_port": 1022,
-            "uuid": "19b3d5d3-b1e4-4eb3-aa10-ee63e0ca4a9b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "O4PXR1eZRuubpri7ajbJBfhv3L7ZiJZbgZ80BGzN1X0",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-            "type": "vless",
-            "server": "151.101.3.8",
+            "server": "bg.com",
             "server_port": 80,
-            "uuid": "5e32df7f-dbf7-5bb8-8a37-c189e11365e6",
+            "uuid": "16f76e48-b7ca-4540-a3b1-3a7c5eea2468",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8625,40 +8642,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/vless?ed=1048",
+                "path": "\/?ed=2056",
                 "headers": {
-                    "Host": "151.101.3.8"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
-            "type": "vless",
-            "server": "live.989bull.com",
-            "server_port": 443,
-            "uuid": "SAVTEAM6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.989bull.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443",
-                "headers": {
-                    "Host": "live.989bull.com"
+                    "Host": "bg.com"
                 }
             }
         },
