@@ -100,11 +100,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 26",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -138,12 +139,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇷🇺RU | 🟢 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 233",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇧🇬BG | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
@@ -162,11 +165,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 26",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -200,12 +204,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇷🇺RU | 🟢 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 233",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇧🇬BG | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
@@ -240,11 +246,42 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 26",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 23",
+            "type": "vless",
+            "server": "Zmaoz.Faculty.Ucdavis.Edu",
+            "server_port": 443,
+            "uuid": "Parsashonam-124",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Parsashonam\/ws?ed=2560",
+                "headers": {
+                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 24",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-123",
+            "uuid": "Parsashonam-124",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -299,9 +336,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "15.223.165.79",
+            "server": "13.39.136.76",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -330,9 +367,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "54.211.170.174",
+            "server": "3.97.72.109",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1145,6 +1182,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 233",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "429b2da1-0510-4683-8962-3b719b8464bf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
@@ -1176,11 +1244,42 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
             "type": "vless",
-            "server": "hajlab.ucdavis.edu",
+            "server": "52.1.158.32",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 5",
+            "type": "vless",
+            "server": "bg.com",
             "server_port": 80,
-            "uuid": "429b2da1-0510-4683-8962-3b719b8464bf",
+            "uuid": "16f76e48-b7ca-4540-a3b1-3a7c5eea2468",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1190,9 +1289,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/?ed=2056",
                 "headers": {
-                    "Host": "hajlab.ucdavis.edu"
+                    "Host": "bg.com"
                 }
             }
         },
@@ -1242,10 +1341,10 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
-            "server": "www.gov.ua",
-            "server_port": 2096,
+            "server": "icook.hk",
+            "server_port": 443,
             "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1273,11 +1372,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
-            "server": "spd.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "b9e935e3-6e39-41da-bf8e-2631e0c3f579",
+            "server": "www.gov.ua",
+            "server_port": 2096,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1285,11 +1384,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "3-545425.huangyurong.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/SPdnet",
+                "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "spd.fastly80-3.hosting-ip.com"
+                    "Host": "3-545425.huangyurong.cfd"
                 }
             }
         },
