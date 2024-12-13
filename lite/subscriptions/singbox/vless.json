@@ -140,8 +140,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 7",
@@ -203,8 +203,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 7",
@@ -1219,11 +1219,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "atrapalotickets.com",
+            "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "c7953896-7bb2-4ce2-c7ca-117b2678b47f",
+            "uuid": "Parsashonam-128",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1233,7 +1233,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "atrapalotickets.com.",
+                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1243,18 +1243,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/melo\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=2048",
+                "path": "\/@Parsashonam\/ws?ed=2560",
                 "headers": {
-                    "Host": "atrapalotickets.com."
+                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "172.67.204.84",
-            "server_port": 8443,
-            "uuid": "0dd5a4f8-b442-4f2b-b134-6ea57bb14dcc",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "ced63688-30a1-50b9-8f3b-b8d3f834abc0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1262,21 +1262,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "birdxraywow.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/uhTbsponEnSNnlWU?ed=2560",
+                "path": "\/",
                 "headers": {
-                    "Host": "birdxraywow.pages.dev"
+                    "Host": "speedtest.net"
                 }
             }
         },
