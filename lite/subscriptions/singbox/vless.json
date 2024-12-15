@@ -105,8 +105,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -125,8 +125,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 136",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 137",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 29",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
@@ -169,8 +169,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -189,8 +189,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 136",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 137",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 29",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
@@ -355,9 +355,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "15.222.158.137",
+            "server": "15.236.149.53",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -386,9 +386,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "15.157.0.178",
+            "server": "13.36.85.39",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -884,11 +884,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 136",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
+            "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "Join--ZEDMODEON",
+            "uuid": "4ace53dd-c9a1-417c-99d3-15774b94a239",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -898,7 +898,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "server_name": "hajlab.ucdavis.edu",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -908,18 +908,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
                 "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
+                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 137",
             "type": "vless",
-            "server": "clientproo.xyz",
+            "server": "viSa.cOm",
             "server_port": 8080,
-            "uuid": "3cef867e-ae04-4d4f-a3c0-96a28e581077",
+            "uuid": "SVNTEAM",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
