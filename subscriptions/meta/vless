@@ -194,7 +194,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 3","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"2c02776b-1250-47e0-a889-db5eeaff74a5","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 4","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"d731e74a-1d87-4cbd-a909-c322c24433a4","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 5","type":"vless","server":"198.62.62.234","port":443,"udp":false,"uuid":"71ed6628-5870-4d19-8a52-f2a3ba3d4898","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"aaa.zhuk.us.kg","ws-opts":{"path":"/youlingkaishi","headers":{"host":"aaa.zhuk.us.kg"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 6","type":"vless","server":"hajlab.ucdavis.edu","port":443,"udp":false,"uuid":"51b73dc1-a711-49ea-8d9c-9ddf428b7cd2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"hajlab.ucdavis.edu","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇷🇺RU | 🟢 | vless | @prrofile_purple | 105","type":"vless","server":"45.142.44.47","port":8443,"udp":true,"uuid":"3bfa9b24-6e07-4587-a1cd-5a228acbf124","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"blog.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🚩CF | 🔴 | vless | @prrofile_purple | 106","type":"vless","server":"162.159.153.7","port":443,"udp":false,"uuid":"71ed6628-5870-4d19-8a52-f2a3ba3d4898","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vbbb.ylks2024.us.kg","ws-opts":{"path":"/youlingkaishi","headers":{"host":"vbbb.ylks2024.us.kg"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 108","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"3a15a346-2f6f-41bc-ad0c-a885aec3002a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"46771119909676129223555549792065.v2line.net","ws-opts":{"path":"/v2line-helsinki-finland-vl-ws-tls-advanced","headers":{"host":"46771119909676129223555549792065.v2line.net"}}}
@@ -476,7 +475,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 5'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 6'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 105'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 106'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 108'
@@ -758,7 +756,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 5'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 6'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 105'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 106'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 108'
@@ -1039,7 +1036,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 5'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 6'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 105'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 106'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 108'
