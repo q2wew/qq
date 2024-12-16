@@ -2049,7 +2049,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/15c7b5b1-e0f0-43e6-b195-2be5f58ec3e1@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&sni=g4.ferdowsi.shop#🇺🇸US%20|%20🔴%20|%20vless%20|%20@prrofile_purple%20|%20123"
+        "config": "vless:\/\/15c7b5b1-e0f0-43e6-b195-2be5f58ec3e1@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&sni=g4.ferdowsi.shop#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@prrofile_purple%20|%20123"
     },
     {
         "channel": {
@@ -2382,33 +2382,6 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gov.ua:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=3-545425.huangyurong.cfd&fp=random&type=ws&sni=3-545425.huangyurong.cfd#🇺🇸US%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%2022"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=3-545425.huangyurong.cfd&fp=random&type=ws&sni=3-545425.huangyurong.cfd#🇺🇸US%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%2023"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:30979?security=none&encryption=none&headerType=none&type=tcp#❔XX%20|%20🔴%20|%20vless%20|%20@customv2ray%20|%2024"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
         "config": "vless:\/\/03550326-cf94-439d-a02d-17760f0089d5@104.18.165.30:80?path=%2Findex.php%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D1080&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.shir-too-cloud.cloudNs.CH.&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@FalconPolV2rayNG%20|%200"
     },
     {
@@ -2446,6 +2419,15 @@
         },
         "type": "vless",
         "config": "vless:\/\/ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%205"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:30979?security=none&encryption=none&headerType=none&type=tcp#❔XX%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%206"
     },
     {
         "channel": {
@@ -3957,15 +3939,6 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/19d13bed-b8c5-4443-920e-12f833fed576@www.speedtest.net:80?path=%2Fxmlrpc.php%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D1080&security=none&encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.ajab.iP-ddns.com.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@nofiltering2%20|%2015"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
         "config": "vless:\/\/477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&sni=footlo.argha-v2pedia.monster#❔XX%20|%20🔴%20|%20vless%20|%20@vpn_go67%20|%200"
     },
     {
@@ -4155,7 +4128,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig27.usecharge.ir:443#🇬🇧GB%20|%20🟢%20|%20ss%20|%20@kingofilter%20|%200"
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig27.usecharge.ir:443#❔XX%20|%20🟢%20|%20ss%20|%20@kingofilter%20|%200"
     },
     {
         "channel": {
