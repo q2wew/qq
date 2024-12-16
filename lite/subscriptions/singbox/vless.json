@@ -106,7 +106,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -119,8 +119,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
@@ -151,7 +151,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "❔XX | 🔴 | vless | @nofiltering2 | 15",
+                "🇺🇸US | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 17",
@@ -172,7 +172,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
@@ -185,8 +185,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
@@ -217,7 +217,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "❔XX | 🔴 | vless | @nofiltering2 | 15",
+                "🇺🇸US | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 17",
@@ -371,7 +371,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "15.157.248.60",
+            "server": "15.157.82.20",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -400,9 +400,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "98.84.227.112",
+            "server": "15.157.248.60",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -739,7 +739,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -770,7 +770,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -1528,11 +1528,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @nofiltering2 | 15",
+            "tag": "🇺🇸US | 🟢 | vless | @nofiltering2 | 15",
             "type": "vless",
-            "server": "join.VPNCUSTOMIZE.com",
-            "server_port": 80,
-            "uuid": "79475be6-f4e9-4700-a3dc-fa42e540a950",
+            "server": "151.101.194.133",
+            "server_port": 443,
+            "uuid": "ac9230fa-33d1-4083-9c1d-f7ec3b6c0b91",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1540,11 +1540,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "ELENAV2RAY.NET",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/xmlrpc.php\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=1080",
+                "path": "\/",
                 "headers": {
-                    "Host": "join.VPNCUSTOMIZE.com"
+                    "Host": "ELENAV2RAY.NET"
                 }
             }
         },
