@@ -366,7 +366,7 @@
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 13",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 14",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 15",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 16",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 16",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🇸🇪SE | 🟢 | vmess | @ShadowProxy66 | 18",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 19",
@@ -475,12 +475,12 @@
                 "❔XX | 🔴 | vless | @MTConfig | 10",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 0",
-                "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 1",
-                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 2",
-                "🇨🇦CA | 🟢 | ss | @VmessProtocol | 7",
-                "🇳🇴NO | 🟢 | ss | @VmessProtocol | 10",
-                "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
+                "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 1",
+                "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 2",
+                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 3",
+                "🇨🇦CA | 🟢 | ss | @VmessProtocol | 8",
+                "🇳🇴NO | 🟢 | ss | @VmessProtocol | 11",
+                "🇩🇪DE | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 236",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 237",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 238",
@@ -884,7 +884,7 @@
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 13",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 14",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 15",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 16",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 16",
                 "🇲🇽MX | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🇸🇪SE | 🟢 | vmess | @ShadowProxy66 | 18",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 19",
@@ -993,12 +993,12 @@
                 "❔XX | 🔴 | vless | @MTConfig | 10",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 0",
-                "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 1",
-                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 2",
-                "🇨🇦CA | 🟢 | ss | @VmessProtocol | 7",
-                "🇳🇴NO | 🟢 | ss | @VmessProtocol | 10",
-                "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
+                "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 1",
+                "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 2",
+                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 3",
+                "🇨🇦CA | 🟢 | ss | @VmessProtocol | 8",
+                "🇳🇴NO | 🟢 | ss | @VmessProtocol | 11",
+                "🇩🇪DE | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 236",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 237",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 238",
@@ -7437,7 +7437,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 16",
+            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 16",
             "type": "vmess",
             "server": "afrhms16v.bestxray.buzz",
             "server_port": 443,
@@ -10126,7 +10126,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 0",
+            "tag": "🇨🇳CN | 🟢 | trojan | @VmessProtocol | 1",
             "type": "trojan",
             "server": "223.113.54.145",
             "server_port": 36442,
@@ -10148,7 +10148,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 1",
+            "tag": "🇸🇬SG | 🟢 | trojan | @VmessProtocol | 2",
             "type": "trojan",
             "server": "polished-ox.treefrog761.one",
             "server_port": 443,
@@ -10170,7 +10170,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @VmessProtocol | 2",
+            "tag": "🇫🇷FR | 🟢 | vless | @VmessProtocol | 3",
             "type": "vless",
             "server": "213.176.66.228",
             "server_port": 37021,
@@ -10199,7 +10199,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | ss | @VmessProtocol | 7",
+            "tag": "🇨🇦CA | 🟢 | ss | @VmessProtocol | 8",
             "type": "shadowsocks",
             "server": "142.4.216.225",
             "server_port": 80,
@@ -10209,7 +10209,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇳🇴NO | 🟢 | ss | @VmessProtocol | 10",
+            "tag": "🇳🇴NO | 🟢 | ss | @VmessProtocol | 11",
             "type": "shadowsocks",
             "server": "51.13.114.127",
             "server_port": 60356,
@@ -10219,7 +10219,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
+            "tag": "🇩🇪DE | 🟢 | vless | @VmessProtocol | 12",
             "type": "vless",
             "server": "130.61.234.225",
             "server_port": 50005,
