@@ -100,30 +100,30 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
-                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇮🇳IN | 🟢 | vmess | @free1_vpn | 0",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9"
+                "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+                "❔XX | 🟢 | vmess | @mftizi | 17",
+                "❔XX | 🟢 | vmess | @mftizi | 18",
+                "❔XX | 🟢 | vmess | @proxystore11 | 1",
+                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @free1_vpn | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
-                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇮🇳IN | 🟢 | vmess | @free1_vpn | 0",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9"
+                "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+                "❔XX | 🟢 | vmess | @mftizi | 17",
+                "❔XX | 🟢 | vmess | @mftizi | 18",
+                "❔XX | 🟢 | vmess | @proxystore11 | 1",
+                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @free1_vpn | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -146,7 +146,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+            "tag": "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
             "type": "vmess",
             "server": "88.198.93.175",
             "server_port": 8880,
@@ -163,7 +163,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+            "tag": "❔XX | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "120.232.153.71",
             "server_port": 34565,
@@ -180,7 +180,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+            "tag": "❔XX | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "183.236.48.161",
             "server_port": 31878,
@@ -197,7 +197,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 1",
             "type": "vmess",
             "server": "de01.tiktokcloud.us.kg",
             "server_port": 443,
@@ -231,7 +231,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -255,7 +255,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -289,7 +289,7 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🟢 | vmess | @free1_vpn | 0",
+            "tag": "❔XX | 🟢 | vmess | @free1_vpn | 0",
             "type": "vmess",
             "server": "20.193.131.152",
             "server_port": 23294,
@@ -306,11 +306,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
-            "server": "176.32.35.194",
-            "server_port": 31416,
-            "uuid": "bd66c443-193a-4f06-8708-3d31a8be9401",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "cabcaba-caba-baca-cdba-cacabaccabbb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -320,21 +320,14 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "176.32.35.194"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
-            "server": "104.18.150.157",
-            "server_port": 8443,
-            "uuid": "04bd72e7-87ec-416d-8f3b-b0fbbf023555",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "cbcaaab-abac-abca-bacd-cbbbccaaacba",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -344,23 +337,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "104.18.150.157",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/r7ir567fu",
-                "headers": {
-                    "Host": "104.18.150.157"
-                }
             }
         }
     ],
