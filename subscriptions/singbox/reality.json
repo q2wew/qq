@@ -102,26 +102,25 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 0",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "❔XX | 🟢 | vless | @proxy_kafee | 8",
-                "❔XX | 🔴 | vless | @v2logy | 6",
-                "❔XX | 🟢 | vless | @prrofile_purple | 128",
-                "❔XX | 🟢 | vless | @prrofile_purple | 135",
-                "❔XX | 🟢 | vless | @prrofile_purple | 142",
+                "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+                "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇷🇺RU | 🟢 | vless | @proxy_kafee | 8",
+                "🇩🇪DE | 🔴 | vless | @v2logy | 6",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 137",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 144",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 33",
-                "❔XX | 🔴 | vless | @proxyymeliii | 1",
-                "❔XX | 🔴 | vless | @proxyymeliii | 4",
-                "❔XX | 🔴 | vless | @proxyymeliii | 6",
-                "❔XX | 🔴 | vless | @proxyymeliii | 10",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 7",
-                "❔XX | 🟢 | vless | @vless_vmess | 3",
-                "❔XX | 🟢 | vless | @VmessProtocol | 7",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
-                "❔XX | 🔴 | vless | @nofiltering2 | 9",
+                "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 33",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
+                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 7",
+                "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇫🇮FI | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -137,35 +136,34 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @kingofilter | 7",
-                "❔XX | 🔴 | vless | @kingofilter | 11",
-                "❔XX | 🟢 | vless | @kingofilter | 15"
+                "🇫🇷FR | 🔴 | vless | @kingofilter | 7",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 11",
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 15"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Lockey_vpn | 0",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "❔XX | 🟢 | vless | @proxy_kafee | 8",
-                "❔XX | 🔴 | vless | @v2logy | 6",
-                "❔XX | 🟢 | vless | @prrofile_purple | 128",
-                "❔XX | 🟢 | vless | @prrofile_purple | 135",
-                "❔XX | 🟢 | vless | @prrofile_purple | 142",
+                "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+                "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇷🇺RU | 🟢 | vless | @proxy_kafee | 8",
+                "🇩🇪DE | 🔴 | vless | @v2logy | 6",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 137",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 144",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 33",
-                "❔XX | 🔴 | vless | @proxyymeliii | 1",
-                "❔XX | 🔴 | vless | @proxyymeliii | 4",
-                "❔XX | 🔴 | vless | @proxyymeliii | 6",
-                "❔XX | 🔴 | vless | @proxyymeliii | 10",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 7",
-                "❔XX | 🟢 | vless | @vless_vmess | 3",
-                "❔XX | 🟢 | vless | @VmessProtocol | 7",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
-                "❔XX | 🔴 | vless | @nofiltering2 | 9",
+                "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 33",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
+                "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
+                "🇫🇷FR | 🟢 | vless | @VmessProtocol | 7",
+                "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇫🇮FI | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -181,9 +179,9 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @kingofilter | 7",
-                "❔XX | 🔴 | vless | @kingofilter | 11",
-                "❔XX | 🟢 | vless | @kingofilter | 15"
+                "🇫🇷FR | 🔴 | vless | @kingofilter | 7",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 11",
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 15"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -206,7 +204,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "r.iphone-shopp.ir",
             "server_port": 5743,
@@ -242,7 +240,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
             "type": "vless",
             "server": "49.13.113.114",
             "server_port": 8443,
@@ -271,7 +269,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+            "tag": "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
             "type": "vless",
             "server": "94.130.183.41",
             "server_port": 1503,
@@ -300,7 +298,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+            "tag": "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
             "type": "vless",
             "server": "95.217.31.246",
             "server_port": 18929,
@@ -329,7 +327,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 8",
+            "tag": "🇷🇺RU | 🟢 | vless | @proxy_kafee | 8",
             "type": "vless",
             "server": "45.67.32.147",
             "server_port": 37665,
@@ -358,7 +356,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2logy | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2logy | 6",
             "type": "vless",
             "server": "188.245.65.59",
             "server_port": 443,
@@ -394,7 +392,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 128",
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 137",
             "type": "vless",
             "server": "188.245.90.214",
             "server_port": 1633,
@@ -423,7 +421,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 135",
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 144",
             "type": "vless",
             "server": "116.203.241.125",
             "server_port": 1633,
@@ -448,35 +446,6 @@
                     "enabled": true,
                     "public_key": "ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q",
                     "short_id": "9bc0a55a5379c0ed"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 142",
-            "type": "vless",
-            "server": "endev.postsafir.ir",
-            "server_port": 1623,
-            "uuid": "f34fd091-12f9-444e-81a2-9b45ee14d00f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
-                    "short_id": "3a622700e73c6642"
                 }
             }
         },
@@ -517,7 +486,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ShadowProxy66 | 33",
+            "tag": "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 33",
             "type": "vless",
             "server": "65.109.218.177",
             "server_port": 2083,
@@ -546,7 +515,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxyymeliii | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -560,7 +529,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxyymeliii | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -574,7 +543,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxyymeliii | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -588,7 +557,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxyymeliii | 10",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -602,7 +571,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 7",
+            "tag": "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
             "type": "vless",
             "server": "172.234.116.15",
             "server_port": 51397,
@@ -638,7 +607,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @vless_vmess | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
             "type": "vless",
             "server": "172.233.174.160",
             "server_port": 80,
@@ -667,7 +636,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @VmessProtocol | 7",
+            "tag": "🇫🇷FR | 🟢 | vless | @VmessProtocol | 7",
             "type": "vless",
             "server": "213.176.66.228",
             "server_port": 37021,
@@ -696,7 +665,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "mysql-panel.karaj-game-farsi.ir",
             "server_port": 1413,
@@ -732,7 +701,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @nofiltering2 | 9",
+            "tag": "🇫🇮FI | 🔴 | vless | @nofiltering2 | 9",
             "type": "vless",
             "server": "panel2.seyyedmtmodidandansax.blog",
             "server_port": 2052,
@@ -1308,7 +1277,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 7",
+            "tag": "🇫🇷FR | 🔴 | vless | @kingofilter | 7",
             "type": "vless",
             "server": "ns6.esfahansiman.com",
             "server_port": 2030,
@@ -1344,7 +1313,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 11",
             "type": "vless",
             "server": "1618.postsafir.ir",
             "server_port": 1618,
@@ -1373,7 +1342,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @kingofilter | 15",
+            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 15",
             "type": "vless",
             "server": "san.dornagamesco.ir",
             "server_port": 1621,
