@@ -141,7 +141,7 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "❔XX | 🔴 | vless | @proxyymeliii | 13",
                 "❔XX | 🔴 | vless | @MsV2ray | 0",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 13",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 14",
                 "❔XX | 🔴 | vless | @vless_vmess | 14",
                 "❔XX | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
@@ -149,15 +149,15 @@
                 "❔XX | 🟢 | trojan | @VmessProtocol | 9",
                 "❔XX | 🔴 | vless | @DailyV2RY | 351",
                 "❔XX | 🔴 | vless | @DailyV2RY | 352",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @free1_vpn | 1",
                 "❔XX | 🟢 | vmess | @free1_vpn | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "❔XX | 🔴 | vless | @fnet00 | 9",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 1",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -221,7 +221,7 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "❔XX | 🔴 | vless | @proxyymeliii | 13",
                 "❔XX | 🔴 | vless | @MsV2ray | 0",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 13",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 14",
                 "❔XX | 🔴 | vless | @vless_vmess | 14",
                 "❔XX | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
@@ -229,15 +229,15 @@
                 "❔XX | 🟢 | trojan | @VmessProtocol | 9",
                 "❔XX | 🔴 | vless | @DailyV2RY | 351",
                 "❔XX | 🔴 | vless | @DailyV2RY | 352",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @free1_vpn | 1",
                 "❔XX | 🟢 | vmess | @free1_vpn | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "❔XX | 🔴 | vless | @fnet00 | 9",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 1",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -1244,7 +1244,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 13",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 14",
             "type": "vless",
             "server": "138.124.93.231",
             "server_port": 34722,
@@ -1437,11 +1437,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "Biain--ZEDMODEON",
+            "server": "TLS.zeoaeriedo-saioesrio.ir",
+            "server_port": 2000,
+            "uuid": "53bdec1d-b3bc-4a68-b2b3-0d2585e0aceb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1449,53 +1449,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
+                "type": "grpc",
+                "service_name": "\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "U_CONFINGVPN.web.unc.edu",
-            "server_port": 443,
-            "uuid": "7b95887d-3bec-4d9c-9983-6baa09fe23bf",
+            "server": "turkey.demonnet.news",
+            "server_port": 2086,
+            "uuid": "c548e8b9-ac16-ee24-1e65-54485ee05746",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ergwork.web.unc.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws\/?ed=2052",
-                "headers": {
-                    "Host": "ergwork.web.unc.edu"
-                }
             }
         },
         {
@@ -1612,7 +1585,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "107.148.207.249",
             "server_port": 48712,
@@ -1629,7 +1602,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "194.87.68.115",
             "server_port": 16712,
