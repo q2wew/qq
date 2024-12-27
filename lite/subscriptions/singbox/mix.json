@@ -116,7 +116,6 @@
                 "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "❔XX | 🔴 | vless | @DigiV2ray | 15",
                 "❔XX | 🔴 | vless | @DigiV2ray | 16",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -150,7 +149,8 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 352",
                 "❔XX | 🟢 | vless | @DailyV2RY | 353",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 12",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 13",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -196,7 +196,6 @@
                 "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "❔XX | 🔴 | vless | @DigiV2ray | 15",
                 "❔XX | 🔴 | vless | @DigiV2ray | 16",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -230,7 +229,8 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 352",
                 "❔XX | 🟢 | vless | @DailyV2RY | 353",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 12",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 13",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -623,27 +623,6 @@
                 "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "151.101.3.8"
                 }
             }
         },
@@ -1386,11 +1365,32 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 12",
             "type": "vless",
-            "server": "speedtest.net",
+            "server": "TLS.zeoaeriedo-saioesrio.ir",
+            "server_port": 2000,
+            "uuid": "b834ec4d-c317-46ca-807e-e7742d4643d7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 13",
+            "type": "vless",
+            "server": "151.101.120.121",
             "server_port": 80,
-            "uuid": "e6e93d1d-d9e6-40ba-a583-04f7681d6be7",
+            "uuid": "916db3fa-e36b-4954-9551-ebb36ad3149b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1400,9 +1400,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
+                "path": "\/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480",
                 "headers": {
-                    "Host": "speedtest.net"
+                    "Host": "151.101.120.121"
                 }
             }
         },
