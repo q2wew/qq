@@ -106,9 +106,10 @@
                 "🇵🇷PR | 🟢 | ss | @DeamNet_Proxy | 7",
                 "🇰🇪KE | 🟢 | ss | @DeamNet_Proxy | 12",
                 "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇮🇹IT | 🟢 | ss | @VmessProtocol | 1",
-                "🇺🇸US | 🟢 | ss | @kingofilter | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 10"
+                "🇮🇹IT | 🟢 | ss | @VmessProtocol | 2",
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 0",
+                "🇺🇸US | 🟢 | ss | @kingofilter | 6",
+                "❔XX | 🟢 | ss | @kingofilter | 11"
             ]
         },
         {
@@ -119,9 +120,10 @@
                 "🇵🇷PR | 🟢 | ss | @DeamNet_Proxy | 7",
                 "🇰🇪KE | 🟢 | ss | @DeamNet_Proxy | 12",
                 "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇮🇹IT | 🟢 | ss | @VmessProtocol | 1",
-                "🇺🇸US | 🟢 | ss | @kingofilter | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 10"
+                "🇮🇹IT | 🟢 | ss | @VmessProtocol | 2",
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 0",
+                "🇺🇸US | 🟢 | ss | @kingofilter | 6",
+                "❔XX | 🟢 | ss | @kingofilter | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -184,7 +186,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇮🇹IT | 🟢 | ss | @VmessProtocol | 1",
+            "tag": "🇮🇹IT | 🟢 | ss | @VmessProtocol | 2",
             "type": "shadowsocks",
             "server": "185.213.20.227",
             "server_port": 990,
@@ -194,7 +196,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @kingofilter | 5",
+            "tag": "🇧🇭BH | 🟢 | ss | @kingofilter | 0",
+            "type": "shadowsocks",
+            "server": "admin.c3.havij.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "P7PqQpnyhsnzKNrm",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | ss | @kingofilter | 6",
             "type": "shadowsocks",
             "server": "52.237.155.68",
             "server_port": 443,
@@ -204,7 +216,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 10",
+            "tag": "❔XX | 🟢 | ss | @kingofilter | 11",
             "type": "shadowsocks",
             "server": "freakconfig27.usecharge.ir",
             "server_port": 443,
