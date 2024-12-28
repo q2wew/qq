@@ -150,7 +150,7 @@
                 "🇹🇼TW | 🟢 | trojan | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 348",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -230,7 +230,7 @@
                 "🇹🇼TW | 🟢 | trojan | @VmessProtocol | 13",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 348",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -1406,24 +1406,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "EXPRESSVPN_420.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "V2RAXX",
-            "flow": "",
+            "server": "91.107.169.6",
+            "server_port": 443,
+            "uuid": "5346aa00-8750-4c50-b3bb-91f19c7d6dc9",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram,V2RAXX,Telegram,",
-                "headers": {
-                    "Host": "EXPRESSVPN_420.fastly80-3.hosting-ip.com"
-                }
             }
         },
         {
@@ -1678,27 +1671,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
             "type": "vless",
-            "server": "Viscaria2.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "ea5868cd-77ca-4c56-abbf-c9e76092d2b6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TeleGram.Channel@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG-",
-                "headers": {
-                    "Host": "Viscaria2.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-            "type": "vless",
             "server": "151.101.1.6",
             "server_port": 80,
             "uuid": "b6812e28-a97b-4373-aff9-d5bd13536d4a",
@@ -1714,6 +1686,27 @@
                 "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
                 "headers": {
                     "Host": "151.101.1.6"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
+            "type": "vless",
+            "server": "Viscaria2.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "ea5868cd-77ca-4c56-abbf-c9e76092d2b6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TeleGram.Channel@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG---@Hqv2RayNG-",
+                "headers": {
+                    "Host": "Viscaria2.fastly80-2.hosting-ip.com"
                 }
             }
         },
