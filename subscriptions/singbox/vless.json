@@ -423,14 +423,13 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 351",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 352",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 1",
+                "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 1",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 2",
@@ -833,14 +832,13 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 351",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 352",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 1",
+                "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 1",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 2",
@@ -8875,11 +8873,25 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "v14.net2eset.com",
-            "server_port": 10078,
-            "uuid": "c13ced16-93d9-4e33-9d51-256158b648da",
+            "server": "italy.roseshup.ir",
+            "server_port": 2086,
+            "uuid": "9c4c3633-441c-60d3-50a6-893a7c904f7e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+            "type": "vless",
+            "server": "time.is",
+            "server_port": 443,
+            "uuid": "023f7aa2-d079-40d8-a730-c681947f10bb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8887,16 +8899,119 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "rangers-plugins-workshop-respect.trycloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/023f7aa2-d079-40d8-a730-c681947f10bb-vless",
                 "headers": {
-                    "Host": "v14.net2eset.com"
+                    "Host": "rangers-plugins-workshop-respect.trycloudflare.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+            "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "Join--ZEDMODEON",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+            "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "Joinin--ZEDMODEON",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+            "type": "vless",
+            "server": "live.skornorth.com",
+            "server_port": 443,
+            "uuid": "tell--ZEDMODEON",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.skornorth.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "headers": {
+                    "Host": "live.skornorth.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -8927,7 +9042,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -8954,97 +9069,6 @@
                 "path": "\/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇹IT | 🔴 | vless | @ConfigsHUB | 6",
-            "type": "vless",
-            "server": "italy.roseshup.ir",
-            "server_port": 2086,
-            "uuid": "9c4c3633-441c-60d3-50a6-893a7c904f7e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 10",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "chanel",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-            "type": "vless",
-            "server": "www.visa.com",
-            "server_port": 8880,
-            "uuid": "d51963a2-cd73-4564-894c-bdbb91775900",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "www.visa.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
-            "type": "vless",
-            "server": "www.visa.com",
-            "server_port": 2082,
-            "uuid": "d51963a2-cd73-4564-894c-bdbb91775900",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "www.visa.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
-            "type": "vless",
-            "server": "www.visa.com",
-            "server_port": 80,
-            "uuid": "d51963a2-cd73-4564-894c-bdbb91775900",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "www.visa.com"
                 }
             }
         },
