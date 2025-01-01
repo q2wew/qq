@@ -150,20 +150,21 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 344",
                 "❔XX | 🔴 | vless | @DailyV2RY | 345",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+                "❔XX | 🟢 | trojan | @ConfigsHUB | 17",
+                "❔XX | 🟢 | trojan | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @free1_vpn | 6",
                 "❔XX | 🟢 | vmess | @free1_vpn | 7",
+                "❔XX | 🟢 | vmess | @Hope_Net | 15",
                 "❔XX | 🟢 | vmess | @Hope_Net | 16",
-                "❔XX | 🟢 | vmess | @Hope_Net | 17",
                 "❔XX | 🔴 | vless | @fnet00 | 6",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🔴 | vless | @flyv2ray | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 16",
+                "❔XX | 🔴 | vless | @mehrosaboran | 11",
                 "❔XX | 🔴 | vless | @mehrosaboran | 12",
-                "❔XX | 🔴 | vless | @mehrosaboran | 13",
                 "❔XX | 🔴 | vless | @nofiltering2 | 21",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -229,20 +230,21 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @DailyV2RY | 344",
                 "❔XX | 🔴 | vless | @DailyV2RY | 345",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
+                "❔XX | 🟢 | trojan | @ConfigsHUB | 17",
+                "❔XX | 🟢 | trojan | @ConfigsHUB | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @free1_vpn | 6",
                 "❔XX | 🟢 | vmess | @free1_vpn | 7",
+                "❔XX | 🟢 | vmess | @Hope_Net | 15",
                 "❔XX | 🟢 | vmess | @Hope_Net | 16",
-                "❔XX | 🟢 | vmess | @Hope_Net | 17",
                 "❔XX | 🔴 | vless | @fnet00 | 6",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🔴 | vless | @flyv2ray | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 16",
+                "❔XX | 🔴 | vless | @mehrosaboran | 11",
                 "❔XX | 🔴 | vless | @mehrosaboran | 12",
-                "❔XX | 🔴 | vless | @mehrosaboran | 13",
                 "❔XX | 🔴 | vless | @nofiltering2 | 21",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1424,13 +1426,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "join.kiava.cloud.ohbah.com",
-            "server_port": 2083,
-            "uuid": "011d10db-1401-4573-b7b0-ba45ad4da4d4",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "❔XX | 🟢 | trojan | @ConfigsHUB | 17",
+            "type": "trojan",
+            "server": "uk1.test3.net",
+            "server_port": 443,
+            "password": "ee872a10-c818-11ef-bdaf-1239d0255272",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1438,7 +1438,29 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live",
+                "server_name": "telewebion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | trojan | @ConfigsHUB | 18",
+            "type": "trojan",
+            "server": "fr1.test3.net",
+            "server_port": 443,
+            "password": "ca5bb590-c818-11ef-a424-1239d0255272",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telewebion.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1547,11 +1569,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 16",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 15",
             "type": "vmess",
-            "server": "195.58.49.42",
-            "server_port": 43901,
-            "uuid": "8008d2ba-e51d-43b9-8711-578e8debb1e2",
+            "server": "176.32.39.181",
+            "server_port": 6814,
+            "uuid": "3b22e740-80ea-4bdd-8f83-3a9a02158be6",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1566,16 +1588,16 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "195.58.49.42"
+                    "Host": "176.32.39.181"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 17",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 16",
             "type": "vmess",
-            "server": "2a0f:7803:fb31:a::a",
-            "server_port": 8888,
-            "uuid": "954f3122-23a3-4dcd-aebe-bd32b787a24c",
+            "server": "i.needss.top",
+            "server_port": 44410,
+            "uuid": "465ecf0c-5446-43e6-bbc0-14a3863f0bbc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1585,13 +1607,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/wada12222",
-                "headers": {
-                    "Host": "2a0f:7803:fb31:a::a"
-                }
             }
         },
         {
@@ -1679,6 +1694,27 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 11",
+            "type": "vless",
+            "server": "151.101.1.6",
+            "server_port": 80,
+            "uuid": "1ce7a1ba-64d3-4c50-9dc6-6b9f79bfd11d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
+                "headers": {
+                    "Host": "151.101.1.6"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @mehrosaboran | 12",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
@@ -1706,27 +1742,6 @@
                 "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 13",
-            "type": "vless",
-            "server": "s14.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "1fc12e39-317d-4594-928d-860e3417e2ea",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM",
-                "headers": {
-                    "Host": "s14.fastly80-2.hosting-ip.com"
                 }
             }
         },
