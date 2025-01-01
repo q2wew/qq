@@ -121,6 +121,7 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 5",
                 "❔XX | 🟢 | vless | @VmessProtocol | 11",
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🟢 | vless | @nofiltering2 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -138,8 +139,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🟢 | vless | @kingofilter | 0",
-                "❔XX | 🔴 | vless | @kingofilter | 15"
+                "❔XX | 🟢 | vless | @kingofilter | 1"
             ]
         },
         {
@@ -165,6 +165,7 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 5",
                 "❔XX | 🟢 | vless | @VmessProtocol | 11",
                 "❔XX | 🟢 | vless | @VmessProtocol | 14",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🟢 | vless | @nofiltering2 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -182,8 +183,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🟢 | vless | @kingofilter | 0",
-                "❔XX | 🔴 | vless | @kingofilter | 15"
+                "❔XX | 🟢 | vless | @kingofilter | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -730,6 +730,42 @@
                     "public_key": "ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k",
                     "short_id": "4048A3da"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 1",
+            "type": "vless",
+            "server": "s.iphone-shopp.ir",
+            "server_port": 3000,
+            "uuid": "ProxyPJ",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xWTkdCVBi9Dl6rk2NMPK5Ba40PjBO57xh09T_TBJb3M",
+                    "short_id": "cc1a4c"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ------ProxyPJ",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -1338,7 +1374,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @kingofilter | 0",
+            "tag": "❔XX | 🟢 | vless | @kingofilter | 1",
             "type": "vless",
             "server": "174.138.13.224",
             "server_port": 15891,
@@ -1364,42 +1400,6 @@
                     "public_key": "4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0",
                     "short_id": "10f1"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 15",
-            "type": "vless",
-            "server": "ns6.esfahansiman.com",
-            "server_port": 2030,
-            "uuid": "7af0cefc-ab80-4701-a9fe-67dfddc2a0f7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "7fe29733"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@@jet_config-@jet_config-@jet_config",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         }
     ],
