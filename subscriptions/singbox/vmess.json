@@ -115,10 +115,10 @@
                 "❔XX | 🟢 | vmess | @DeamNet_Proxy | 0",
                 "❔XX | 🟢 | vmess | @DeamNet_Proxy | 1",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 126",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 134",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @v2ray1_ng | 8",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -146,10 +146,10 @@
                 "❔XX | 🟢 | vmess | @DeamNet_Proxy | 0",
                 "❔XX | 🟢 | vmess | @DeamNet_Proxy | 1",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 126",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 134",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @v2ray1_ng | 8",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -442,7 +442,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 126",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 134",
             "type": "vmess",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -500,7 +500,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray1_ng | 8",
+            "tag": "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
             "type": "vmess",
             "server": "151.101.2.168",
             "server_port": 80,
@@ -524,11 +524,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
+            "tag": "❔XX | 🟢 | vmess | @v2ray1_ng | 8",
             "type": "vmess",
-            "server": "92.242.220.22",
-            "server_port": 37885,
-            "uuid": "8dee19ab-50ce-4d06-be42-5e53c8989ccc",
+            "server": "151.101.2.168",
+            "server_port": 80,
+            "uuid": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -538,6 +538,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
