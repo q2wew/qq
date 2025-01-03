@@ -100,7 +100,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | ss | @kingofilter | 15"
             ]
         },
@@ -108,7 +108,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | ss | @kingofilter | 15"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -132,7 +132,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 18",
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 18",
             "type": "shadowsocks",
             "server": "89.185.84.185",
             "server_port": 12575,
