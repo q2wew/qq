@@ -109,8 +109,8 @@
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 14",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19",
                 "🇮🇹IT | 🟢 | ss | @VmessProtocol | 11",
-                "🇧🇭BH | 🟢 | ss | @kingofilter | 5",
-                "🇺🇸US | 🟢 | ss | @kingofilter | 11"
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 6",
+                "🇺🇸US | 🟢 | ss | @kingofilter | 12"
             ]
         },
         {
@@ -124,8 +124,8 @@
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 14",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19",
                 "🇮🇹IT | 🟢 | ss | @VmessProtocol | 11",
-                "🇧🇭BH | 🟢 | ss | @kingofilter | 5",
-                "🇺🇸US | 🟢 | ss | @kingofilter | 11"
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 6",
+                "🇺🇸US | 🟢 | ss | @kingofilter | 12"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -218,7 +218,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇧🇭BH | 🟢 | ss | @kingofilter | 5",
+            "tag": "🇧🇭BH | 🟢 | ss | @kingofilter | 6",
             "type": "shadowsocks",
             "server": "admin.c3.havij.co",
             "server_port": 443,
@@ -228,7 +228,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @kingofilter | 11",
+            "tag": "🇺🇸US | 🟢 | ss | @kingofilter | 12",
             "type": "shadowsocks",
             "server": "52.237.155.68",
             "server_port": 443,
