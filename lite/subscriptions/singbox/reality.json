@@ -100,8 +100,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vless | @VmessProtocol | 11",
-                "❔XX | 🟢 | vless | @DailyV2RY | 78",
+                "🇺🇸US | 🟢 | vless | @VmessProtocol | 11",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 75",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 76",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -110,8 +111,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vless | @VmessProtocol | 11",
-                "❔XX | 🟢 | vless | @DailyV2RY | 78",
+                "🇺🇸US | 🟢 | vless | @VmessProtocol | 11",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 75",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 76",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -136,7 +138,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vless | @VmessProtocol | 11",
+            "tag": "🇺🇸US | 🟢 | vless | @VmessProtocol | 11",
             "type": "vless",
             "server": "cuvip.doubledou.icu",
             "server_port": 443,
@@ -165,9 +167,38 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 78",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 75",
             "type": "vless",
-            "server": "3.80.73.120",
+            "server": "100.26.1.43",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 76",
+            "type": "vless",
+            "server": "3.145.1.137",
             "server_port": 1212,
             "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
