@@ -102,21 +102,22 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 0",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @prrofile_purple | 142",
+                "❔XX | 🟢 | vless | @prrofile_purple | 166",
+                "❔XX | 🟢 | vless | @prrofile_purple | 167",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 12",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 13",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 22",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 23",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 13",
                 "❔XX | 🟢 | vless | @vless_vmess | 3",
-                "❔XX | 🟢 | vless | @VmessProtocol | 9",
-                "❔XX | 🔴 | vless | @VmessProtocol | 10",
+                "❔XX | 🟢 | vless | @VmessProtocol | 10",
+                "❔XX | 🔴 | vless | @VmessProtocol | 11",
                 "❔XX | 🔴 | vless | @DailyV2RY | 135",
                 "❔XX | 🟢 | vless | @DailyV2RY | 136",
                 "❔XX | 🟢 | vless | @DailyV2RY | 137",
@@ -147,7 +148,8 @@
                 "❔XX | 🔴 | vless | @DailyV2RY | 171",
                 "❔XX | 🔴 | vless | @DailyV2RY | 172",
                 "❔XX | 🔴 | vless | @DailyV2RY | 173",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 0",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 0",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 1",
@@ -177,21 +179,22 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 0",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @prrofile_purple | 142",
+                "❔XX | 🟢 | vless | @prrofile_purple | 166",
+                "❔XX | 🟢 | vless | @prrofile_purple | 167",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 12",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 13",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 22",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 23",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 13",
                 "❔XX | 🟢 | vless | @vless_vmess | 3",
-                "❔XX | 🟢 | vless | @VmessProtocol | 9",
-                "❔XX | 🔴 | vless | @VmessProtocol | 10",
+                "❔XX | 🟢 | vless | @VmessProtocol | 10",
+                "❔XX | 🔴 | vless | @VmessProtocol | 11",
                 "❔XX | 🔴 | vless | @DailyV2RY | 135",
                 "❔XX | 🟢 | vless | @DailyV2RY | 136",
                 "❔XX | 🟢 | vless | @DailyV2RY | 137",
@@ -222,7 +225,8 @@
                 "❔XX | 🔴 | vless | @DailyV2RY | 171",
                 "❔XX | 🔴 | vless | @DailyV2RY | 172",
                 "❔XX | 🔴 | vless | @DailyV2RY | 173",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 0",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 0",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 1",
@@ -266,42 +270,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
-            "server": "193.46.81.83",
-            "server_port": 563,
-            "uuid": "telegram-i-ArV2ray",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.latimes.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "b7yHxJvpMviU0y0ncrxzOuwWfwfGhzQ4nzJDPtfN4WM",
-                    "short_id": "4c5e6e2a09"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
         },
         {
             "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 0",
@@ -492,6 +460,64 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 166",
+            "type": "vless",
+            "server": "JOIN-SVNTEAM.RU",
+            "server_port": 443,
+            "uuid": "SVNTEAM",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "-8Kc96Mx8qkwEaYTF9Jx6x5uLpuizNFuXaeZQPD4FQY",
+                    "short_id": "101b2a567b1309"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 167",
+            "type": "vless",
+            "server": "[2a01:4f9:c011:7571::1]",
+            "server_port": 8443,
+            "uuid": "71b12378-8c5a-48c6-b716-82bd9fb90148",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "web.whatsapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pC_ce7-7TQe-rM1IaBAJsUENABoWl_cuu_KGe1NwPzc",
+                    "short_id": "21cfdb2f50"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | @ShadowProxy66 | 12",
             "type": "vless",
             "server": "49.12.106.37",
@@ -666,7 +692,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @VmessProtocol | 9",
+            "tag": "❔XX | 🟢 | vless | @VmessProtocol | 10",
             "type": "vless",
             "server": "[2407:3640:2185:9595:0:1:c2d0:9336]",
             "server_port": 59008,
@@ -695,7 +721,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 10",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 11",
             "type": "vless",
             "server": "[2407:3640:2185:9595:0:1:c2d0:9336]",
             "server_port": 59009,
@@ -1601,7 +1627,43 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 0",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+            "type": "vless",
+            "server": "37.27.3.97",
+            "server_port": 2052,
+            "uuid": "fcc65a17-2587-4af5-98ad-f1ea0471ac0f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mediaworld.it",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8",
+                    "short_id": "4156caa9"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "2052vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "188.245.231.16",
             "server_port": 443,
