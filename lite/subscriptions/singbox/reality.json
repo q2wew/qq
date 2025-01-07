@@ -101,8 +101,9 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -112,8 +113,9 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -167,7 +169,36 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+            "type": "vless",
+            "server": "46.202.153.192",
+            "server_port": 2083,
+            "uuid": "Id-Telegram-@AB_841",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "JC4ehCV8lp0kjSeolqKxFV7VM4VRp0BRegEIqY9sxF0",
+                    "short_id": "2e96cc4471936f"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "54.187.221.71",
             "server_port": 1212,
@@ -196,7 +227,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "35.90.70.3",
             "server_port": 1212,
