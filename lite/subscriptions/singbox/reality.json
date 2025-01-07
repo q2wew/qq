@@ -102,8 +102,10 @@
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "❔XX | 🔴 | vless | @VmessProtocol | 13",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -114,8 +116,10 @@
             "outbounds": [
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "❔XX | 🔴 | vless | @VmessProtocol | 13",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -205,7 +209,65 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "52.13.29.114",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "35.170.79.98",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
+                    "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "35.90.70.3",
             "server_port": 1212,
@@ -234,7 +296,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "35.88.169.96",
             "server_port": 1212,
