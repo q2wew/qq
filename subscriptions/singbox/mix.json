@@ -450,14 +450,15 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 187",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 15",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -904,14 +905,15 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 187",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 10",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 15",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -9479,7 +9481,69 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "cffadc20-ccbf-497c-9dd9-7c191c0f9edb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "87ea3c42-a184-4b88-b4c3-d8c84e0e999c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
             "type": "vless",
             "server": "23.88.43.103",
             "server_port": 443,
@@ -9510,7 +9574,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
             "server": "151.101.128.155",
             "server_port": 80,
@@ -9531,7 +9595,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 7",
+            "tag": "🇨🇦CA | 🔴 | trojan | @ConfigsHUB | 15",
             "type": "trojan",
             "server": "3.97.101.244",
             "server_port": 22222,
@@ -9543,7 +9607,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
+            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 16",
             "type": "vless",
             "server": "190.93.245.137",
             "server_port": 443,
@@ -9574,7 +9638,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
             "type": "vless",
             "server": "18.156.131.142",
             "server_port": 22222,
@@ -9605,7 +9669,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 10",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
             "server": "51.89.25.27",
             "server_port": 8443,
@@ -9641,7 +9705,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
             "server": "151.101.128.155",
             "server_port": 80,
@@ -9658,37 +9722,6 @@
                 "path": "\/Telegram-Channel:@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG?ed=2560",
                 "headers": {
                     "Host": "151.101.128.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
-            "type": "vless",
-            "server": "151.101.130.228",
-            "server_port": 443,
-            "uuid": "dbbab473-d50c-4ade-cfd7-61befc6742d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=4096",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu."
                 }
             }
         },
