@@ -101,8 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @VmessProtocol | 11",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
-                "🇮🇹IT | 🟢 | vless | @ConfigsHUB | 19",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -112,8 +111,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @VmessProtocol | 11",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
-                "🇮🇹IT | 🟢 | vless | @ConfigsHUB | 19",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -174,11 +172,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "buy.onlymelica.xyz",
-            "server_port": 32358,
-            "uuid": "02bc2dd8-3d86-4142-8e0a-a69f3fb025a7",
+            "server": "146.56.47.79",
+            "server_port": 23258,
+            "uuid": "73159dbd-e01e-4492-a234-e5d7c335b128",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -188,46 +186,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "google-analytics.com",
+                "server_name": "microsoft.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇮🇹IT | 🟢 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "login.fastgozar.xyz",
-            "server_port": 55848,
-            "uuid": "b7a03010-2481-4709-c0e8-a9d382f075d8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google-analytics.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM",
-                    "short_id": ""
+                    "public_key": "p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI",
+                    "short_id": "545abc6e"
                 }
             }
         },
