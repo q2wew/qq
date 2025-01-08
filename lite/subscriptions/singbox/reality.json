@@ -100,9 +100,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @DailyV2RY | 184",
-                "❔XX | 🔴 | vless | @DailyV2RY | 185",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 184",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 185",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -111,9 +110,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @DailyV2RY | 184",
-                "❔XX | 🔴 | vless | @DailyV2RY | 185",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 184",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 185",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -138,7 +136,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 184",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 184",
             "type": "vless",
             "server": "3.135.196.28",
             "server_port": 1212,
@@ -167,7 +165,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 185",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 185",
             "type": "vless",
             "server": "18.236.191.161",
             "server_port": 1212,
@@ -192,35 +190,6 @@
                     "enabled": true,
                     "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
                     "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 12",
-            "type": "vless",
-            "server": "138.124.61.246",
-            "server_port": 443,
-            "uuid": "V2rayArgoN-",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "138.124.61.246",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1tA2CIltAtu_CMKCMWqH4zuRi-EA9LFG9Wz6SI0_sG4",
-                    "short_id": ""
                 }
             }
         },
