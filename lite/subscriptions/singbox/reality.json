@@ -101,8 +101,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -112,8 +112,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -167,7 +167,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "54.187.221.71",
             "server_port": 1212,
@@ -196,7 +196,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "35.90.70.3",
             "server_port": 1212,
