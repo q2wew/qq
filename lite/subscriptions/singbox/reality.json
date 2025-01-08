@@ -102,8 +102,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 184",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 185",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 14",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -114,8 +113,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 184",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 185",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 14",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -198,11 +196,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 14",
+            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 7",
             "type": "vless",
-            "server": "v2london.aaaa.gay",
+            "server": "94.131.100.109",
             "server_port": 443,
-            "uuid": "d2093082-a38a-316b-adcb-71013e595bd0",
+            "uuid": "9464608b-7b8a-4e4f-be17-0b3ba79280c5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -212,36 +210,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tesla.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "185.255.112.175",
-            "server_port": 5610,
-            "uuid": "c831e441-42fb-40c2-9be5-7142c2e893d2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "mirror.init7.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -250,8 +219,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic",
-                    "short_id": ""
+                    "public_key": "DWijjOki8oB3N2-gv3e9JXVXPYrJiMEaQUVNVzdMtEQ",
+                    "short_id": "57"
                 }
             }
         },
