@@ -104,7 +104,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 39",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
@@ -137,12 +137,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 11",
-                "❔XX | 🟢 | vless | @VmessProtocol | 12",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 189",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 190",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -168,7 +165,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 39",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
@@ -201,12 +198,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 11",
-                "❔XX | 🟢 | vless | @VmessProtocol | 12",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 189",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 190",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -334,9 +328,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "52.73.69.211",
+            "server": "52.60.43.89",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -367,7 +361,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "98.85.16.124",
+            "server": "52.73.69.211",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1105,7 +1099,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VmessProtocol | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
             "type": "vless",
             "server": "171.22.125.180",
             "server_port": 2198,
@@ -1116,35 +1110,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @VmessProtocol | 12",
-            "type": "vless",
-            "server": "[2407:3640:2185:9595:0:1:c2d0:9336]",
-            "server_port": 59008,
-            "uuid": "57c0ba73-b381-4fa6-aad0-f87c72a4d2d1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "addons.mozilla.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pthse3E3BBt3kWrXayFIWMQuLwMpKjwNOGkKHG5VZRc",
-                    "short_id": ""
-                }
             }
         },
         {
@@ -1207,51 +1172,6 @@
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "tell--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "95.216.160.100",
-            "server_port": 2053,
-            "uuid": "a3ba3730-f855-23eb-8cc2-8a6177a49e56",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
