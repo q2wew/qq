@@ -100,9 +100,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 193",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 194",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
+                "❔XX | 🔴 | vless | @DailyV2RY | 193",
+                "❔XX | 🟢 | vless | @DailyV2RY | 194",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -111,9 +111,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 193",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 194",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
+                "❔XX | 🔴 | vless | @DailyV2RY | 193",
+                "❔XX | 🟢 | vless | @DailyV2RY | 194",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -138,7 +138,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 193",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 193",
             "type": "vless",
             "server": "18.222.166.29",
             "server_port": 1212,
@@ -167,7 +167,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 194",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 194",
             "type": "vless",
             "server": "18.209.55.184",
             "server_port": 1212,
@@ -196,11 +196,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "185.255.112.175",
-            "server_port": 5610,
-            "uuid": "c831e441-42fb-40c2-9be5-7142c2e893d2",
+            "server": "188.245.184.26",
+            "server_port": 1633,
+            "uuid": "cad317e7-7db8-492c-b26a-9651c1ea928f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -210,16 +210,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "188.245.184.26",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": null
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic",
+                    "public_key": "ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q",
                     "short_id": ""
                 }
             }
