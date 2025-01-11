@@ -100,8 +100,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vless | @DailyV2RY | 263",
-                "❔XX | 🔴 | vless | @DailyV2RY | 264",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -110,8 +110,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vless | @DailyV2RY | 263",
-                "❔XX | 🔴 | vless | @DailyV2RY | 264",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -136,7 +136,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 263",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
             "type": "vless",
             "server": "18.220.70.231",
             "server_port": 1212,
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 264",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
             "type": "vless",
             "server": "18.218.10.118",
             "server_port": 1212,
