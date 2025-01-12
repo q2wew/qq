@@ -100,9 +100,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇫🇷FR | 🔴 | vless | @mehrosaboran | 8",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -111,9 +112,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇫🇷FR | 🔴 | vless | @mehrosaboran | 8",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -138,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 6",
             "type": "vless",
             "server": "91.184.241.49",
             "server_port": 1300,
@@ -174,7 +176,43 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+            "type": "vless",
+            "server": "deko.tinadresses.ir",
+            "server_port": 5048,
+            "uuid": "db5f9170-55bd-9aea-d46d-78342d83fcf8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134",
+                    "short_id": "31e7200536a1ad45"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "666vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 0",
             "type": "vless",
             "server": "138.124.24.252",
             "server_port": 8443,
@@ -203,7 +241,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 8",
             "type": "vless",
             "server": "91.134.100.48",
             "server_port": 55235,
