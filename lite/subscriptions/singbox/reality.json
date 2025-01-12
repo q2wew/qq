@@ -100,12 +100,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
-                "🇫🇷FR | 🔴 | vless | @mehrosaboran | 7",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @DailyV2RY | 330",
+                "❔XX | 🔴 | vless | @DailyV2RY | 331",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -114,12 +114,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
-                "🇫🇷FR | 🔴 | vless | @mehrosaboran | 7",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @DailyV2RY | 330",
+                "❔XX | 🔴 | vless | @DailyV2RY | 331",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -144,7 +144,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 6",
             "type": "vless",
             "server": "91.184.241.49",
             "server_port": 1300,
@@ -180,7 +180,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 330",
             "type": "vless",
             "server": "3.236.154.183",
             "server_port": 1212,
@@ -209,7 +209,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 331",
             "type": "vless",
             "server": "18.208.144.82",
             "server_port": 1212,
@@ -238,7 +238,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 0",
             "type": "vless",
             "server": "138.124.24.252",
             "server_port": 8443,
@@ -267,7 +267,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 1",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "mysql-panel.karaj-game-farsi.ir",
             "server_port": 1413,
@@ -303,7 +303,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @mehrosaboran | 7",
+            "tag": "❔XX | 🔴 | vless | @mehrosaboran | 7",
             "type": "vless",
             "server": "91.134.100.48",
             "server_port": 55235,
