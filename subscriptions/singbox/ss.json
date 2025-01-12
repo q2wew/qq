@@ -104,7 +104,7 @@
                 "URL-TEST",
                 "❔XX | 🟢 | ss | @VmessProtocol | 4",
                 "❔XX | 🟢 | ss | @kingofilter | 8",
-                "❔XX | 🟢 | ss | @kingofilter | 16"
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 16"
             ]
         },
         {
@@ -113,7 +113,7 @@
             "outbounds": [
                 "❔XX | 🟢 | ss | @VmessProtocol | 4",
                 "❔XX | 🟢 | ss | @kingofilter | 8",
-                "❔XX | 🟢 | ss | @kingofilter | 16"
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -156,7 +156,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 16",
+            "tag": "🇧🇭BH | 🟢 | ss | @kingofilter | 16",
             "type": "shadowsocks",
             "server": "admin.c3.havij.co",
             "server_port": 443,
