@@ -144,9 +144,10 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇮🇪IE | 🟢 | trojan | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 314",
+                "🇫🇷FR | 🟢 | trojan | @ConfigsHUB | 17",
+                "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 18",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -219,9 +220,10 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇮🇪IE | 🟢 | trojan | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 314",
+                "🇫🇷FR | 🟢 | trojan | @ConfigsHUB | 17",
+                "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 18",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -1336,9 +1338,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 313",
             "type": "vless",
-            "server": "13.58.144.224",
+            "server": "3.144.110.49",
             "server_port": 1212,
             "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
@@ -1365,9 +1367,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 314",
             "type": "vless",
-            "server": "107.20.18.124",
+            "server": "18.216.29.97",
             "server_port": 1212,
             "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
@@ -1394,11 +1396,33 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @ConfigsHUB | 18",
+            "tag": "🇫🇷FR | 🟢 | trojan | @ConfigsHUB | 17",
             "type": "trojan",
-            "server": "63.34.134.148",
+            "server": "51.44.129.184",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 18",
+            "type": "trojan",
+            "server": "3.97.132.69",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
