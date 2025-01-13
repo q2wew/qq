@@ -144,16 +144,13 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 15",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇫🇮FI | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -163,8 +160,8 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 14",
-                "🇳🇱NL | 🟢 | vless | @kingofilter | 15",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -218,16 +215,13 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 15",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇫🇮FI | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -237,8 +231,8 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 14",
-                "🇳🇱NL | 🟢 | vless | @kingofilter | 15",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -1326,12 +1320,12 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 15",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "151.101.66.133",
-            "server_port": 443,
-            "uuid": "8ab3562d-c86d-551b-b4c7-f252c6e706ef",
-            "flow": "",
+            "server": "185.161.251.211",
+            "server_port": 1633,
+            "uuid": "545d7c69-3984-43cd-b2e9-f7e3220061ed",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1340,50 +1334,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "live.skornorth.com",
+                "server_name": "185.161.251.211",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "live.skornorth.com"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "51.44.34.77",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
+                    "fingerprint": null
+                },
+                "reality": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                    "public_key": "ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q",
+                    "short_id": ""
                 }
             }
         },
@@ -1543,54 +1504,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
-            "type": "vmess",
-            "server": "s1.db-link02.top",
-            "server_port": 2082,
-            "uuid": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "s1.db-link02.top"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-            "type": "vmess",
-            "server": "104.17.221.248",
-            "server_port": 2052,
-            "uuid": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.17.221.248"
                 }
             }
         },
@@ -1807,6 +1720,30 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 13",
+            "type": "vless",
+            "server": "join.kiava.cloud.ohbah.com",
+            "server_port": 2083,
+            "uuid": "011d10db-1401-4573-b7b0-ba45ad4da4d4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 14",
             "type": "vless",
             "server": "persian--k2k.gamebaz98.ir",
@@ -1832,35 +1769,6 @@
                     "enabled": true,
                     "public_key": "jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM",
                     "short_id": "5cebd3fd"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | vless | @kingofilter | 15",
-            "type": "vless",
-            "server": "174.138.13.224",
-            "server_port": 15891,
-            "uuid": "ae2228d1-9b8f-4914-9e0a-68a115f8dbe1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0",
-                    "short_id": "10f1"
                 }
             }
         },
