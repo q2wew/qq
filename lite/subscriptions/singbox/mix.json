@@ -144,10 +144,10 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 9",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 335",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 336",
-                "🇸🇪SE | 🟢 | trojan | @ConfigsHUB | 17",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 324",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 325",
+                "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -220,10 +220,10 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 9",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 335",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 336",
-                "🇸🇪SE | 🟢 | trojan | @ConfigsHUB | 17",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 324",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 325",
+                "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -1317,7 +1317,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 335",
+            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 324",
             "type": "vless",
             "server": "168.119.101.219",
             "server_port": 443,
@@ -1338,7 +1338,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 336",
+            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 325",
             "type": "vless",
             "server": "159.69.206.4",
             "server_port": 443,
@@ -1359,11 +1359,11 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 14",
             "type": "trojan",
-            "server": "13.48.5.87",
+            "server": "100.29.116.54",
             "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1371,7 +1371,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1381,11 +1381,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "Joinin--ZEDMODEON",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1393,21 +1393,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
