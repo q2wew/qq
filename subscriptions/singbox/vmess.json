@@ -102,74 +102,72 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
-                "❔XX | 🟢 | vmess | @mftizi | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
-                "❔XX | 🟢 | vmess | @mftizi | 5",
-                "❔XX | 🟢 | vmess | @mftizi | 8",
-                "❔XX | 🟢 | vmess | @mftizi | 9",
-                "❔XX | 🟢 | vmess | @mftizi | 10",
-                "❔XX | 🟢 | vmess | @mftizi | 11",
-                "❔XX | 🟢 | vmess | @mftizi | 13",
-                "❔XX | 🟢 | vmess | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 157",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 158",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @v2ray1_ng | 1",
-                "❔XX | 🟢 | vmess | @v2ray1_ng | 12",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 8",
-                "❔XX | 🟢 | vmess | @proxystore11 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 2",
+                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 9",
+                "🇩🇰DK | 🟢 | vmess | @prrofile_purple | 157",
+                "🇨🇿CZ | 🟢 | vmess | @prrofile_purple | 158",
+                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 6",
+                "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 1",
+                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
+                "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @free1_vpn | 3",
-                "❔XX | 🟢 | vmess | @free1_vpn | 10",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 3",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 1",
-                "❔XX | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6"
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 2",
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 4",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
-                "❔XX | 🟢 | vmess | @mftizi | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
-                "❔XX | 🟢 | vmess | @mftizi | 5",
-                "❔XX | 🟢 | vmess | @mftizi | 8",
-                "❔XX | 🟢 | vmess | @mftizi | 9",
-                "❔XX | 🟢 | vmess | @mftizi | 10",
-                "❔XX | 🟢 | vmess | @mftizi | 11",
-                "❔XX | 🟢 | vmess | @mftizi | 13",
-                "❔XX | 🟢 | vmess | @DeamNet_Proxy | 9",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 157",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 158",
-                "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @v2ray1_ng | 1",
-                "❔XX | 🟢 | vmess | @v2ray1_ng | 12",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 8",
-                "❔XX | 🟢 | vmess | @proxystore11 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 2",
+                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 9",
+                "🇩🇰DK | 🟢 | vmess | @prrofile_purple | 157",
+                "🇨🇿CZ | 🟢 | vmess | @prrofile_purple | 158",
+                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 6",
+                "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 1",
+                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
+                "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @free1_vpn | 3",
-                "❔XX | 🟢 | vmess | @free1_vpn | 10",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 3",
+                "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 1",
-                "❔XX | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "❔XX | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6"
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 2",
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 4",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -192,7 +190,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
+            "tag": "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
             "type": "vmess",
             "server": "88.198.93.175",
             "server_port": 8880,
@@ -209,7 +207,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 0",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
             "type": "vmess",
             "server": "120.234.102.229",
             "server_port": 52908,
@@ -226,7 +224,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 46602,
@@ -243,7 +241,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 5",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
             "type": "vmess",
             "server": "hk1.tiljkc.top",
             "server_port": 39041,
@@ -260,7 +258,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 8",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
             "type": "vmess",
             "server": "120.232.153.63",
             "server_port": 40972,
@@ -277,7 +275,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 9",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
             "type": "vmess",
             "server": "183.236.48.163",
             "server_port": 58831,
@@ -294,7 +292,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 10",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
             "type": "vmess",
             "server": "120.232.153.27",
             "server_port": 58831,
@@ -311,7 +309,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 11",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 53002,
@@ -328,7 +326,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 13",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 56601,
@@ -345,7 +343,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @DeamNet_Proxy | 9",
+            "tag": "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 9",
             "type": "vmess",
             "server": "beyonddbc.sbs",
             "server_port": 443,
@@ -379,7 +377,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 157",
+            "tag": "🇩🇰DK | 🟢 | vmess | @prrofile_purple | 157",
             "type": "vmess",
             "server": "95.164.10.116",
             "server_port": 8880,
@@ -403,7 +401,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 158",
+            "tag": "🇨🇿CZ | 🟢 | vmess | @prrofile_purple | 158",
             "type": "vmess",
             "server": "94.131.97.127",
             "server_port": 8880,
@@ -427,7 +425,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
+            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 6",
             "type": "vmess",
             "server": "51.77.20.136",
             "server_port": 443,
@@ -461,7 +459,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray1_ng | 1",
+            "tag": "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 1",
             "type": "vmess",
             "server": "151.101.194.133",
             "server_port": 443,
@@ -495,7 +493,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray1_ng | 12",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
             "type": "vmess",
             "server": "188.245.211.137",
             "server_port": 8080,
@@ -519,24 +517,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 8",
-            "type": "vmess",
-            "server": "128.140.103.46",
-            "server_port": 85,
-            "uuid": "92a977d6-e7cf-4d4b-ba61-d23e56890135",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 1",
+            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
             "type": "vmess",
             "server": "cinnamon.parsifast78.ir",
             "server_port": 443,
@@ -570,7 +551,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 1",
+            "tag": "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
             "type": "vmess",
             "server": "45.199.138.217",
             "server_port": 41000,
@@ -604,7 +585,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
             "type": "vmess",
             "server": "107.149.119.43",
             "server_port": 37000,
@@ -662,7 +643,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -720,7 +701,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @free1_vpn | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @free1_vpn | 3",
             "type": "vmess",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -744,7 +725,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @free1_vpn | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
             "type": "vmess",
             "server": "151.101.2.168",
             "server_port": 80,
@@ -792,7 +773,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "195.58.49.50",
             "server_port": 55899,
@@ -816,7 +797,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🇩🇪DE | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "23.158.56.227",
             "server_port": 443,
@@ -850,7 +831,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "212.192.12.70",
             "server_port": 55899,
@@ -874,7 +855,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "45.159.50.143",
             "server_port": 40866,
@@ -891,7 +872,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "cm.awslcn.info",
             "server_port": 25240,
@@ -915,7 +896,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "199.180.101.23",
             "server_port": 38004,
