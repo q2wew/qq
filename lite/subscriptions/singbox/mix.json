@@ -150,9 +150,10 @@
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 7",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -161,7 +162,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 15",
@@ -225,9 +226,10 @@
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 7",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -236,7 +238,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 15",
@@ -1476,7 +1478,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1549,6 +1551,30 @@
                     "enabled": true,
                     "public_key": "jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM",
                     "short_id": "5cebd3fd"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "104.16.155.10",
+            "server_port": 80,
+            "uuid": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/dabai.in104.17.169.115",
+                "headers": {
+                    "Host": "104.16.155.10"
                 }
             }
         },
@@ -1710,7 +1736,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
