@@ -138,8 +138,8 @@
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 15",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 16",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 230",
+                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 231",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 18",
@@ -203,8 +203,8 @@
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 15",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 16",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 230",
+                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 231",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 18",
@@ -604,7 +604,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "Joininnn--ZEDMODEON",
+            "uuid": "ZEDMODEON--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -635,7 +635,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "tell--ZEDMODEON",
+            "uuid": "Joininnn--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -655,7 +655,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
                 }
@@ -1178,12 +1178,12 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 230",
             "type": "vless",
-            "server": "54.188.160.181",
+            "server": "harlan.ns.cloudflare.com",
             "server_port": 443,
-            "uuid": "2b50b3d0-63e2-4927-b7b8-59790681071b",
-            "flow": "xtls-rprx-vision",
+            "uuid": "0c34e8bb-ae2f-4fbc-bd75-d9c03c4e1eb7",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1192,46 +1192,40 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "sourceforge.net",
+                "server_name": "3vv57r.alligator27.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PUZ33dJSwX3bsLDidLH01AZA62ckDeYH31lbx4OSN3c",
-                    "short_id": "af6e23a61da9"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "3vv57r.alligator27.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
+            "tag": "🇪🇸ES | 🔴 | vless | @DailyV2RY | 231",
             "type": "vless",
-            "server": "35.90.86.174",
-            "server_port": 443,
-            "uuid": "2b50b3d0-63e2-4927-b7b8-59790681071b",
-            "flow": "xtls-rprx-vision",
+            "server": "65.20.103.196",
+            "server_port": 8080,
+            "uuid": "042b8276-1db0-40b6-f54c-fb3de27c368a",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PUZ33dJSwX3bsLDidLH01AZA62ckDeYH31lbx4OSN3c",
-                    "short_id": "af6e23a61da9"
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "65.20.103.196"
                 }
             }
         },
