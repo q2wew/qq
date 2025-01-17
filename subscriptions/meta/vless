@@ -309,11 +309,10 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0","type":"vless","server":"tgju.org","port":2082,"udp":false,"uuid":"d424ae34-8aff-4093-b1c9-715de61aa144","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 0","type":"vless","server":"c2.vact.ir","port":2083,"udp":true,"uuid":"078e70f3-47ed-4908-89b4-4886bc0793ae","tls":true,"network":"grpc","client-fingerprint":"randomized","servername":"refersion.com","grpc-opts":{"grpc-service-name":""},"reality-opts":{"public-key":"IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo","short-id":"11a4b6bca8"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"c2.vact.ir","port":2083,"udp":true,"uuid":"a03ca762-02ae-497a-ab83-c65abf034dfa","tls":true,"network":"grpc","client-fingerprint":"randomized","servername":"refersion.com","grpc-opts":{"grpc-service-name":""},"reality-opts":{"public-key":"IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo","short-id":"11a4b6bca8"}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"6383f662-60fd-4efa-a456-c1a5d0c56e29","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 5","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"ed549170-b8f1-490e-85c4-6679e2cbcd54","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 8","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"3d9e845a-b2e4-487c-a75e-ba9229966dbf","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480","headers":{"host":"JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 11","type":"vless","server":"python.org","port":80,"udp":false,"uuid":"79c318b9-d2be-4f63-8687-dd66e930bb7c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 12","type":"vless","server":"python.org","port":80,"udp":false,"uuid":"2dc676e8-5dbf-4149-8006-dac092f65776","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"amin.4en1.net","port":1777,"udp":true,"uuid":"55e346e0-5258-49e8-9ee1-8942ca3bff44","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"globalsign.com","grpc-opts":{"grpc-service-name":"/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM?ed=2048"},"reality-opts":{"public-key":"jkJpzKFOelmStHPCJNnzmoFzAIBn0AQM3UUmKC1TWm4"}}
+  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 1","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"6383f662-60fd-4efa-a456-c1a5d0c56e29","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 6","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"ed549170-b8f1-490e-85c4-6679e2cbcd54","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480","headers":{"host":"JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 9","type":"vless","server":"fishlab.ucdavis.edu","port":443,"udp":false,"uuid":"3d9e845a-b2e4-487c-a75e-ba9229966dbf","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fishlab.ucdavis.edu","ws-opts":{"path":"/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480","headers":{"host":"JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @nofiltering2 | 1","type":"vless","server":"5.39.249.148","port":2052,"udp":true,"uuid":"7fc70bb3-4c28-4e32-bbab-fef16aa2e3c0","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"sourceforge.net","reality-opts":{"public-key":"TrlASt8IKMTiR_C1PyLFm6PyvP-ja-x21rQDDkLbzyg","short-id":"21ad48aa95ff58b7"}}
   - {"name":"🇫🇷FR | 🟢 | vless | @nofiltering2 | 6","type":"vless","server":"45.95.233.11","port":8443,"udp":true,"uuid":"219ee52a-0e91-4f36-93a5-3e28a4830a7a","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"bunny.net","flow":"xtls-rprx-vision","reality-opts":{"public-key":"os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg","short-id":"f8d8d12585198cb5"}}
   - {"name":"🚩CF | 🔴 | vless | @nofiltering2 | 14","type":"vless","server":"104.17.122.14","port":8080,"udp":false,"uuid":"2dcbbad3-f74a-4f8d-a711-0801ead02deb","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li","ws-opts":{"path":"/admin","headers":{"host":"free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li"}}}
@@ -538,11 +537,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 5'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 12'
+      - '🇩🇪DE | 🔴 | vless | @mehrosaboran | 0'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 1'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 6'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 9'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 1'
       - '🇫🇷FR | 🟢 | vless | @nofiltering2 | 6'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 14'
@@ -767,11 +765,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 5'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 12'
+      - '🇩🇪DE | 🔴 | vless | @mehrosaboran | 0'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 1'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 6'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 9'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 1'
       - '🇫🇷FR | 🟢 | vless | @nofiltering2 | 6'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 14'
@@ -995,11 +992,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 5'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 8'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
-      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 12'
+      - '🇩🇪DE | 🔴 | vless | @mehrosaboran | 0'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 1'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 6'
+      - '🇺🇸US | 🔴 | vless | @mehrosaboran | 9'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 1'
       - '🇫🇷FR | 🟢 | vless | @nofiltering2 | 6'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 14'
