@@ -102,9 +102,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
-                "❔XX | 🟢 | ss | @VmessProtocol | 11",
-                "❔XX | 🟢 | ss | @kingofilter | 3",
+                "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 11",
+                "🇦🇪AE | 🟢 | ss | @kingofilter | 3",
                 "❔XX | 🟢 | ss | @kingofilter | 13"
             ]
         },
@@ -112,9 +112,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
-                "❔XX | 🟢 | ss | @VmessProtocol | 11",
-                "❔XX | 🟢 | ss | @kingofilter | 3",
+                "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 11",
+                "🇦🇪AE | 🟢 | ss | @kingofilter | 3",
                 "❔XX | 🟢 | ss | @kingofilter | 13"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -138,7 +138,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
+            "tag": "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
             "type": "shadowsocks",
             "server": "homa.cybsecguru.com",
             "server_port": 55551,
@@ -148,7 +148,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 11",
+            "tag": "🇳🇱NL | 🟢 | ss | @VmessProtocol | 11",
             "type": "shadowsocks",
             "server": "45.158.171.66",
             "server_port": 8080,
@@ -158,7 +158,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 3",
+            "tag": "🇦🇪AE | 🟢 | ss | @kingofilter | 3",
             "type": "shadowsocks",
             "server": "api.namasha.co",
             "server_port": 443,
