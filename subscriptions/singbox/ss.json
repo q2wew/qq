@@ -102,10 +102,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
                 "❔XX | 🟢 | ss | @VmessProtocol | 3",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
-                "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
+                "❔XX | 🟢 | ss | @VmessProtocol | 15",
+                "❔XX | 🟢 | ss | @kingofilter | 5",
                 "❔XX | 🟢 | ss | @kingofilter | 15"
             ]
         },
@@ -113,10 +113,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
                 "❔XX | 🟢 | ss | @VmessProtocol | 3",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
-                "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
+                "❔XX | 🟢 | ss | @VmessProtocol | 15",
+                "❔XX | 🟢 | ss | @kingofilter | 5",
                 "❔XX | 🟢 | ss | @kingofilter | 15"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -140,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
+            "tag": "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
             "type": "shadowsocks",
             "server": "homa.cybsecguru.com",
             "server_port": 55551,
@@ -160,7 +160,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
+            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 15",
             "type": "shadowsocks",
             "server": "45.158.171.66",
             "server_port": 8080,
@@ -170,7 +170,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
+            "tag": "❔XX | 🟢 | ss | @kingofilter | 5",
             "type": "shadowsocks",
             "server": "api.namasha.co",
             "server_port": 443,
