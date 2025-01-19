@@ -116,7 +116,7 @@
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇷CR | 🟢 | vless | @proxy_kafee | 4",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
@@ -145,7 +145,6 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
                 "🇸🇬SG | 🔴 | vless | @DailyV2RY | 250",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -191,7 +190,7 @@
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇷CR | 🟢 | vless | @proxy_kafee | 4",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇸🇪SE | 🟢 | ss | @azadi_az_inja_migzare | 0",
@@ -220,7 +219,6 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
                 "🇸🇬SG | 🔴 | vless | @DailyV2RY | 250",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -637,11 +635,11 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🟢 | vless | @proxy_kafee | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
-            "server": "ns4.esfahansiman.com",
+            "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "cd8e9b4f-8ba1-4ddc-99e7-29cfbffc9d41",
+            "uuid": "a17e37dd-4589-4e3a-9c73-7a69c159e771",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -651,7 +649,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "WWW.pegAh-Esfahan.De.",
+                "server_name": "live.wkrq.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -661,9 +659,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/@VpnWedbaz-----@VpnWedbaz?ed=2560",
                 "headers": {
-                    "Host": "WWW.pegAh-Esfahan.De."
+                    "Host": "live.wkrq.com"
                 }
             }
         },
@@ -1319,16 +1317,6 @@
                     "Host": "sni2.tohid3aeed.com"
                 }
             }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
-            "type": "shadowsocks",
-            "server": "45.158.171.66",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
