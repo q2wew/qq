@@ -136,6 +136,8 @@
                 "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 13",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "❔XX | 🔴 | vless | @MTConfig | 11",
+                "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇯🇵JP | 🔴 | vless | @DailyV2RY | 268",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -200,6 +202,8 @@
                 "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 13",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "❔XX | 🔴 | vless | @MTConfig | 11",
+                "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇯🇵JP | 🔴 | vless | @DailyV2RY | 268",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -1076,6 +1080,68 @@
                 "path": "\/Telegram-@proxy_mtm-Telegram-@proxy_mtm-Telegram-@proxy_mtm?ed=2560",
                 "headers": {
                     "Host": "SAEEd-9j2.pAGEs.dEV"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @MTConfig | 11",
+            "type": "vless",
+            "server": "all.vipxali.cfd",
+            "server_port": 2083,
+            "uuid": "57d3cc07-b809-4ad8-a34d-5a5196e51611",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "dm.XsV2ray.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
+            "type": "vless",
+            "server": "1.windscribe.cam",
+            "server_port": 2087,
+            "uuid": "6e643b53-f30a-443d-a069-c5826f365403",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sni2.tohid3aeed.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "sni2.tohid3aeed.com"
                 }
             }
         },
