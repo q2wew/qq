@@ -401,7 +401,6 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 13",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 16",
                 "🚩CF | 🔴 | vless | @free1_vpn | 18",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇫🇷FR | 🔴 | vless | @fnet00 | 4",
@@ -463,7 +462,7 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🚩CF | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🟢 | vless | @kingofilter | 13",
-                "❔XX | 🔴 | vless | @kingofilter | 14",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 14",
                 "🚩CF | 🔴 | vless | @kingofilter | 16",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 1",
@@ -777,7 +776,6 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 13",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 16",
                 "🚩CF | 🔴 | vless | @free1_vpn | 18",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇫🇷FR | 🔴 | vless | @fnet00 | 4",
@@ -839,7 +837,7 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🚩CF | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🟢 | vless | @kingofilter | 13",
-                "❔XX | 🔴 | vless | @kingofilter | 14",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 14",
                 "🚩CF | 🔴 | vless | @kingofilter | 16",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 1",
@@ -8260,27 +8258,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 19",
-            "type": "vless",
-            "server": "78.157.59.140",
-            "server_port": 50067,
-            "uuid": "9e316ce0-8fd3-4058-bc5e-241f9c3a9f56",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "78.157.59.140"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "137.175.84.77",
@@ -9983,7 +9960,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 14",
             "type": "vless",
             "server": "ssl-marz.tan3.ir",
             "server_port": 8443,
