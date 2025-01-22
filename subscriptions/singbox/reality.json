@@ -149,8 +149,9 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇫🇷FR | 🔴 | vless | @fnet00 | 4",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 5",
-                "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 1",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+                "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇫🇷FR | 🟢 | vless | @mehrosaboran | 2",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 3",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
@@ -230,8 +231,9 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇫🇷FR | 🔴 | vless | @fnet00 | 4",
                 "🇻🇳VN | 🔴 | vless | @fnet00 | 5",
-                "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 1",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+                "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇫🇷FR | 🟢 | vless | @mehrosaboran | 2",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 3",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
@@ -1699,7 +1701,36 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+            "type": "vless",
+            "server": "us01.ssr.ee",
+            "server_port": 443,
+            "uuid": "9d0a75d2-f747-4afa-b43f-d208af9e8f9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "itunes.apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇭🇰HK | 🟢 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "45.196.233.58",
             "server_port": 443,
@@ -1728,7 +1759,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 13",
             "type": "vless",
             "server": "45.90.96.250",
             "server_port": 44441,
