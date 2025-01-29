@@ -100,8 +100,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
-                "🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | ss | @VmessProtocol | 12",
                 "🇦🇪AE | 🟢 | ss | @kingofilter | 14"
             ]
@@ -110,8 +108,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
-                "🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | ss | @VmessProtocol | 12",
                 "🇦🇪AE | 🟢 | ss | @kingofilter | 14"
             ],
@@ -134,26 +130,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
-            "type": "shadowsocks",
-            "server": "23.157.40.95",
-            "server_port": 7306,
-            "method": "aes-256-gcm",
-            "password": "FoOiGlkAA9yPEGP",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 18",
-            "type": "shadowsocks",
-            "server": "81.19.141.45",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "dNq6gDwsAWnUMZGCE4oJKi",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "❔XX | 🟢 | ss | @VmessProtocol | 12",
