@@ -104,7 +104,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -124,8 +124,7 @@
                 "❔XX | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 27",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 28",
+                "🇸🇨SC | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -168,7 +167,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🔴 | vless | @XsV2ray | 11",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -188,8 +187,7 @@
                 "❔XX | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 27",
-                "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 28",
+                "🇸🇨SC | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -317,9 +315,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "3.96.17.9",
+            "server": "15.236.251.197",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -350,7 +348,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "99.79.140.88",
+            "server": "3.96.17.9",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -807,11 +805,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 27",
+            "tag": "🇸🇨SC | 🟢 | vless | @ShadowProxy66 | 3",
             "type": "vless",
-            "server": "spb1.fromblancwithlove.com",
-            "server_port": 8443,
-            "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
+            "server": "154.197.75.211",
+            "server_port": 443,
+            "uuid": "cc6b985d-0362-4129-8763-38564174fb3e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -821,37 +819,20 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "spb1.fromblancwithlove.com",
+                "server_name": "iryiccyne.wwtraveler.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "tag": "🇷🇺RU | 🟢 | vless | @ShadowProxy66 | 28",
-            "type": "vless",
-            "server": "81.94.150.122",
-            "server_port": 8443,
-            "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "spb1.fromblancwithlove.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+            "transport": {
+                "type": "grpc",
+                "service_name": "michi",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
