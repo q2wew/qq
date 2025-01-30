@@ -100,7 +100,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @VmessProtocol | 12",
                 "🇦🇪AE | 🟢 | ss | @kingofilter | 15"
             ]
         },
@@ -108,7 +107,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @VmessProtocol | 12",
                 "🇦🇪AE | 🟢 | ss | @kingofilter | 15"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -130,16 +128,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 12",
-            "type": "shadowsocks",
-            "server": "freakconfig86.usecharge.ir",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "🇦🇪AE | 🟢 | ss | @kingofilter | 15",
