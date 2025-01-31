@@ -461,7 +461,8 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇷🇴RO | 🔴 | vless | @fnet00 | 0",
                 "🇮🇹IT | 🔴 | vless | @fnet00 | 1",
                 "🇧🇪BE | 🔴 | vless | @fnet00 | 2",
@@ -501,7 +502,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
-                "🇫🇮FI | 🟢 | vmess | @nofiltering2 | 4",
+                "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
@@ -907,7 +908,8 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇷🇴RO | 🔴 | vless | @fnet00 | 0",
                 "🇮🇹IT | 🔴 | vless | @fnet00 | 1",
                 "🇧🇪BE | 🔴 | vless | @fnet00 | 2",
@@ -947,7 +949,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
-                "🇫🇮FI | 🟢 | vmess | @nofiltering2 | 4",
+                "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
@@ -9707,7 +9709,24 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "cbabaca-baac-aabc-dbac-bbacccabacab",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "144.202.19.230",
             "server_port": 8881,
@@ -10604,7 +10623,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vmess | @nofiltering2 | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 4",
             "type": "vmess",
             "server": "all97-vip.f-sub.com",
             "server_port": 9416,
