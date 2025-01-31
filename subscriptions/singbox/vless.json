@@ -408,7 +408,8 @@
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "❔XX | 🔴 | vless | @FreakConfig | 0",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 0",
+                "❔XX | 🔴 | vless | @FreakConfig | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
@@ -418,13 +419,13 @@
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
-                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 2",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -777,7 +778,8 @@
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "❔XX | 🔴 | vless | @FreakConfig | 0",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 0",
+                "❔XX | 🔴 | vless | @FreakConfig | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
@@ -787,13 +789,13 @@
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
-                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 2",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+                "🇳🇱NL | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -8586,7 +8588,31 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 0",
+            "type": "vless",
+            "server": "freakconfigs1.usecharge.ir",
+            "server_port": 443,
+            "uuid": "5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "media.sanaiegh.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "FreakConfig2.plantgreen.ir",
             "server_port": 443,
@@ -8799,7 +8825,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+            "type": "vless",
+            "server": "151.101.0.155",
+            "server_port": 80,
+            "uuid": "Hqv2RayNGx",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG?ed=80",
+                "headers": {
+                    "Host": "151.101.0.155"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
             "type": "vless",
             "server": "Amin11.auiyf.com",
             "server_port": 443,
@@ -8830,7 +8877,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
             "type": "vless",
             "server": "151.101.0.155",
             "server_port": 80,
@@ -8851,7 +8898,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @mehrosaboran | 2",
+            "tag": "🇳🇱NL | 🔴 | vless | @mehrosaboran | 3",
             "type": "vless",
             "server": "194.54.158.180",
             "server_port": 88,
@@ -8880,7 +8927,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
             "type": "vless",
             "server": "fishlab.ucdavis.edu",
             "server_port": 443,
@@ -8911,7 +8958,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
             "type": "vless",
             "server": "151.101.2.165",
             "server_port": 80,
@@ -8932,7 +8979,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "49.12.200.119",
             "server_port": 2053,
@@ -8949,27 +8996,6 @@
                 "path": "\/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560",
                 "headers": {
                     "Host": "49.12.200.119"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
-            "type": "vless",
-            "server": "151.101.0.155",
-            "server_port": 80,
-            "uuid": "Hqv2RayNG",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG?ed=80",
-                "headers": {
-                    "Host": "151.101.0.155"
                 }
             }
         },
