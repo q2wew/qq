@@ -115,7 +115,7 @@
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 15",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇳🇱NL | 🟢 | ss | @kingofilter | 11"
+                "🇳🇱NL | 🟢 | ss | @kingofilter | 12"
             ]
         },
         {
@@ -135,7 +135,7 @@
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 15",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19",
-                "🇳🇱NL | 🟢 | ss | @kingofilter | 11"
+                "🇳🇱NL | 🟢 | ss | @kingofilter | 12"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -288,7 +288,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇳🇱NL | 🟢 | ss | @kingofilter | 11",
+            "tag": "🇳🇱NL | 🟢 | ss | @kingofilter | 12",
             "type": "shadowsocks",
             "server": "45.158.171.151",
             "server_port": 8080,
