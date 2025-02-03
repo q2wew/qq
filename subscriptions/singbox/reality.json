@@ -107,7 +107,8 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 147",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 146",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 153",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 8",
                 "🇹🇷TR | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 26",
@@ -168,7 +169,8 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 147",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 146",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 153",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 8",
                 "🇹🇷TR | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 26",
@@ -399,7 +401,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 147",
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 146",
             "type": "vless",
             "server": "138.124.61.246",
             "server_port": 443,
@@ -424,6 +426,35 @@
                     "enabled": true,
                     "public_key": "1tA2CIltAtu_CMKCMWqH4zuRi-EA9LFG9Wz6SI0_sG4",
                     "short_id": "ff"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 153",
+            "type": "vless",
+            "server": "SVNTEAM.MiSVN.iR",
+            "server_port": 443,
+            "uuid": "SVNTEAM1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE",
+                    "short_id": ""
                 }
             }
         },
