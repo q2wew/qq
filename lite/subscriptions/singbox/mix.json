@@ -126,7 +126,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 158",
                 "🇷🇺RU | 🔴 | vless | @prrofile_purple | 159",
                 "❔XX | 🔴 | vless | @customv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 42",
@@ -150,7 +150,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 17",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🟢 | vmess | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -200,7 +201,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 158",
                 "🇷🇺RU | 🔴 | vless | @prrofile_purple | 159",
                 "❔XX | 🔴 | vless | @customv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 42",
@@ -224,7 +225,8 @@
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 17",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🟢 | vmess | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -820,7 +822,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @customv2ray | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1495,7 +1497,24 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "cacaabb-caab-baca-bacd-cabbcbccabaa",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "13.mamamajd.site",
             "server_port": 23613,
