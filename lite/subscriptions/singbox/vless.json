@@ -102,8 +102,8 @@
                 "URL-TEST",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 40",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -116,8 +116,8 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇫🇷FR | 🔴 | vless | @prrofile_purple | 150",
-                "❔XX | 🔴 | vless | @prrofile_purple | 151",
+                "🇫🇷FR | 🔴 | vless | @prrofile_purple | 158",
+                "❔XX | 🔴 | vless | @prrofile_purple | 159",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
@@ -167,8 +167,8 @@
             "outbounds": [
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 40",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -181,8 +181,8 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇫🇷FR | 🔴 | vless | @prrofile_purple | 150",
-                "❔XX | 🔴 | vless | @prrofile_purple | 151",
+                "🇫🇷FR | 🔴 | vless | @prrofile_purple | 158",
+                "❔XX | 🔴 | vless | @prrofile_purple | 159",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
@@ -291,9 +291,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "13.53.241.252",
+            "server": "13.39.238.219",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -322,9 +322,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.61.235.32",
+            "server": "3.74.53.224",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -645,7 +645,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @prrofile_purple | 150",
+            "tag": "🇫🇷FR | 🔴 | vless | @prrofile_purple | 158",
             "type": "vless",
             "server": "185.153.183.181",
             "server_port": 3237,
@@ -659,7 +659,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 151",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 159",
             "type": "vless",
             "server": "[2a01:4f8:c010:1d97::1]",
             "server_port": 51047,
