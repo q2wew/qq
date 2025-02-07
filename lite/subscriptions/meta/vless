@@ -127,8 +127,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 1","type":"vless","server":"151.101.2.216","port":80,"udp":false,"uuid":"16190e3c-6c1b-45c3-8be2-48ef92c211a2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN?ed=2048?ed=2048","headers":{"host":"Lockey-vip.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 7","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68613","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 8","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68612","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 2","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"a8ea6081-4e75-4dc1-af37-22ba2dae5829","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 3","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"02cbb220-1bf7-4e0b-ba03-beea669d3f43","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048","headers":{"host":"joinshhproxybedeeeee.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 4","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/LwW5jwrnymnOdqki?ed=2560","headers":{"host":"redw.pooriam.ir"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @prrofile_purple | 159","type":"vless","server":"213.176.7.124","port":2837,"udp":false,"uuid":"d6d3374b-62df-4d48-af46-fa2b359ef100","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @customv2ray | 9","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":443,"udp":false,"uuid":"e3cc943b-57cf-4e60-94a8-29197f8790cd","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"zmaoz.faculty.ucdavis.edu.","ws-opts":{"path":"/olem/ws?ed=4096","headers":{"host":"fonmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0","type":"vless","server":"44.200.154.162","port":443,"udp":true,"uuid":"45540661-2a83-4b79-a9c3-79c65a47f2cf","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"api.cloudflare.com","reality-opts":{"public-key":"wYrjf_ib_AYKP-aLE1fI8n3czBWoKI41Fx89QIpxlxQ","short-id":"3e4083278c"}}
@@ -181,8 +181,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 159'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0'
@@ -235,8 +235,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 159'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0'
@@ -288,8 +288,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
+      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 2'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 3'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 4'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 159'
       - '🇺🇸US | 🔴 | vless | @customv2ray | 9'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0'
