@@ -103,7 +103,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 34",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 35",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
@@ -117,11 +117,13 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 21",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -169,7 +171,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 34",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 35",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
@@ -183,11 +185,13 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 21",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -324,9 +328,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "15.156.243.175",
+            "server": "13.39.88.147",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -357,7 +361,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "15.157.47.237",
+            "server": "15.156.243.175",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -678,6 +682,34 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "627a4fee-ae9b-8ef9-6e66-a4e128dd2331",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
+            "type": "vless",
+            "server": "57.129.58.147",
+            "server_port": 22671,
+            "uuid": "ebc5660f-bb9b-415c-94ab-d3630189ceb9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 11",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
@@ -765,7 +797,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 21",
+            "tag": "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 36",
             "type": "vless",
             "server": "s26.radnikmax.ir",
             "server_port": 8452,
