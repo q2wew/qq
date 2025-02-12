@@ -110,8 +110,8 @@
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 7",
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 0",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 7"
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 1",
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 8"
             ]
         },
         {
@@ -126,8 +126,8 @@
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 7",
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 0",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 7"
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 1",
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -230,7 +230,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 0",
+            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 1",
             "type": "shadowsocks",
             "server": "series-a1.samanehha.co",
             "server_port": 443,
@@ -240,7 +240,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 7",
+            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 8",
             "type": "shadowsocks",
             "server": "api.namasha.co",
             "server_port": 443,
