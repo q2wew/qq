@@ -103,7 +103,6 @@
             "outbounds": [
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
@@ -415,13 +414,12 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 275",
                 "🚩CF | 🔴 | vless | @sinabigo | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 15",
-                "🇷🇴RO | 🔴 | vless | @fnet00 | 4",
                 "@vpnAndroid2,@vpnAndroid2,@vpnAndroid2,@vpnAndroid2&security=none&encryption=none&host=EevpnAndroid2.69.mu.&type=ws#🇪🇪EE | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 1",
-                "❔XX | 🔴 | vless | @FreakConfig | 3",
+                "❔XX | 🔴 | vless | @FreakConfig | 2",
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 6",
@@ -431,6 +429,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 10",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 2",
@@ -492,7 +491,6 @@
             "type": "urltest",
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
@@ -804,13 +802,12 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 275",
                 "🚩CF | 🔴 | vless | @sinabigo | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 15",
-                "🇷🇴RO | 🔴 | vless | @fnet00 | 4",
                 "@vpnAndroid2,@vpnAndroid2,@vpnAndroid2,@vpnAndroid2&security=none&encryption=none&host=EevpnAndroid2.69.mu.&type=ws#🇪🇪EE | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇷🇺RU | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 1",
-                "❔XX | 🔴 | vless | @FreakConfig | 3",
+                "❔XX | 🔴 | vless | @FreakConfig | 2",
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 6",
@@ -820,6 +817,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 10",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 2",
@@ -897,27 +895,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
-            "type": "vless",
-            "server": "join.ELiV2.RAY.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "350ba876-0706-4525-b342-f70062cb24f8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY?ed=2560",
-                "headers": {
-                    "Host": "join.ELiV2.RAY.fastly80-3.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
             "server": "join.ELiV2.RAY.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -8554,30 +8531,6 @@
             }
         },
         {
-            "tag": "🇷🇴RO | 🔴 | vless | @fnet00 | 4",
-            "type": "vless",
-            "server": "buh-ro-01.fromblancwithlove.com",
-            "server_port": 8443,
-            "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "buh-ro-01.fromblancwithlove.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "@vpnAndroid2,@vpnAndroid2,@vpnAndroid2,@vpnAndroid2&security=none&encryption=none&host=EevpnAndroid2.69.mu.&type=ws#🇪🇪EE | 🔴 | vless | @Outlinev2rayNG | 0",
             "type": "vless",
             "server": "5.181.23.67",
@@ -8644,7 +8597,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
             "type": "vless",
-            "server": "freakconfigz12.usecharge.ir",
+            "server": "freakconfigz13.usecharge.ir",
             "server_port": 3237,
             "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
             "flow": "",
@@ -8657,6 +8610,20 @@
         },
         {
             "tag": "❔XX | 🔴 | vless | @FreakConfig | 1",
+            "type": "vless",
+            "server": "freakconfigz12.usecharge.ir",
+            "server_port": 3237,
+            "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "freakconfigs11.usecharge.ir",
             "server_port": 443,
@@ -8680,7 +8647,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 3",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 4",
             "type": "vless",
             "server": "freakconfigz10.usecharge.ir",
             "server_port": 3237,
@@ -8694,7 +8661,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 4",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 5",
             "type": "vless",
             "server": "freakconfigs9.usecharge.ir",
             "server_port": 443,
@@ -8718,7 +8685,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 5",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 6",
             "type": "vless",
             "server": "freakconfigz8.usecharge.ir",
             "server_port": 3237,
@@ -8732,7 +8699,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 6",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "freakconfigz7.usecharge.ir",
             "server_port": 3237,
@@ -8746,7 +8713,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 8",
             "type": "vless",
             "server": "freakconfigz6.usecharge.ir",
             "server_port": 3237,
@@ -8760,7 +8727,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 8",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "freakconfigz5.usecharge.ir",
             "server_port": 3237,
@@ -8774,7 +8741,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 10",
             "type": "vless",
             "server": "freakconfigz4.usecharge.ir",
             "server_port": 3237,
@@ -8788,7 +8755,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 10",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "freakconfigz3.usecharge.ir",
             "server_port": 3237,
@@ -8802,7 +8769,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 12",
             "type": "vless",
             "server": "freakconfigz2.usecharge.ir",
             "server_port": 3237,
@@ -8816,7 +8783,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 12",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "freakconfigs2.usecharge.ir",
             "server_port": 443,
