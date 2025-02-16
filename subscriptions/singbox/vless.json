@@ -178,7 +178,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -451,6 +450,8 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
+                "🇺🇸US | 🔴 | vless | @SvnTeam | 18",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 19",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -539,7 +540,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -812,6 +812,8 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 1",
+                "🇺🇸US | 🔴 | vless | @SvnTeam | 18",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 19",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -2858,27 +2860,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -9689,6 +9670,66 @@
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
             "uuid": "SVNTEAM1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @SvnTeam | 18",
+            "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 443,
+            "uuid": "SVNTEAM4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mio.splashthat.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880",
+                "headers": {
+                    "Host": "mio.splashthat.com"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 19",
+            "type": "vless",
+            "server": "SVNTEAM.MiSVN.iR",
+            "server_port": 443,
+            "uuid": "SVNTEAM4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
