@@ -104,8 +104,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3"
             ]
         },
         {
@@ -116,8 +115,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -232,13 +230,13 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
-            "server": "104.21.16.100",
-            "server_port": 2053,
-            "uuid": "eb817168-5f83-4fba-af99-881ec0e547b1",
+            "server": "38.14.107.228",
+            "server_port": 38003,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 64,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -249,7 +247,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "qurantv.iribquran.com",
+                "server_name": "www.23179753.xyz",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -259,27 +257,10 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/path\/181721272114",
                 "headers": {
-                    "Host": "qurantv.iribquran.com"
+                    "Host": "www.23179753.xyz"
                 }
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "38.114.120.12",
-            "server_port": 47567,
-            "uuid": "cda5dfaa-99e8-42d6-9f0b-6ef30f76e92c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         }
     ],
