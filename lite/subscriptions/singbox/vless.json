@@ -116,7 +116,7 @@
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+                "🇳🇱NL | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -142,8 +142,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -182,7 +182,7 @@
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+                "🇳🇱NL | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -208,8 +208,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -648,11 +648,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇳🇱NL | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "5b161de6-a9a6-4766-887b-8296d2d00afb",
+            "server": "212.34.133.75",
+            "server_port": 14926,
+            "uuid": "ZEDMODEON--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -661,11 +661,11 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "ws",
-                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "151.101.3.8"
-                }
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -673,7 +673,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "60ab0031-0565-4016-8b11-ef3b131be5a1",
+            "uuid": "5b161de6-a9a6-4766-887b-8296d2d00afb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1303,11 +1303,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
             "type": "vless",
-            "server": "jermaine.ns.cloudflare.com",
+            "server": "chloe.ns.cloudflare.com",
             "server_port": 443,
-            "uuid": "6de3ddb1-730a-4e7a-8299-3b6aec443abf",
+            "uuid": "0b91181c-642f-4d43-9317-67073ef11016",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1317,7 +1317,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "rjhlw9.proximavpn.site",
+                "server_name": "92br3s.fivegravity.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1329,16 +1329,16 @@
                 "type": "ws",
                 "path": "\/wss",
                 "headers": {
-                    "Host": "rjhlw9.proximavpn.site"
+                    "Host": "92br3s.fivegravity.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 338",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
             "type": "vless",
-            "server": "cash.ns.cloudflare.com",
+            "server": "angelina.ns.cloudflare.com",
             "server_port": 443,
-            "uuid": "06f5a37f-d48e-4f4b-8b76-8b7735641cb7",
+            "uuid": "001c68cc-9b25-4762-9687-7349bbc4320b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1348,7 +1348,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "5tpuq8.allgums.com",
+                "server_name": "bs50ch.testsnew.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1360,7 +1360,7 @@
                 "type": "ws",
                 "path": "\/wss",
                 "headers": {
-                    "Host": "5tpuq8.allgums.com"
+                    "Host": "bs50ch.testsnew.com"
                 }
             }
         },
