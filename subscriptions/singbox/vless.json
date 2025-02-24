@@ -408,10 +408,9 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 3",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 6",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 10",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -758,10 +757,9 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 3",
-                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 6",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 10",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 3",
@@ -8550,7 +8548,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 6",
             "type": "vless",
             "server": "c2.vact.ir",
             "server_port": 443,
@@ -8586,7 +8584,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 10",
             "type": "vless",
             "server": "c2.vact.ir",
             "server_port": 443,
@@ -8622,7 +8620,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 14",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -8639,27 +8637,6 @@
                 "path": "\/Telegram,V2RAXX,Telegram,",
                 "headers": {
                     "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
-            "type": "vless",
-            "server": "join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "b5991ab6-76c0-45c5-ab96-886e5430b90a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE",
-                "headers": {
-                    "Host": "join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com"
                 }
             }
         },
