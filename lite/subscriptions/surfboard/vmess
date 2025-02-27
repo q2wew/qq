@@ -11,11 +11,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+🇦🇹AT | 🟢 | vmess | @DeamNet_Proxy | 18 = vmess, at1-vmess.greenssh.org, 80, username = 9b5480d2-4d9f-42e7-8802-d6cb61236a1f, ws = true, tls = , vmess-aead = true, ws-path = /vmess, ws-headers = Host:"at1-vmess.greenssh.org", skip-cert-verify = true, tfo = false
 🇨🇳CN | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
-URL-TEST = url-test,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
-FALLBACK = fallback,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
+MANUAL = select,URL-TEST,FALLBACK,🇦🇹AT | 🟢 | vmess | @DeamNet_Proxy | 18,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
+URL-TEST = url-test,🇦🇹AT | 🟢 | vmess | @DeamNet_Proxy | 18,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
+FALLBACK = fallback,🇦🇹AT | 🟢 | vmess | @DeamNet_Proxy | 18,🇨🇳CN | 🟢 | vmess | @yaney_01 | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
