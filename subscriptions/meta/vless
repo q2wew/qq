@@ -198,7 +198,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 6","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68614","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 7","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68613","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 8","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68612","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 1","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/LwW5jwrnymnOdqki?ed=2560","headers":{"host":"redw.pooriam.ir"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @proxy_kafee | 1","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/LwW5jwrnymnOdqki?ed=2560","headers":{"host":"redw.pooriam.ir"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 120","type":"vless","server":"mehdi.vact.ir","port":443,"udp":true,"uuid":"ad619b35-e90f-49a7-8851-a6fc9018c719","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN"},"reality-opts":{"public-key":"Aq5jw0I0Vtj6AOthjzuEMrMgzv9uqarSiK-S3qWJmQU","short-id":"bae995654d"}}
   - {"name":"🚩CF | 🟢 | vless | @prrofile_purple | 122","type":"vless","server":"104.21.32.1","port":2053,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"HAsti.freEaIrlaIneS.com","ws-opts":{"path":"/","headers":{"host":"hasti.FrEEAiRlAINES.coM"}}}
   - {"name":"🚩CF | 🔴 | vless | @prrofile_purple | 123","type":"vless","server":"104.18.33.45","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fatwith.us.kg","ws-opts":{"path":"?ed=2560","headers":{"host":"fatwith.us.kg"}}}
@@ -475,7 +475,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
+      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 1'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 120'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 122'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 123'
@@ -752,7 +752,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
+      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 1'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 120'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 122'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 123'
@@ -1028,7 +1028,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 8'
-      - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
+      - '🇨🇦CA | 🔴 | vless | @proxy_kafee | 1'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 120'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 122'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 123'
