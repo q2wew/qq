@@ -134,6 +134,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
@@ -144,7 +145,6 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 422",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 423",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
@@ -204,6 +204,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
@@ -214,7 +215,6 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 422",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 423",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
@@ -1063,6 +1063,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 11",
+            "type": "vless",
+            "server": "iri.ginuerzht.ir",
+            "server_port": 2053,
+            "uuid": "5e95d97b-0db2-42dd-f462-18fd323a9eee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
             "type": "vless",
             "server": "172.67.187.170",
@@ -1318,20 +1332,6 @@
             "server": "18.117.186.100",
             "server_port": 80,
             "uuid": "4d5848af-3baf-4225-8f2b-fc25fc3370bb",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
-            "type": "vless",
-            "server": "iri.ginuerzht.ir",
-            "server_port": 2053,
-            "uuid": "5e95d97b-0db2-42dd-f462-18fd323a9eee",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
