@@ -178,6 +178,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 1",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 2",
@@ -230,7 +231,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+                "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
@@ -374,7 +375,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 37",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 38",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 39",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 41",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 42",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -628,6 +629,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 1",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 2",
@@ -680,7 +682,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+                "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
@@ -824,7 +826,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 37",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 38",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 39",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 41",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 42",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -2971,6 +2973,27 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "alfred.dnss-mobile.ir",
@@ -4116,7 +4139,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -7424,7 +7447,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
