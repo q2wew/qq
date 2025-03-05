@@ -179,7 +179,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 1",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 2",
@@ -482,7 +481,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 2",
                 "🇫🇮FI | 🟢 | vmess | @Hope_Net | 3",
                 "🇸🇬SG | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -635,7 +633,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 1",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 2",
@@ -938,7 +935,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 2",
                 "🇫🇮FI | 🟢 | vmess | @Hope_Net | 3",
                 "🇸🇬SG | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -2949,27 +2945,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-            "type": "vless",
-            "server": "AC.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "AC.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "AC.fastly80-2.hosting-ip.com",
             "server_port": 80,
@@ -9757,23 +9732,6 @@
                 "headers": {
                     "Host": "140.245.56.201"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "baacacb-caab-baac-acdb-bcbaaacbccab",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
