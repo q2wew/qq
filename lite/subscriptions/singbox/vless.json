@@ -121,7 +121,6 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 159",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -189,7 +188,6 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 159",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -774,27 +772,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 159",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 80,
-            "uuid": "Parsashonam-180",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Parsashonam",
-                "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
-                }
             }
         },
         {
