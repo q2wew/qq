@@ -407,11 +407,12 @@
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🔴 | vless | @FreakConfig | 9",
@@ -786,11 +787,12 @@
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🔴 | vless | @FreakConfig | 9",
@@ -8246,7 +8248,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+            "type": "vless",
+            "server": "104.26.14.85",
+            "server_port": 80,
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram@mtmvpn?ed=2560",
+                "headers": {
+                    "Host": "104.26.14.85"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "172.67.204.84",
             "server_port": 80,
@@ -8267,7 +8290,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 80,
@@ -8288,7 +8311,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
             "type": "vless",
             "server": "172.67.75.172",
             "server_port": 80,
@@ -8309,7 +8332,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -8330,7 +8353,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
