@@ -408,7 +408,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 11",
+                "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
@@ -780,7 +780,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 11",
+                "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
@@ -8363,7 +8363,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 11",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "freakconfig-1.usecharge.ir",
             "server_port": 443,
@@ -8533,6 +8533,48 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "19f7214d-17f5-43d0-ee0f-b17cd5fc0376",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/olem\/ws?ed=1024",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
+            "type": "vless",
+            "server": "151.101.64.155",
+            "server_port": 80,
+            "uuid": "259388c2-31be-4184-b8c1-d79e7a6fe2b5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry",
+                "headers": {
+                    "Host": "151.101.64.155"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
+            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
             "uuid": "TELEGRAM-NUFiLTER-4ba1cbd17180",
@@ -8552,7 +8594,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8573,7 +8615,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -8604,7 +8646,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -8635,7 +8677,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8656,7 +8698,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8677,7 +8719,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8698,7 +8740,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -8719,7 +8761,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8740,7 +8782,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -8757,58 +8799,6 @@
                 "path": "\/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry",
                 "headers": {
                     "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "c21bb465-a63e-4f23-8e9e-7e6ae81478ec",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "891fc301-09ec-4aac-b5e5-2c4275ddfdf6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=4096",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu."
                 }
             }
         },
