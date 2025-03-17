@@ -124,6 +124,7 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 157",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -193,6 +194,7 @@
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 157",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -852,11 +854,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 157",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
             "type": "vless",
-            "server": "JOIN.MOSIV2.fastly80-3.hosting-ip.com",
+            "server": "tgju.org",
             "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -866,9 +868,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2?ed=2560",
+                "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "JOIN.MOSIV2.fastly80-3.hosting-ip.com"
+                    "Host": "tgju.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 157",
+            "type": "vless",
+            "server": "AC.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "AC.fastly80-2.hosting-ip.com"
                 }
             }
         },
