@@ -151,8 +151,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -222,8 +222,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
@@ -1508,6 +1508,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
+            "type": "vless",
+            "server": "whatismyipaddress.com",
+            "server_port": 2096,
+            "uuid": "8d4d81ee-5928-4617-8726-22a47164e766",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir"
+                }
+            }
+        },
+        {
             "tag": "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
             "server": "185.146.173.37",
@@ -1535,27 +1566,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "An66Mg2Gf4.MySpDmMeTi.CoM"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "tgju.org"
                 }
             }
         },
