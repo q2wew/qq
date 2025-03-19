@@ -150,9 +150,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
+                "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 9",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -230,9 +229,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
+                "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 9",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -1432,7 +1430,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 8",
+            "tag": "🇩🇪DE | 🟢 | trojan | @VmessProtocol | 9",
             "type": "trojan",
             "server": "57.129.50.213",
             "server_port": 1935,
@@ -1454,7 +1452,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 336",
             "type": "vless",
             "server": "soccer120.info",
             "server_port": 2087,
@@ -1468,7 +1466,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "Tp289Im2F1.rAmAzAn1.InFo",
+                "server_name": "Tp2871HmT0.rAmAzAn3.InFo",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1480,38 +1478,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "Tp289Im2F1.rAmAzAn1.InFo"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
-            "type": "vless",
-            "server": "soccer120.info",
-            "server_port": 2087,
-            "uuid": "31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Tp28777NzQ.rAmAzAn3.InFo",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "Tp28777NzQ.rAmAzAn3.InFo"
+                    "Host": "Tp2871HmT0.rAmAzAn3.InFo"
                 }
             }
         },
