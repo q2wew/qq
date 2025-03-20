@@ -127,7 +127,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 15","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"55f5accf-0aef-427f-a819-e59b4c79293a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"2.wexer-rih.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 16","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"4375e80e-d06f-4af9-bfec-afbfd63a1584","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"1.wexer-rih.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 6","type":"vless","server":"151.101.2.216","port":80,"udp":false,"uuid":"16190e3c-6c1b-45c3-8be2-48ef92c211a2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN?ed=2048?ed=2048","headers":{"host":"Lockey-vip.ir"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @lightning6 | 18","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"fbcc178c-af26-40ad-9ffe-0f573b93e601","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 18","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"fbcc178c-af26-40ad-9ffe-0f573b93e601","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 19","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"d60b448e-b17a-422a-b712-b7fd651688c0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇩🇪DE | 🟢 | vless | @vpn_xw | 1","type":"vless","server":"cld1.niassa.ir","port":443,"udp":true,"uuid":"d49b7b53-6697-4165-afb6-dce05a65a3c1","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"eset.com","reality-opts":{"public-key":"Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw","short-id":"2f"}}
   - {"name":"🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15","type":"vmess","server":"88.198.93.175","port":"8880","cipher":"auto","uuid":"58531009-b664-445b-b896-7bb9026b744d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -185,7 +185,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 6'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 18'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 18'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 19'
       - '🇩🇪DE | 🟢 | vless | @vpn_xw | 1'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
@@ -243,7 +243,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 6'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 18'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 18'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 19'
       - '🇩🇪DE | 🟢 | vless | @vpn_xw | 1'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
@@ -300,7 +300,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 6'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 18'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 18'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 19'
       - '🇩🇪DE | 🟢 | vless | @vpn_xw | 1'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
