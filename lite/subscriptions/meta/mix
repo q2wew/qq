@@ -162,8 +162,8 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @free1_vpn | 4","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"ada739a2-2443-4d75-85bd-3b4580457d8a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"1.wexer-rih.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @free1_vpn | 5","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"5e1306ff-3ffa-4166-89ab-1a06ff42eca6","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net","ws-opts":{"path":"/Telegram-XV2ry2?ed=512","headers":{"host":"www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net"}}}
-  - {"name":"🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 11","type":"vless","server":"156.238.18.246","port":2095,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"redw.pooriam.ir"}}}
-  - {"name":"🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 12","type":"vless","server":"185.146.173.112","port":8880,"udp":false,"uuid":"f6bd2c47-99da-4bca-bf70-7186aa9e7e06","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram@V2ray_Alpha","headers":{"host":"photographipictureai.ir"}}}
+  - {"name":"🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 11","type":"vless","server":"156.238.18.95","port":2095,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"redw.pooriam.ir"}}}
+  - {"name":"🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 12","type":"vless","server":"156.238.18.246","port":2095,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"redw.pooriam.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @FreakConfig | 5","type":"vless","server":"www.speedtest.net","port":2087,"udp":false,"uuid":"24a4aa9b-b341-4717-9d4a-00d74c2b84e0","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"8RgOrEeQ5s.MySpDmMeTi.CoM"}
   - {"name":"🇸🇪SE | 🔴 | vless | @FreakConfig | 6","type":"vless","server":"185.146.173.37","port":2096,"udp":false,"uuid":"24a4aa9b-b341-4717-9d4a-00d74c2b84e0","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"An66Mg2Gf4.MySpDmMeTi.CoM","ws-opts":{"path":"/","headers":{"host":"An66Mg2Gf4.MySpDmMeTi.CoM"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"259388c2-31be-4184-b8c1-d79e7a6fe2b5","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"2.wexer-rih.ir"}}}
@@ -226,7 +226,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 5'
       - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 11'
-      - '🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 12'
+      - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @FreakConfig | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
@@ -289,7 +289,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 5'
       - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 11'
-      - '🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 12'
+      - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @FreakConfig | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
@@ -351,7 +351,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 5'
       - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 11'
-      - '🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 12'
+      - '🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 5'
       - '🇸🇪SE | 🔴 | vless | @FreakConfig | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
