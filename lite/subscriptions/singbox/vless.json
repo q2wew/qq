@@ -116,7 +116,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -141,11 +141,11 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 137",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 138",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 130",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 131",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
-                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -185,7 +185,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -210,11 +210,11 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 137",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 138",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 130",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 131",
                 "❔XX | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
-                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
@@ -626,7 +626,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 19",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1221,11 +1221,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 137",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 130",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
+            "server_port": 2096,
+            "uuid": "96a1b724-68d2-4f4d-ab25-38ecd83577bc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1235,7 +1235,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ToWhIpPk0.CaFuNeAr.iNfO",
+                "server_name": "SjMyUfCp12.nEtTrIcKs.iNfO",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1247,15 +1247,15 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "ToWhIpPk0.CaFuNeAr.iNfO"
+                    "Host": "SjMyUfCp12.nEtTrIcKs.iNfO"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 138",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 131",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 8443,
+            "server_port": 443,
             "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1266,7 +1266,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "SoSdQaNr0.RoCkStOnEy.iNfO",
+                "server_name": "SoSdQaNr2.RoCkStOnEy.iNfO",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1278,7 +1278,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "SoSdQaNr0.RoCkStOnEy.iNfO"
+                    "Host": "SoSdQaNr2.RoCkStOnEy.iNfO"
                 }
             }
         },
@@ -1340,7 +1340,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
