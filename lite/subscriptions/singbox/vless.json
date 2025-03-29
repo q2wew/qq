@@ -103,7 +103,7 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+                "🇺🇸US | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
@@ -174,7 +174,7 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+                "🇺🇸US | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
@@ -314,7 +314,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 0",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -624,7 +624,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "f8ab8480-2721-46de-b2c2-3cd884dd6d18",
+            "uuid": "6275d0ea-f71f-4c73-a292-130f524ae08f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -645,7 +645,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "5bde66f7-37a8-48c4-bc2c-be7499213cae",
+            "uuid": "f8ab8480-2721-46de-b2c2-3cd884dd6d18",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
