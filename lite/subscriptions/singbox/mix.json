@@ -112,8 +112,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 6",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
@@ -126,8 +126,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
@@ -199,8 +199,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 6",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
@@ -213,8 +213,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
@@ -568,7 +568,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -589,11 +589,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray11",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -601,21 +601,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "p.mashti.link",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "p.mashti.link"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -880,9 +870,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "51.21.117.186",
+            "server": "13.38.225.90",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -902,9 +892,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "51.21.153.172",
+            "server": "52.47.45.158",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
