@@ -100,7 +100,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 43",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 44",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
@@ -123,7 +123,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 17",
@@ -149,7 +149,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 143",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 143",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 144",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 9",
@@ -181,7 +181,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 43",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 44",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
@@ -204,7 +204,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 17",
@@ -230,7 +230,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 143",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 143",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 144",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 9",
@@ -278,9 +278,9 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 5",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 3",
             "type": "vless",
-            "server": "fastly.cdn.f-35.store",
+            "server": "cdn.fastly.f-35.store",
             "server_port": 8080,
             "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
             "flow": "",
@@ -294,7 +294,7 @@
                 "type": "ws",
                 "path": "\/@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY?ed=2560",
                 "headers": {
-                    "Host": "fastly.cdn.f-35.store"
+                    "Host": "cdn.fastly.f-35.store"
                 }
             }
         },
@@ -793,7 +793,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 10",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,
@@ -1441,7 +1441,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 143",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 143",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,
