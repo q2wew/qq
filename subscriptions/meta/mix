@@ -339,10 +339,9 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 10","type":"vless","server":"vip.alonext.com","port":443,"udp":false,"uuid":"9f3d6a0a-492c-47dc-b2c5-6889eabeb940","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"vip.alonext.com","grpc-opts":{"grpc-service-name":"@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2"}}
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 11","type":"vless","server":"all.vipxali.cfd","port":2083,"udp":false,"uuid":"57d3cc07-b809-4ad8-a34d-5a5196e51611","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"dm.XsV2ray.sbs","grpc-opts":{"grpc-service-name":"@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray"}}
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 12","type":"vless","server":"1.windscribe.cam","port":2087,"udp":false,"uuid":"6e643b53-f30a-443d-a069-c5826f365403","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"sni2.tohid3aeed.com","ws-opts":{"path":"/","headers":{"host":"sni2.tohid3aeed.com"}}}
-  - {"name":"🚩CF | 🔴 | vless | @VmessProtocol | 1","type":"vless","server":"104.26.14.85","port":8080,"udp":false,"uuid":"b5a8d88a-90ff-4de7-8daa-db92058c17ed","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"fH.2SbSQbjWu5.ZULAiR.Org."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 3","type":"vless","server":"www.speedtest.ir","port":443,"udp":false,"uuid":"f6bd2c47-99da-4bca-bf70-7186aa9e7e06","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"karshenashamrah.ir","ws-opts":{"path":"/3um9NK8jwisKz35E?ed=","headers":{"host":"karshenashamrah.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 9","type":"vless","server":"mtn.ivy-net.ir","port":8080,"udp":false,"uuid":"70873146-e121-4b4a-a16a-ad2bb91785cf","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🟢 | vless | @VmessProtocol | 15","type":"vless","server":"cellone.moon-night.ir","port":443,"udp":true,"uuid":"bc197c34-6f69-4d81-ab2e-bc942f750c44","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"khanacademy.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"3vUR24mjjFpGWH1SXOye4ByKlKzQOEDjCHEH5gSoZFw","short-id":"0afdc08e9f7d"}}
+  - {"name":"🚩CF | 🔴 | vless | @VmessProtocol | 3","type":"vless","server":"104.26.14.85","port":8080,"udp":false,"uuid":"b5a8d88a-90ff-4de7-8daa-db92058c17ed","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"fH.2SbSQbjWu5.ZULAiR.Org."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 5","type":"vless","server":"www.speedtest.ir","port":443,"udp":false,"uuid":"f6bd2c47-99da-4bca-bf70-7186aa9e7e06","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"karshenashamrah.ir","ws-opts":{"path":"/3um9NK8jwisKz35E?ed=","headers":{"host":"karshenashamrah.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 11","type":"vless","server":"mtn.ivy-net.ir","port":8080,"udp":false,"uuid":"70873146-e121-4b4a-a16a-ad2bb91785cf","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 102","type":"vless","server":"34.220.111.244","port":1212,"udp":true,"uuid":"a7e04b44-855e-4fe7-8fa0-31894e928bce","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"stackoverflow.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A","short-id":"a4844ba7"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 103","type":"vless","server":"18.233.159.118","port":1212,"udp":true,"uuid":"a7e04b44-855e-4fe7-8fa0-31894e928bce","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"stackoverflow.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A","short-id":"a4844ba7"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 104","type":"vless","server":"www.speedtest.net","port":2096,"udp":false,"uuid":"24a4aa9b-b341-4717-9d4a-00d74c2b84e0","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"BuDfHyB7rS.dMnEwNoD110.cOm","ws-opts":{"path":"/","headers":{"host":"BuDfHyB7rS.dMnEwNoD110.cOm"}}}
@@ -676,10 +675,9 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 10'
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
-      - '🚩CF | 🔴 | vless | @VmessProtocol | 1'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 3'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 9'
-      - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 15'
+      - '🚩CF | 🔴 | vless | @VmessProtocol | 3'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 5'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 11'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 102'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 103'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 104'
@@ -1013,10 +1011,9 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 10'
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
-      - '🚩CF | 🔴 | vless | @VmessProtocol | 1'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 3'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 9'
-      - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 15'
+      - '🚩CF | 🔴 | vless | @VmessProtocol | 3'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 5'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 11'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 102'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 103'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 104'
@@ -1349,10 +1346,9 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 10'
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
-      - '🚩CF | 🔴 | vless | @VmessProtocol | 1'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 3'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 9'
-      - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 15'
+      - '🚩CF | 🔴 | vless | @VmessProtocol | 3'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 5'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 11'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 102'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 103'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 104'
