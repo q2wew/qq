@@ -125,7 +125,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
@@ -149,8 +149,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 239",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 240",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 9",
                 "❔XX | 🔴 | vless | @proxystore11 | 10",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
@@ -168,6 +167,8 @@
                 "❔XX | 🔴 | vless | @proxy_mtm | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 9",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 10",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 10",
@@ -205,7 +206,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
@@ -229,8 +230,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 239",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 240",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 9",
                 "❔XX | 🔴 | vless | @proxystore11 | 10",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
@@ -248,6 +248,8 @@
                 "❔XX | 🔴 | vless | @proxy_mtm | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 9",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 10",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 10",
@@ -850,9 +852,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "16.170.117.73",
+            "server": "51.44.189.12",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -874,7 +876,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "13.49.196.79",
+            "server": "16.170.117.73",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1424,7 +1426,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 239",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
             "type": "vless",
             "server": "whatismyipaddress.com",
             "server_port": 2096,
@@ -1438,7 +1440,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir",
+                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1450,38 +1452,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 240",
-            "type": "vless",
-            "server": "whatismyipaddress.com",
-            "server_port": 2096,
-            "uuid": "0644ddf4-92ed-4159-a47d-a3dc96ae0a9e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir"
+                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir"
                 }
             }
         },
@@ -1942,6 +1913,58 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @kingofilter | 9",
+            "type": "vless",
+            "server": "188.114.97.155",
+            "server_port": 80,
+            "uuid": "7c9e3c1d-a360-4429-9189-e45a98de7fde",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-mtmvpn\/?ed=2560",
+                "headers": {
+                    "Host": "188.114.97.155"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 10",
+            "type": "vless",
+            "server": "162.159.153.2",
+            "server_port": 443,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "5-55sfjslf.ifenxiang.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
+                "headers": {
+                    "Host": "5-55sfjslf.ifenxiang.cfd"
+                }
             }
         },
         {
