@@ -228,7 +228,6 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -297,13 +296,14 @@
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 19",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 3",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 4",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 7",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 114",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 116",
+                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 116",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 117",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 118",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 119",
@@ -489,7 +489,7 @@
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 5",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -690,7 +690,6 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -759,13 +758,14 @@
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 19",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 3",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 4",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 7",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 114",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 116",
+                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 116",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 117",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 118",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 119",
@@ -951,7 +951,7 @@
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 5",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
@@ -3891,27 +3891,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "188.114.97.3",
-            "server_port": 80,
-            "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/SIGrNRCU4ongDlz4?ed=2560",
-                "headers": {
-                    "Host": "188.114.97.3"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2logy | 0",
             "type": "vless",
             "server": "zula.ir",
@@ -5384,6 +5363,27 @@
             }
         },
         {
+            "tag": "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "server_port": 80,
+            "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/SIGrNRCU4ongDlz4?ed=2560",
+                "headers": {
+                    "Host": "188.114.97.3"
+                }
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
             "type": "vless",
             "server": "188.114.96.3",
@@ -5523,7 +5523,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 116",
+            "tag": "🇫🇮FI | 🔴 | vless | @prrofile_purple | 116",
             "type": "vless",
             "server": "32892393.web-manage.com.tr",
             "server_port": 1524,
@@ -10168,7 +10168,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
             "type": "vless",
             "server": "242232454.web-manage.com.tr",
             "server_port": 1521,
