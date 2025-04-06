@@ -158,7 +158,6 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 1",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
@@ -240,7 +239,6 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 0",
-                "❔XX | 🟢 | vmess | @Hope_Net | 1",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
@@ -619,7 +617,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "a01388f1-b99e-4b47-a77f-ebd789ea3f9b",
+            "uuid": "94465b50-47a0-4f8d-a0e9-c2a0954780f0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -640,7 +638,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "21b6795b-6a85-4c77-9de3-05e705953f4d",
+            "uuid": "a01388f1-b99e-4b47-a77f-ebd789ea3f9b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1595,23 +1593,6 @@
                 "headers": {
                     "Host": "7c780c82-sucv40-suruu8-8bem.hk3.p5pv.com"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 1",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 2080,
-            "uuid": "baaaccb-abac-caba-adcb-bbcbacacabca",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
