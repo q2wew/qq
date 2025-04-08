@@ -139,8 +139,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 260",
-                "🇦🇺AU | 🟢 | vless | @DailyV2RY | 261",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 271",
+                "🇦🇺AU | 🟢 | vless | @DailyV2RY | 272",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -152,7 +152,7 @@
                 "❔XX | 🔴 | vless | @proxy_mtm | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇷🇸RS | 🔴 | vless | @kingofilter | 18",
+                "🇷🇸RS | 🔴 | vless | @kingofilter | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
@@ -204,8 +204,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 260",
-                "🇦🇺AU | 🟢 | vless | @DailyV2RY | 261",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 271",
+                "🇦🇺AU | 🟢 | vless | @DailyV2RY | 272",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -217,7 +217,7 @@
                 "❔XX | 🔴 | vless | @proxy_mtm | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇷🇸RS | 🔴 | vless | @kingofilter | 18",
+                "🇷🇸RS | 🔴 | vless | @kingofilter | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
@@ -1200,9 +1200,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 260",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 271",
             "type": "vless",
-            "server": "3.148.162.124",
+            "server": "18.226.88.199",
             "server_port": 80,
             "uuid": "4d5848af-3baf-4225-8f2b-fc25fc3370bb",
             "flow": "",
@@ -1214,7 +1214,7 @@
             }
         },
         {
-            "tag": "🇦🇺AU | 🟢 | vless | @DailyV2RY | 261",
+            "tag": "🇦🇺AU | 🟢 | vless | @DailyV2RY | 272",
             "type": "vless",
             "server": "asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top",
             "server_port": 443,
@@ -1416,7 +1416,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "a7af3cab-00c1-44fa-8a02-0236b5a4ed9f",
+            "uuid": "744f2a6d-46f2-4d40-870d-c43926d41f74",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1437,7 +1437,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "d1b8f72c-ae28-4d39-a924-6c2dd8d0bfda",
+            "uuid": "a7af3cab-00c1-44fa-8a02-0236b5a4ed9f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1562,7 +1562,7 @@
             }
         },
         {
-            "tag": "🇷🇸RS | 🔴 | vless | @kingofilter | 18",
+            "tag": "🇷🇸RS | 🔴 | vless | @kingofilter | 19",
             "type": "vless",
             "server": "vpnandroid2.info.gf",
             "server_port": 8880,
