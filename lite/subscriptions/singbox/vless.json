@@ -122,8 +122,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 9",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
+                "❔XX | 🔴 | vless | @prrofile_purple | 144",
+                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -143,7 +143,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "❔XX | 🔴 | vless | @proxystore11 | 4",
+                "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
@@ -151,7 +151,7 @@
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
-                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 16",
+                "❔XX | 🔴 | vless | @proxy_mtm | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇷🇸RS | 🔴 | vless | @kingofilter | 20",
@@ -189,8 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 9",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
+                "❔XX | 🔴 | vless | @prrofile_purple | 144",
+                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -210,7 +210,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "❔XX | 🔴 | vless | @proxystore11 | 4",
+                "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
@@ -218,7 +218,7 @@
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
-                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 16",
+                "❔XX | 🔴 | vless | @proxy_mtm | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇷🇸RS | 🔴 | vless | @kingofilter | 20",
@@ -748,11 +748,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 144",
             "type": "vless",
-            "server": "188.245.95.151",
-            "server_port": 1523,
-            "uuid": "76d6910d-e7ec-43d9-a997-0655209410ab",
+            "server": "[2a01:4f8:1c1b:e1d0::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-201",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -762,17 +762,24 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
+            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 145",
             "type": "vless",
-            "server": "188.245.95.151",
-            "server_port": 1523,
-            "uuid": "76d6910d-e7ec-43d9-a997-0655209410ab",
+            "server": "45.131.5.132",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@WangCai2\/?ed=2560",
+                "headers": {
+                    "Host": "45.131.5.132"
+                }
             }
         },
         {
@@ -1280,7 +1287,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxystore11 | 4",
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 5",
             "type": "vless",
             "server": "ipv6.proxystore11.news",
             "server_port": 443,
@@ -1489,7 +1496,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxy_mtm | 16",
+            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 18",
             "type": "vless",
             "server": "mehdi24.vact.ir",
             "server_port": 443,
