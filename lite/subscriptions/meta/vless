@@ -149,8 +149,7 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 11","type":"vless","server":"all.vipxali.cfd","port":2083,"udp":false,"uuid":"57d3cc07-b809-4ad8-a34d-5a5196e51611","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"dm.XsV2ray.sbs","grpc-opts":{"grpc-service-name":"@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray"}}
   - {"name":"❔XX | 🔴 | vless | @MTConfig | 12","type":"vless","server":"1.windscribe.cam","port":2087,"udp":false,"uuid":"6e643b53-f30a-443d-a069-c5826f365403","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"sni2.tohid3aeed.com","ws-opts":{"path":"/","headers":{"host":"sni2.tohid3aeed.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 15","type":"vless","server":"www.speedtest.ir","port":443,"udp":false,"uuid":"f6bd2c47-99da-4bca-bf70-7186aa9e7e06","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"karshenashamrah.ir","ws-opts":{"path":"/3um9NK8jwisKz35E?ed=","headers":{"host":"karshenashamrah.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 307","type":"vless","server":"104.248.69.90","port":59483,"udp":false,"uuid":"47d7d5eb-55e6-4085-a155-bdf3fcc428f6","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"","flow":"xtls-rprx-vision","grpc-opts":{"grpc-service-name":""}}
-  - {"name":"🇨🇳CN | 🔴 | vless | @DailyV2RY | 308","type":"vless","server":"gysz0000.dynu.net","port":11839,"udp":false,"uuid":"459b4a80-bd61-4ecd-a26b-e9c1809d9e45","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.nvidia.com","flow":"xtls-rprx-vision"}
+  - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 317","type":"vless","server":"tgju.org","port":80,"udp":false,"uuid":"13692dc2-200c-4e3a-99f5-8ab0024fd1ae","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"ExuBerANt-IncIDEnt.ONEeat.Co."}}}
   - {"name":"❔XX | 🔴 | vless | @proxystore11 | 3","type":"vless","server":"ipv6.proxystore11.news","port":443,"udp":true,"uuid":"71fa1f09-3fa7-4fd3-aa3b-1c266ab03e0e","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.canva.com","grpc-opts":{"grpc-service-name":"L6ocyVFZGNHz4gxKwgJ"},"reality-opts":{"public-key":"qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc","short-id":"b5f32071b5f64f"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @free1_vpn | 7","type":"vless","server":"116.203.40.130","port":2226,"udp":false,"uuid":"62d8d572-6bb8-4a27-8e14-dfee6f61af2d","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 11","type":"vless","server":"8.222.199.43","port":443,"udp":true,"uuid":"5c183802-747d-4d2f-a6f1-aff2d5d78401","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"api.digital-help-prd.autodesk.com","reality-opts":{"public-key":"DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw","short-id":"6ba85179e30d4fc2"}}
@@ -200,8 +199,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
       - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 307'
-      - '🇨🇳CN | 🔴 | vless | @DailyV2RY | 308'
+      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 317'
       - '❔XX | 🔴 | vless | @proxystore11 | 3'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 7'
       - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 11'
@@ -251,8 +249,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
       - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 307'
-      - '🇨🇳CN | 🔴 | vless | @DailyV2RY | 308'
+      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 317'
       - '❔XX | 🔴 | vless | @proxystore11 | 3'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 7'
       - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 11'
@@ -301,8 +298,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @MTConfig | 11'
       - '❔XX | 🔴 | vless | @MTConfig | 12'
       - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 307'
-      - '🇨🇳CN | 🔴 | vless | @DailyV2RY | 308'
+      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 317'
       - '❔XX | 🔴 | vless | @proxystore11 | 3'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 7'
       - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 11'
