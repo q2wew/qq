@@ -104,9 +104,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇨🇿CZ | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @free1_vpn | 7",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 10"
             ]
@@ -119,9 +119,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇨🇿CZ | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @free1_vpn | 7",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 10"
             ],
@@ -231,6 +231,23 @@
             }
         },
         {
+            "tag": "🇨🇿CZ | 🟢 | vmess | @ShadowProxy66 | 0",
+            "type": "vmess",
+            "server": "89.18.58.63",
+            "server_port": 180,
+            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇭🇰HK | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
@@ -286,23 +303,6 @@
                 "headers": {
                     "Host": "104.26.8.210"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @free1_vpn | 7",
-            "type": "vmess",
-            "server": "104.19.150.10",
-            "server_port": 2095,
-            "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
