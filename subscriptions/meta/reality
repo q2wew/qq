@@ -143,7 +143,7 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | vless | @VmessProtocol | 0","type":"vless","server":"91.107.244.16","port":443,"udp":true,"uuid":"99b7f7d7-0c5f-463c-8f3c-548e15f5ae28","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"mw8.niassa.ir","reality-opts":{"public-key":"7Dd-Z14Mxvy_CJmFe5Q-StNR2ZloyDeMAC6MEVSq4yg","short-id":"e9"}}
   - {"name":"❔XX | 🟢 | vless | @VmessProtocol | 2","type":"vless","server":"mww2.rogha.ir","port":443,"udp":true,"uuid":"8a8bf1b9-0830-4b9a-9ce9-30d1247ac356","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"eset.com","reality-opts":{"public-key":"q7hb9bUwTztHAd0l_B1VXphQlTrt9Tisnzm-l9r-3xM","short-id":"4022a0e5fa8ccd7f"}}
   - {"name":"🇩🇪DE | 🟢 | vless | @VmessProtocol | 3","type":"vless","server":"157.173.127.235","port":443,"udp":true,"uuid":"4a617961-06bb-405d-b1d8-28abaaaf18e7","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"analytics.google.com","reality-opts":{"public-key":"k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc","short-id":"c5a5eca0d8234375"}}
-  - {"name":"❔XX | 🟢 | vless | @DailyV2RY | 292","type":"vless","server":"caoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top","port":443,"udp":true,"uuid":"c29ea461-3cb9-4f06-81df-45baad7ae2c3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"caoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top","reality-opts":{"public-key":"WpjH4Ois3kyo3Esxq7h4G9fKwL0fcc37FCDbXYik3QE","short-id":"e9a3a85f8af2"}}
+  - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 292","type":"vless","server":"caoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top","port":443,"udp":true,"uuid":"c29ea461-3cb9-4f06-81df-45baad7ae2c3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"caoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top","reality-opts":{"public-key":"WpjH4Ois3kyo3Esxq7h4G9fKwL0fcc37FCDbXYik3QE","short-id":"e9a3a85f8af2"}}
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 293","type":"vless","server":"34.200.205.188","port":8444,"udp":true,"uuid":"73c732f2-d435-4197-9f33-0d7c1f47d3a9","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"zula.ir","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 294","type":"vless","server":"3.148.186.10","port":8444,"udp":true,"uuid":"73c732f2-d435-4197-9f33-0d7c1f47d3a9","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"zula.ir","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🇨🇦CA | 🔴 | vless | @DailyV2RY | 295","type":"vless","server":"146.190.245.174","port":25761,"udp":true,"uuid":"59e8196c-13d2-4dc1-97ee-237bb858f085","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"www.openstreetmap.org","reality-opts":{"public-key":"YDQhoikSzWtZf8DKxXoxgmBsHC10dhKvW1NaEcaLBmA","short-id":"91"}}
@@ -203,7 +203,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 0'
       - '❔XX | 🟢 | vless | @VmessProtocol | 2'
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 3'
-      - '❔XX | 🟢 | vless | @DailyV2RY | 292'
+      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 292'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 293'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 294'
       - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 295'
@@ -263,7 +263,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 0'
       - '❔XX | 🟢 | vless | @VmessProtocol | 2'
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 3'
-      - '❔XX | 🟢 | vless | @DailyV2RY | 292'
+      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 292'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 293'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 294'
       - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 295'
@@ -322,7 +322,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 0'
       - '❔XX | 🟢 | vless | @VmessProtocol | 2'
       - '🇩🇪DE | 🟢 | vless | @VmessProtocol | 3'
-      - '❔XX | 🟢 | vless | @DailyV2RY | 292'
+      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 292'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 293'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 294'
       - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 295'
