@@ -106,7 +106,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇦🇹AT | 🔴 | vless | @V2pedia | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
@@ -142,8 +142,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -151,7 +151,7 @@
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
-                "❔XX | 🔴 | vless | @proxy_mtm | 18",
+                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇷🇸RS | 🔴 | vless | @kingofilter | 22",
@@ -173,7 +173,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇦🇹AT | 🔴 | vless | @V2pedia | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
@@ -209,8 +209,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -218,7 +218,7 @@
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
-                "❔XX | 🔴 | vless | @proxy_mtm | 18",
+                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇷🇸RS | 🔴 | vless | @kingofilter | 22",
@@ -392,7 +392,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -479,6 +479,27 @@
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-ArV2ray24",
             "flow": "",
@@ -503,27 +524,6 @@
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
                     "Host": "p.mashti.link"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1275,7 +1275,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 280",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
             "type": "vless",
             "server": "18.191.237.145",
             "server_port": 80,
@@ -1289,7 +1289,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 281",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
             "type": "vless",
             "server": "18.116.15.168",
             "server_port": 80,
@@ -1459,7 +1459,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_mtm | 18",
             "type": "vless",
             "server": "mehdi24.vact.ir",
             "server_port": 443,
