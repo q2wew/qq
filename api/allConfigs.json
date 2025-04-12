@@ -2418,7 +2418,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%204"
+        "config": "vless:\/\/bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%204"
     },
     {
         "channel": {
@@ -3741,7 +3741,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE3NDQwMDc1NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiIyMDUzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4MWNiNmQxLTZhZDQtNDkwOS04NDk0LWI4ZDc4NmNmNzhjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIxNzQ0MDA3NTQxLnRlbmNlbnRhcHAuY24iLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN0dCIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA2In0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE3NDQwMDc1NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiIyMDUzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4MWNiNmQxLTZhZDQtNDkwOS04NDk0LWI4ZDc4NmNmNzhjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIxNzQ0MDA3NTQxLnRlbmNlbnRhcHAuY24iLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA2In0="
     },
     {
         "channel": {
@@ -4190,15 +4190,6 @@
             "title": null,
             "logo": null
         },
-        "type": "reality",
-        "config": "vless:\/\/0e6b413b-e25c-40eb-b7e7-423f019bf972@mehdi24.zemestanil.ir:443?type=grpc&serviceName=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&authority=&security=reality&pbk=AZfJhYHphztYrI4N-RpcZqfNhqV-9PG-qT80ShLpJQ8&fp=chrome&sni=www.cdn77.com&sid=a473bfc1f4&spx=%2F#❔XX%20|%20🔴%20|%20vless%20|%20@proxy_mtm%20|%2018"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
         "type": "vless",
         "config": "vless:\/\/477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&sni=footlo.argha-v2pedia.monster#❔XX%20|%20🔴%20|%20vless%20|%20@vpn_go67%20|%200"
     },
@@ -4515,7 +4506,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/50b7fc2c-10b6-4f46-b59d-0d9c674ced40@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#❔XX%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%201"
+        "config": "vless:\/\/50b7fc2c-10b6-4f46-b59d-0d9c674ced40@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%201"
     },
     {
         "channel": {
@@ -4524,7 +4515,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/5f9bc1fe-e19b-4f90-9a91-180a0eb98f31@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#❔XX%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%202"
+        "config": "vless:\/\/5f9bc1fe-e19b-4f90-9a91-180a0eb98f31@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%202"
     },
     {
         "channel": {
@@ -4533,7 +4524,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/bfc73db8-88ee-4739-844d-2a1aebda0671@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#❔XX%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%204"
+        "config": "vless:\/\/bfc73db8-88ee-4739-844d-2a1aebda0671@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%204"
     },
     {
         "channel": {
@@ -4542,7 +4533,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#❔XX%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%205"
+        "config": "vless:\/\/6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%205"
     },
     {
         "channel": {
@@ -4551,7 +4542,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#❔XX%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%206"
+        "config": "vless:\/\/88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%206"
     },
     {
         "channel": {
@@ -4569,7 +4560,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/SVNTEAM1@SVNTEAM.MiSVN.iR:443?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=%2F#❔XX%20|%20🔴%20|%20vless%20|%20@SvnTeam%20|%208"
+        "config": "vless:\/\/SVNTEAM1@SVNTEAM.MiSVN.iR:443?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=%2F#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@SvnTeam%20|%208"
     },
     {
         "channel": {
