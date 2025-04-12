@@ -100,7 +100,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 37",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
@@ -149,9 +149,9 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 3",
-                "❔XX | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇨🇷CR | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
@@ -170,7 +170,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 37",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
@@ -219,9 +219,9 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 3",
-                "❔XX | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇨🇷CR | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
@@ -256,7 +256,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 37",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -1488,7 +1488,28 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 10",
+            "type": "vless",
+            "server": "45.131.4.188",
+            "server_port": 80,
+            "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "45.131.4.188"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "web.wiroholding.ir",
             "server_port": 27081,
@@ -1502,28 +1523,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🔴 | vless | @Outlinev2rayNG | 9",
-            "type": "vless",
-            "server": "190.93.247.56",
-            "server_port": 8080,
-            "uuid": "51331216-24fe-4eda-8bf1-0f03d2c97915",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "190.93.247.56"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @FreakConfig | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
             "type": "vless",
             "server": "242232454.web-manage.com.tr",
             "server_port": 1521,
