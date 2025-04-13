@@ -409,11 +409,11 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 297",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🟢 | vless | @Outlinev2rayNG | 2",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -795,11 +795,11 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 297",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🟢 | vless | @Outlinev2rayNG | 2",
-                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -8255,7 +8255,28 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "162.159.10.162",
             "server_port": 2086,
@@ -8276,7 +8297,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @Outlinev2rayNG | 2",
+            "tag": "🚩CF | 🟢 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "104.26.4.157",
             "server_port": 2083,
@@ -8307,7 +8328,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
+            "tag": "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "162.55.36.107",
             "server_port": 577,
@@ -8336,41 +8357,10 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
             "type": "vless",
             "server": "104.18.41.190",
             "server_port": 8443,
-            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "5-55sfjslf.ifenxiang.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "5-55sfjslf.ifenxiang.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
-            "type": "vless",
-            "server": "104.18.27.94",
-            "server_port": 443,
             "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
