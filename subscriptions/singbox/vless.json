@@ -229,7 +229,6 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -241,6 +240,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 3",
@@ -390,7 +390,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 226",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 227",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 228",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 236",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 237",
@@ -610,7 +610,6 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -622,6 +621,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 3",
@@ -771,7 +771,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 226",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 227",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 228",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
+                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 234",
                 "❔XX | 🔴 | vless | @DailyV2RY | 235",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 236",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 237",
@@ -3661,37 +3661,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "104.26.12.54",
-            "server_port": 443,
-            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "5-55sfjslf.ifenxiang.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "5-55sfjslf.ifenxiang.cfd"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2logy | 0",
             "type": "vless",
             "server": "zula.ir",
@@ -3955,6 +3924,37 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
+            "type": "vless",
+            "server": "104.26.12.54",
+            "server_port": 443,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "5-55sfjslf.ifenxiang.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "5-55sfjslf.ifenxiang.cfd"
+                }
             }
         },
         {
@@ -7754,7 +7754,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
+            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 234",
             "type": "vless",
             "server": "inthenameofgodfragment.ignorelist.com",
             "server_port": 443,
