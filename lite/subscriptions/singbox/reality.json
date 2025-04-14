@@ -101,7 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
-                "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
+                "❔XX | 🔴 | vless | @customv2ray | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -115,7 +115,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
-                "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
+                "❔XX | 🔴 | vless | @customv2ray | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -180,7 +180,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
+            "tag": "❔XX | 🔴 | vless | @customv2ray | 7",
             "type": "vless",
             "server": "mehdi24.vact.ir",
             "server_port": 443,
