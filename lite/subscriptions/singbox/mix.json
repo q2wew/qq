@@ -107,8 +107,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -129,6 +129,8 @@
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 19",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
@@ -151,8 +153,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -185,8 +187,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -207,6 +209,8 @@
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 19",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
@@ -229,8 +233,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
@@ -435,7 +439,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -456,7 +460,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -890,6 +894,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             }
+        },
+        {
+            "tag": "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "1RWwXhwfAB5gAEozU4G2Pg",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18",
+            "type": "shadowsocks",
+            "server": "185.5.38.111",
+            "server_port": 55988,
+            "method": "chacha20-ietf-poly1305",
+            "password": "VZGpJiYpqsqrwx3ACRV1vX2qNSG8Jignq4SMn1qCpBKyBWiihvK3MsdFtFdTcGevaHQzjhJ1L9qzVf8SQG7c4ygHtudNNSPk",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
             "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
@@ -1435,7 +1459,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "183.236.51.38",
             "server_port": 41291,
@@ -1452,7 +1476,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "fadawtawd.zhangwei.li",
             "server_port": 46005,
