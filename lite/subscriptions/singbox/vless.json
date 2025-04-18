@@ -107,15 +107,15 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -139,6 +139,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
+                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 346",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 347",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -172,15 +174,15 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -204,6 +206,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
+                "🇮🇱IL | 🔴 | vless | @DailyV2RY | 346",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 347",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
@@ -409,7 +413,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -430,7 +434,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 8080,
@@ -577,7 +581,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1130,6 +1134,48 @@
                 "path": "\/",
                 "headers": {
                     "Host": "sni2.tohid3aeed.com"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇱IL | 🔴 | vless | @DailyV2RY | 346",
+            "type": "vless",
+            "server": "64.176.166.124",
+            "server_port": 8080,
+            "uuid": "3e49baab-c3f3-43ee-a8ac-1589da9bca97",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "64.176.166.124"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 347",
+            "type": "vless",
+            "server": "66.42.103.238",
+            "server_port": 8080,
+            "uuid": "0f743236-d373-42f8-b255-c217c6d881b5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "66.42.103.238"
                 }
             }
         },
