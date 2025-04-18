@@ -11,12 +11,10 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17 = ss, beesyar.org, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
-🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18 = ss, 185.5.38.111, 55988, encrypt-method = chacha20-ietf-poly1305, password = VZGpJiYpqsqrwx3ACRV1vX2qNSG8Jignq4SMn1qCpBKyBWiihvK3MsdFtFdTcGevaHQzjhJ1L9qzVf8SQG7c4ygHtudNNSPk
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18
-URL-TEST = url-test,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18
-FALLBACK = fallback,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17,🇫🇮FI | 🟢 | ss | @DeamNet_Proxy | 18
+MANUAL = select,URL-TEST,FALLBACK
+URL-TEST = url-test
+FALLBACK = fallback
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
