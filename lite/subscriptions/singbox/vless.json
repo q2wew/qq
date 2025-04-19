@@ -123,8 +123,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
@@ -191,8 +190,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
@@ -546,7 +544,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "90689903-abfb-45eb-9b5e-cb4c93ead988",
+            "uuid": "0c0c6c5e-0680-4505-b297-6fd3c0f75bad",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -567,7 +565,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "a626f3f0-e855-4971-972b-078ded39dc9d",
+            "uuid": "90689903-abfb-45eb-9b5e-cb4c93ead988",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -744,11 +742,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 142",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 135",
             "type": "vless",
-            "server": "128.140.90.226",
-            "server_port": 8880,
-            "uuid": "1b0f1d84-c07a-4be5-a4fc-cba3aad7a407",
+            "server": "217.60.239.58",
+            "server_port": 26165,
+            "uuid": "2319600a-19b1-41c4-b73f-69b96d58072e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -757,25 +755,11 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "@cephalon_ai_bot",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "48ee8f13-4073-4092-bbf8-0a7394d7fea2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+                "type": "ws",
+                "path": "\/telegram: @summertimeus",
+                "headers": {
+                    "Host": "217.60.239.58"
+                }
             }
         },
         {
