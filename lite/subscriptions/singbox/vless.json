@@ -140,8 +140,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 221",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 222",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 212",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 213",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -208,8 +208,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 221",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 222",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 212",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 213",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -1136,42 +1136,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 221",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 2053,
-            "uuid": "288aa4ff-4484-4c58-8258-b79b0374c1ce",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "netpie.ddns-ip.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-NetPie?ed=512",
-                "headers": {
-                    "Host": "netpie.ddns-ip.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 222",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 212",
             "type": "vless",
             "server": "tgju.org",
-            "server_port": 8080,
-            "uuid": "0eb83f3e-7b95-427a-8952-abedfca1869f",
+            "server_port": 80,
+            "uuid": "2a11c595-935d-4e1b-81d4-ab8dd1e10bff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1184,6 +1153,37 @@
                 "path": "\/",
                 "headers": {
                     "Host": "tgju.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 213",
+            "type": "vless",
+            "server": "steamdb.info",
+            "server_port": 443,
+            "uuid": "06e4425e-a8cb-4b63-929f-2105604ab0a9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vb.ylks0033.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "vb.ylks0033.dpdns.org"
                 }
             }
         },
