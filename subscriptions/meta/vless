@@ -144,15 +144,15 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 21","type":"vless","server":"speedtest.net","port":80,"udp":false,"uuid":"9df66056-a898-486a-9c67-6a5ad5ea056e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 22","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"9df66056-a898-486a-9c67-6a5ad5ea056e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
   - {"name":"❔XX | 🔴 | vless | @V2pedia | 0","type":"vless","server":"[2001:15e8:110:6e6f::1]","port":39518,"udp":false,"uuid":"682e0bea-2dac-4de0-863b-0e8d1f152f59","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 1","type":"vless","server":"194.182.79.108","port":50513,"udp":false,"uuid":"53525369-63e2-4cff-8c85-09cd64f4cd25","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 2","type":"vless","server":"194.182.79.144","port":49200,"udp":false,"uuid":"2d2586d4-7ccf-4604-9dbe-ec3daf1c9ab0","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 4","type":"vless","server":"217.61.20.71","port":55443,"udp":false,"uuid":"cf25a07b-798a-4912-9611-04d906a9189c","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 5","type":"vless","server":"80.211.209.74","port":48480,"udp":false,"uuid":"65752572-d021-4ac2-915c-5763074c9a7c","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"❔XX | 🔴 | vless | @V2pedia | 6","type":"vless","server":"[2001:41d0:801:1000::2c7]","port":14179,"udp":false,"uuid":"a33338ba-0136-417c-af93-e933030e4f16","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @V2pedia | 7","type":"vless","server":"57.129.95.215","port":12448,"udp":false,"uuid":"69bc2ff6-91c2-4863-bac7-ec5e42f9c6aa","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 8","type":"vless","server":"51.77.108.99","port":13004,"udp":false,"uuid":"e207c137-47aa-4f56-b82b-19e3d4ee72a6","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 9","type":"vless","server":"51.77.108.99","port":13004,"udp":false,"uuid":"1b312879-3cdc-4782-a589-6d149d693854","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @V2pedia | 11","type":"vless","server":"141.95.103.120","port":54436,"udp":false,"uuid":"c5661d59-c5c0-4155-bb4b-df294b246deb","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 1","type":"vless","server":"194.182.79.65","port":40359,"udp":false,"uuid":"be8cdb97-f7a9-42fd-a915-22d95d55930b","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 3","type":"vless","server":"194.182.79.108","port":50513,"udp":false,"uuid":"53525369-63e2-4cff-8c85-09cd64f4cd25","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 4","type":"vless","server":"194.182.79.144","port":49200,"udp":false,"uuid":"2d2586d4-7ccf-4604-9dbe-ec3daf1c9ab0","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 6","type":"vless","server":"217.61.20.71","port":55443,"udp":false,"uuid":"cf25a07b-798a-4912-9611-04d906a9189c","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 7","type":"vless","server":"80.211.209.74","port":48480,"udp":false,"uuid":"65752572-d021-4ac2-915c-5763074c9a7c","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"❔XX | 🔴 | vless | @V2pedia | 8","type":"vless","server":"[2001:41d0:801:1000::2c7]","port":14179,"udp":false,"uuid":"a33338ba-0136-417c-af93-e933030e4f16","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @V2pedia | 9","type":"vless","server":"57.129.95.215","port":12448,"udp":false,"uuid":"69bc2ff6-91c2-4863-bac7-ec5e42f9c6aa","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 10","type":"vless","server":"51.77.108.99","port":13004,"udp":false,"uuid":"e207c137-47aa-4f56-b82b-19e3d4ee72a6","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
+  - {"name":"🇬🇧GB | 🔴 | vless | @V2pedia | 11","type":"vless","server":"51.77.108.99","port":13004,"udp":false,"uuid":"1b312879-3cdc-4782-a589-6d149d693854","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0","type":"vless","server":"alfred.dnss-mobile.ir","port":443,"udp":false,"uuid":"c2a1fe98-5a25-4173-be3e-9fe9c7591484","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"alfred.dnss-mobile.ir","ws-opts":{"path":"/alfred?ed=2048","headers":{"host":"alfred.dnss-mobile.ir"}}}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 1","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"2e56a2e4-d8ac-4990-843c-d813e889fcbd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 2","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"a85962e7-4c37-477a-a16a-892bbeea60ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
@@ -452,14 +452,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @melov2ray | 22'
       - '❔XX | 🔴 | vless | @V2pedia | 0'
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 1'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 2'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 4'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 5'
-      - '❔XX | 🔴 | vless | @V2pedia | 6'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 7'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 8'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 9'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 11'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 3'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 4'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 6'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 7'
+      - '❔XX | 🔴 | vless | @V2pedia | 8'
+      - '🇩🇪DE | 🔴 | vless | @V2pedia | 9'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 10'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 11'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 1'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 2'
@@ -759,14 +759,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @melov2ray | 22'
       - '❔XX | 🔴 | vless | @V2pedia | 0'
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 1'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 2'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 4'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 5'
-      - '❔XX | 🔴 | vless | @V2pedia | 6'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 7'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 8'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 9'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 11'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 3'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 4'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 6'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 7'
+      - '❔XX | 🔴 | vless | @V2pedia | 8'
+      - '🇩🇪DE | 🔴 | vless | @V2pedia | 9'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 10'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 11'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 1'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 2'
@@ -1065,14 +1065,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @melov2ray | 22'
       - '❔XX | 🔴 | vless | @V2pedia | 0'
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 1'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 2'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 4'
-      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 5'
-      - '❔XX | 🔴 | vless | @V2pedia | 6'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 7'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 8'
-      - '🇬🇧GB | 🔴 | vless | @V2pedia | 9'
-      - '🇩🇪DE | 🔴 | vless | @V2pedia | 11'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 3'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 4'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 6'
+      - '🇨🇿CZ | 🔴 | vless | @V2pedia | 7'
+      - '❔XX | 🔴 | vless | @V2pedia | 8'
+      - '🇩🇪DE | 🔴 | vless | @V2pedia | 9'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 10'
+      - '🇬🇧GB | 🔴 | vless | @V2pedia | 11'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 1'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 2'
