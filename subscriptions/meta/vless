@@ -128,7 +128,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 0","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"cc771e3e-26b9-4664-821e-b1c16b825866","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048","headers":{"host":"jo.IPV2RY.iran.ir.arvancloud.ir.acvss.ddns-ip.net."}}}
   - {"name":"❔XX | 🔴 | vless | @ipV2Ray | 1","type":"vless","server":"ipv.sitwe.ir","port":8080,"udp":false,"uuid":"d71dbb78-ec13-43bf-99f0-2e2027e2f7da","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @ipV2Ray | 2","type":"vless","server":"ipv.sitwe.ir","port":8080,"udp":false,"uuid":"b3ad551d-db89-404e-a901-cab58305495c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🟢 | vless | @ipV2Ray | 3","type":"vless","server":"ip.zemestanil.ir","port":2087,"udp":true,"uuid":"bfb2d7dd-1625-4848-91a9-5587ff4c9e34","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"eh2L2wZTmATAq7ZUCYywcxrdPLOLSCOas6VTXR8w5H4","short-id":"fa"}}
+  - {"name":"❔XX | 🟢 | vless | @ipV2Ray | 3","type":"vless","server":"ip.zemestanil.ir","port":2087,"udp":true,"uuid":"bfb2d7dd-1625-4848-91a9-5587ff4c9e34","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"eh2L2wZTmATAq7ZUCYywcxrdPLOLSCOas6VTXR8w5H4","short-id":"fa"}}
   - {"name":"❔XX | 🔴 | vless | @ipV2Ray | 4","type":"vless","server":"ip.sitwe.ir","port":8080,"udp":false,"uuid":"5ee22d62-5c0b-4490-ab6b-bbc3f5523180","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @ipV2Ray | 5","type":"vless","server":"ip.sitwe.ir","port":8080,"udp":false,"uuid":"c8c91d3c-7140-43ed-aa2f-4add1fe1d566","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 6","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"c33c6019-e4d2-48b2-b217-670d75d33693","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
@@ -435,7 +435,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '❔XX | 🔴 | vless | @ipV2Ray | 1'
       - '❔XX | 🔴 | vless | @ipV2Ray | 2'
-      - '🇩🇪DE | 🟢 | vless | @ipV2Ray | 3'
+      - '❔XX | 🟢 | vless | @ipV2Ray | 3'
       - '❔XX | 🔴 | vless | @ipV2Ray | 4'
       - '❔XX | 🔴 | vless | @ipV2Ray | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
@@ -742,7 +742,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '❔XX | 🔴 | vless | @ipV2Ray | 1'
       - '❔XX | 🔴 | vless | @ipV2Ray | 2'
-      - '🇩🇪DE | 🟢 | vless | @ipV2Ray | 3'
+      - '❔XX | 🟢 | vless | @ipV2Ray | 3'
       - '❔XX | 🔴 | vless | @ipV2Ray | 4'
       - '❔XX | 🔴 | vless | @ipV2Ray | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
@@ -1048,7 +1048,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 0'
       - '❔XX | 🔴 | vless | @ipV2Ray | 1'
       - '❔XX | 🔴 | vless | @ipV2Ray | 2'
-      - '🇩🇪DE | 🟢 | vless | @ipV2Ray | 3'
+      - '❔XX | 🟢 | vless | @ipV2Ray | 3'
       - '❔XX | 🔴 | vless | @ipV2Ray | 4'
       - '❔XX | 🔴 | vless | @ipV2Ray | 5'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 6'
