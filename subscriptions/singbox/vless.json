@@ -182,8 +182,7 @@
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 2",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 3",
+                "🇮🇷IR | 🔴 | vless | @lightning6 | 1",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 5",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 6",
@@ -217,8 +216,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 0",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+                "🇺🇸US | 🔴 | vless | @v2logy | 0",
+                "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
@@ -282,7 +281,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -559,8 +558,7 @@
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 2",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 3",
+                "🇮🇷IR | 🔴 | vless | @lightning6 | 1",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 5",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 6",
@@ -594,8 +592,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 0",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+                "🇺🇸US | 🔴 | vless | @v2logy | 0",
+                "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
@@ -659,7 +657,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -2456,7 +2454,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @lightning6 | 1",
+            "type": "vless",
+            "server": "arhihhaeruhigagh.ir",
+            "server_port": 80,
+            "uuid": "09cc85d5-3bab-49f4-8e7b-1b5ada36f269",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "arhihhaeruhigagh.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 4",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2477,7 +2496,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 5",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2498,7 +2517,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 6",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2519,7 +2538,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 7",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2540,7 +2559,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 8",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2561,7 +2580,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2582,7 +2601,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 10",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2603,7 +2622,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 11",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2624,7 +2643,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 12",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2645,7 +2664,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 13",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2666,7 +2685,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 14",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2687,7 +2706,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2708,7 +2727,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 16",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2729,7 +2748,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 17",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2750,7 +2769,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2771,53 +2790,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 17",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "6f2bc169-077c-4dbd-a046-ad3dd91b477e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "9a6dc7ee-142b-452e-8c7b-719d4b1ebfe9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 19",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "92b5e9e7-2bdb-475a-bff9-2353208ccc8d",
+            "uuid": "6f2bc169-077c-4dbd-a046-ad3dd91b477e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3218,7 +3195,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 0",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -3249,7 +3226,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -4768,7 +4745,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
+            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
