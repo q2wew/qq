@@ -141,8 +141,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 247",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 251",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 252",
                 "❔XX | 🔴 | vless | @proxystore11 | 9",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -162,7 +162,7 @@
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 45",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "❔XX | 🔴 | vless | @SvnTeam | 8",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -213,8 +213,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 247",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 251",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 252",
                 "❔XX | 🔴 | vless | @proxystore11 | 9",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -234,7 +234,7 @@
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 45",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "❔XX | 🔴 | vless | @SvnTeam | 8",
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
                 "🇩🇰DK | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -1159,7 +1159,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 247",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 251",
             "type": "vless",
             "server": "whatismyipaddress.com",
             "server_port": 2096,
@@ -1173,7 +1173,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s33.sabzmaghz.ir",
+                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s31.sabzmaghz.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1185,12 +1185,12 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s33.sabzmaghz.ir"
+                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s31.sabzmaghz.ir"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 248",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 252",
             "type": "vless",
             "server": "whatismyipaddress.com",
             "server_port": 2096,
@@ -1673,7 +1673,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
