@@ -142,7 +142,6 @@
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 264",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🔴 | vless | @proxystore11 | 9",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
@@ -213,7 +212,6 @@
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 264",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 265",
-                "❔XX | 🔴 | vless | @proxystore11 | 9",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
@@ -452,27 +450,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
             "uuid": "telegram-ArV2ray",
@@ -488,6 +465,27 @@
                 "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
                 "headers": {
                     "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "151.101.64.155",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
+                "headers": {
+                    "Host": "151.101.64.155"
                 }
             }
         },
@@ -1188,42 +1186,6 @@
                 "headers": {
                     "Host": "wwwspeedtestnetwhiteberinsistomd6625996s33.sabzmaghz.ir"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @proxystore11 | 9",
-            "type": "vless",
-            "server": "ipv6.proxystore11.shop",
-            "server_port": 443,
-            "uuid": "45876b67-8a63-4bee-911a-b9c19867949e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.afp.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc",
-                    "short_id": "b5f32071b5f64f"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "L6ocyVFZGNHz4gxKwgJ",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
