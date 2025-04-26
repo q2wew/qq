@@ -107,8 +107,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 26",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 27",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -128,7 +127,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
@@ -140,8 +139,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 357",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
                 "❔XX | 🔴 | vless | @proxystore11 | 12",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -176,8 +175,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 26",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 27",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 13",
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
@@ -197,7 +195,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
@@ -209,8 +207,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 14",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 357",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
                 "❔XX | 🔴 | vless | @proxystore11 | 12",
                 "🇭🇰HK | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -405,28 +403,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 26",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "0cd2c22e-7bab-41cc-8168-c77be874d632",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 27",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 25",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -870,7 +847,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 11",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -1179,32 +1156,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 354",
             "type": "vless",
-            "server": "144.202.121.238",
-            "server_port": 8080,
-            "uuid": "152e5a3e-8e9e-4e37-f2e9-beac9e372796",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "144.202.121.238"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 357",
-            "type": "vless",
-            "server": "104.16.152.64",
-            "server_port": 443,
-            "uuid": "06e4425e-a8cb-4b63-929f-2105604ab0a9",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "24a4aa9b-b341-4717-9d4a-00d74c2b84e0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1214,7 +1170,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "in.youlingkais.filegear-sg.me",
+                "server_name": "K1pPbTe67S.aAaZzZaAa-8129.CoM",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1224,9 +1180,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/",
                 "headers": {
-                    "Host": "in.youlingkais.filegear-sg.me"
+                    "Host": "K1pPbTe67S.aAaZzZaAa-8129.CoM"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "24a4aa9b-b341-4717-9d4a-00d74c2b84e0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "0I1yE95cNq.AaAzZzAaA-8129.cOm",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "0I1yE95cNq.AaAzZzAaA-8129.cOm"
                 }
             }
         },
