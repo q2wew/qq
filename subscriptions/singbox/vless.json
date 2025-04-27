@@ -126,7 +126,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -238,6 +238,7 @@
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 14",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 15",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 16",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @prrofile_purple | 115",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 116",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -398,7 +399,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 9",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 0",
+                "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 3",
                 "🚩CF | 🔴 | vless | @free1_vpn | 4",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 8",
@@ -497,7 +498,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -609,6 +610,7 @@
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 14",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 15",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 16",
+                "🚩CF | 🔴 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @prrofile_purple | 115",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 116",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -769,7 +771,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 9",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 10",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 0",
+                "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 3",
                 "🚩CF | 🔴 | vless | @free1_vpn | 4",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 8",
@@ -1284,7 +1286,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -3723,6 +3725,27 @@
             "transport": {
                 "type": "ws",
                 "path": "\/",
+                "headers": {
+                    "Host": "188.114.97.3"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Outline_Vpn | 17",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "server_port": 80,
+            "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/SIGrNRCU4ongDlz4?ed=2560",
                 "headers": {
                     "Host": "188.114.97.3"
                 }
@@ -7734,7 +7757,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 0",
+            "tag": "❔XX | 🔴 | vless | @free1_vpn | 0",
             "type": "vless",
             "server": "mmdxw.s8573.ir",
             "server_port": 2083,
