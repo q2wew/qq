@@ -331,7 +331,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -708,7 +707,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -6031,37 +6029,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "162.159.20.34"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
-            "type": "vless",
-            "server": "108.162.196.159",
-            "server_port": 443,
-            "uuid": "1688039e-a45f-499e-b9f4-c098c87d3b32",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cr7777.rayan.dpdns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
-                "headers": {
-                    "Host": "cr7777.rayan.dpdns.org"
                 }
             }
         },
