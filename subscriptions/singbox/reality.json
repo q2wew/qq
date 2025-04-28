@@ -108,6 +108,7 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 7",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -166,6 +167,7 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 7",
                 "❔XX | 🔴 | vless | @prrofile_purple | 117",
@@ -419,6 +421,42 @@
                     "public_key": "rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU",
                     "short_id": "cfef326c"
                 }
+            }
+        },
+        {
+            "tag": "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "wedbaztel.smartexchangevip.com",
+            "server_port": 27211,
+            "uuid": "7833f8ad-b69c-4c59-9035-0964f826183c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "80IHrVf_vpOI4Y8psDliYi9-OuiVaVKkyeRShKqqh3Q",
+                    "short_id": "44287741c96b7bbe"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel-----@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel-----@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
