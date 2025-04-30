@@ -401,16 +401,17 @@
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🚩CF | 🔴 | vless | @free1_vpn | 7",
+                "❔XX | 🔴 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 7",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
@@ -778,16 +779,17 @@
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🚩CF | 🔴 | vless | @free1_vpn | 7",
+                "❔XX | 🔴 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 7",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
@@ -7837,6 +7839,35 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @free1_vpn | 8",
+            "type": "vless",
+            "server": "mmdv.s8573.ir",
+            "server_port": 28982,
+            "uuid": "d197d32d-962e-4d5a-a0f1-ca18e59c43a1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "fy-h3-frontier-a2z-com.customer.fastly.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VGULpliqwCC98vIUyB4olrmgUjGjRbgY6z3QxinkA2g",
+                    "short_id": "2ddfc3d063c09388"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "162.19.228.119",
@@ -7858,7 +7889,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "205.233.181.186",
             "server_port": 2096,
@@ -7889,7 +7920,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "stream.yahve111.com",
             "server_port": 2087,
@@ -7920,7 +7951,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 3",
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "45.131.6.160",
             "server_port": 443,
@@ -7951,7 +7982,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -7982,7 +8013,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
             "server": "104.21.64.1",
             "server_port": 80,
@@ -8003,7 +8034,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 7",
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
             "server": "178.62.232.236",
             "server_port": 7594,
@@ -8039,7 +8070,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
             "server": "104.18.12.149",
             "server_port": 443,
@@ -8070,7 +8101,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "162.159.10.162",
             "server_port": 2086,
@@ -8091,7 +8122,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "104.22.57.77",
             "server_port": 443,
