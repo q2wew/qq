@@ -106,7 +106,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -120,8 +120,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 147",
                 "❔XX | 🟢 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -176,7 +176,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -190,8 +190,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 147",
                 "❔XX | 🟢 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -386,7 +386,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -683,11 +683,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
             "type": "vless",
-            "server": "104.26.12.54",
+            "server": "104.22.56.77",
             "server_port": 443,
-            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
+            "uuid": "c7d543af-1023-4b96-a698-187c190d3f4c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -697,7 +697,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "5-55sfjslf.ifenxiang.cfd",
+                "server_name": "nautica.foolvpn.me",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -707,17 +707,17 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/47.89.39.186-39251",
                 "headers": {
-                    "Host": "5-55sfjslf.ifenxiang.cfd"
+                    "Host": "nautica.foolvpn.me"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
             "type": "vless",
-            "server": "104.16.148.244",
-            "server_port": 2087,
+            "server": "104.26.12.54",
+            "server_port": 443,
             "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
