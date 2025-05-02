@@ -102,10 +102,10 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 22",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 23",
@@ -148,8 +148,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "❔XX | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
@@ -172,10 +172,10 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 22",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 23",
@@ -218,8 +218,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "❔XX | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 15",
@@ -291,7 +291,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 1",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -357,7 +357,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1373,6 +1373,27 @@
             }
         },
         {
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 6",
+            "type": "vless",
+            "server": "188.119.112.3",
+            "server_port": 2052,
+            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "188.119.112.3"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
             "server": "104.16.209.110",
@@ -1400,37 +1421,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "masaleini.mahsaamini.dpdns.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ZqFsGsMr.cAfUnEaR.InFo",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "ZqFsGsMr.cAfUnEaR.InFo"
                 }
             }
         },
