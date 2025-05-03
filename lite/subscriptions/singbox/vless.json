@@ -144,7 +144,7 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -215,7 +215,7 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 15",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -1273,11 +1273,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
             "type": "vless",
             "server": "cname.proxystore11.news",
-            "server_port": 2087,
-            "uuid": "02d94abd-9c13-4d62-8d2b-c5481884b4db",
+            "server_port": 8443,
+            "uuid": "2d243e76-01c2-47c8-b700-0fe0964d8ef3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1296,11 +1296,11 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/prx11",
-                "headers": {
-                    "Host": "panel.proxystore11.news"
-                }
+                "type": "grpc",
+                "service_name": "panel.proxystore11.news",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
