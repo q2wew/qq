@@ -124,7 +124,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 154",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -140,6 +141,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @VmessProtocol | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 15",
@@ -189,7 +191,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇳🇱NL | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 154",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -205,6 +208,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @VmessProtocol | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 15",
@@ -745,11 +749,32 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 154",
             "type": "vless",
-            "server": "151.234.162.87",
-            "server_port": 443,
-            "uuid": "a850d045-3c17-4430-b9fe-e6411b27b038",
+            "server": "5.253.30.14",
+            "server_port": 8880,
+            "uuid": "c7d4b0f6-0f18-45a3-97c7-caaf373f032d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "vless-grpc",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
+            "type": "vless",
+            "server": "AK111.amirak.cfd",
+            "server_port": 25679,
+            "uuid": "95984f4e-0733-4430-a937-f630cb2fb113",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1114,6 +1139,20 @@
                     "public_key": "q7hb9bUwTztHAd0l_B1VXphQlTrt9Tisnzm-l9r-3xM",
                     "short_id": "4022a0e5fa8ccd7f"
                 }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 337",
+            "type": "vless",
+            "server": "www.sanctionscanner.com",
+            "server_port": 2095,
+            "uuid": "2e85c7df-eb92-4d5a-9aa8-4ea828f044d8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
