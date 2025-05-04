@@ -134,7 +134,6 @@
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🟢 | vmess | @Hope_Net | 8",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 9",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 10",
                 "🇵🇱PL | 🟢 | vmess | @OpenSSTPVpn | 0"
             ]
         },
@@ -174,7 +173,6 @@
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇩🇪DE | 🟢 | vmess | @Hope_Net | 8",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 9",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 10",
                 "🇵🇱PL | 🟢 | vmess | @OpenSSTPVpn | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -887,23 +885,6 @@
             "server": "ee53ff51-sux8g0-sxxbmq-1szgv.cm5.p5pv.com",
             "server_port": 17235,
             "uuid": "448aff24-b2e6-11ef-97e0-f23c9164ca5d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 10",
-            "type": "vmess",
-            "server": "b3e1a577-svjgg0-t1bnjq-1krtb.cu.plebai.net",
-            "server_port": 5229,
-            "uuid": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
