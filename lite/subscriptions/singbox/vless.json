@@ -111,7 +111,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
@@ -139,8 +139,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 13",
@@ -178,7 +178,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
@@ -206,8 +206,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇫🇮FI | 🔴 | vless | @VmessProtocol | 14",
                 "❔XX | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 13",
@@ -463,7 +463,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -1107,11 +1107,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
-            "uuid": "2aa73165-1fa5-41d2-a169-f4f7ef6dc5ea",
+            "uuid": "29241994-36b2-4cc8-a258-b2273c18e8e0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1128,11 +1128,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
             "type": "vless",
-            "server": "160.79.105.203",
-            "server_port": 443,
-            "uuid": "06e4425e-a8cb-4b63-929f-2105604ab0a9",
+            "server": "tgju.org",
+            "server_port": 80,
+            "uuid": "0303312a-ab6f-44a5-85f8-7f38d5b6644b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1144,7 +1144,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "vc.ylka.dpdns.org"
+                    "Host": "tgju.org"
                 }
             }
         },
