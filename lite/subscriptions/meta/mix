@@ -163,8 +163,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @proxystore11 | 6","type":"vless","server":"cname.proxystore11.news","port":2087,"udp":false,"uuid":"2506f555-b1ba-4d1e-9d15-0bedf54fe521","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"panel.proxystore11.news","ws-opts":{"path":"/prx11","headers":{"host":"panel.proxystore11.news"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇭🇰HK | 🔴 | vless | @free1_vpn | 13","type":"vless","server":"103.160.204.59","port":443,"udp":false,"uuid":"d6b8011a-c725-435a-9fec-bf6d3530392c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vlee.amclubs.nyc.mn","ws-opts":{"path":"/?ed=2560","headers":{"host":"vlee.amclubs.nyc.mn"}}}
-  - {"name":"🇩🇪DE | 🟢 | vmess | @Hope_Net | 6","type":"vmess","server":"157.90.117.244","port":"23890","cipher":"auto","uuid":"d8fdf0b6-9a13-426d-b42b-089cace63d4e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇳CN | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"jp5.g2.moonbase.life","port":"35215","cipher":"auto","uuid":"c3136814-a07e-41f6-ad94-8e20458c0d21","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/home","headers":{"host":"web.xcjs.info"}}}
+  - {"name":"🇩🇪DE | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"157.90.117.244","port":"23890","cipher":"auto","uuid":"d8fdf0b6-9a13-426d-b42b-089cace63d4e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳CN | 🟢 | vmess | @Hope_Net | 8","type":"vmess","server":"jp5.g2.moonbase.life","port":"35215","cipher":"auto","uuid":"c3136814-a07e-41f6-ad94-8e20458c0d21","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/home","headers":{"host":"web.xcjs.info"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @fnet00 | 0","type":"vless","server":"162.19.228.119","port":80,"udp":false,"uuid":"dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/http","headers":{"host":"google.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"838f5273-5d2d-4630-a0f5-9cc8e4aef4d6","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ZqFsGsMr.cAfUnEaR.InFo","ws-opts":{"path":"/","headers":{"host":"ZqFsGsMr.cAfUnEaR.InFo"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @FreakConfig | 8","type":"vless","server":"FreakConfig.fastly80-3.hosting-ip.com","port":80,"udp":false,"uuid":"f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/joinMTMVPN?ed=2560","headers":{"host":"mt.acvs.ir"}}}
@@ -226,8 +226,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 6'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇭🇰HK | 🔴 | vless | @free1_vpn | 13'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 6'
-      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 7'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇩🇪DE | 🔴 | vless | @fnet00 | 0'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 8'
@@ -289,8 +289,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 6'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇭🇰HK | 🔴 | vless | @free1_vpn | 13'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 6'
-      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 7'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇩🇪DE | 🔴 | vless | @fnet00 | 0'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 8'
@@ -351,8 +351,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 6'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇭🇰HK | 🔴 | vless | @free1_vpn | 13'
-      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 6'
-      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 7'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 7'
+      - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 8'
       - '🇩🇪DE | 🔴 | vless | @fnet00 | 0'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6'
       - '🇺🇸US | 🔴 | vless | @FreakConfig | 8'
