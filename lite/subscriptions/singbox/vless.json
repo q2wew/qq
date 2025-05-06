@@ -106,7 +106,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 31",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
@@ -144,10 +144,9 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
                 "🇦🇪AE | 🔴 | vless | @nofiltering2 | 4",
@@ -173,7 +172,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 31",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
@@ -211,10 +210,9 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 17",
                 "🇦🇪AE | 🔴 | vless | @nofiltering2 | 4",
@@ -365,7 +363,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1243,7 +1241,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+            "type": "vless",
+            "server": "162.159.153.2",
+            "server_port": 80,
+            "uuid": "50e2cab1-c919-434d-a7d4-78dcd42fe963",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560",
+                "headers": {
+                    "Host": "162.159.153.2"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "germanmel.mehrdadsadaf.com",
             "server_port": 7594,
@@ -1279,37 +1298,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "104.16.41.28",
-            "server_port": 443,
-            "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "d5.medicaltreatment.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/sinavm-sinavm\/?ed=2560flow=-udp443",
-                "headers": {
-                    "Host": "d5.medicaltreatment.ir"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "mw5.asalemaraghe.ir",
@@ -1337,27 +1325,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "mw5.asalemaraghe.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
-            "type": "vless",
-            "server": "FreakConfig.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/joinMTMVPN?ed=2560",
-                "headers": {
-                    "Host": "FreakConfig.fastly80-3.hosting-ip.com"
                 }
             }
         },
