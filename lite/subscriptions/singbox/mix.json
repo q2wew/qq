@@ -106,7 +106,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
@@ -154,8 +154,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 11",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -170,7 +170,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -186,7 +186,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 27",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
@@ -234,8 +234,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 11",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -250,7 +250,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -391,7 +391,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -1483,11 +1483,45 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "59.42.247.189",
-            "server_port": 8004,
-            "uuid": "6641a3ac-04f7-4542-9b30-1e547702f768",
+            "server": "us01.sh-cloudflare.sbs",
+            "server_port": 8443,
+            "uuid": "2bd0c9d7-f239-437e-a1e1-6cf830af2a1a",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "us01.sh-cloudflare.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "us01.sh-cloudflare.sbs"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
+            "type": "vmess",
+            "server": "t.cnmjcn.cyou",
+            "server_port": 16616,
+            "uuid": "4ebd7d8a-cc40-4c32-af1c-c459f9d672ef",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1500,33 +1534,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/nmkj",
-                "headers": {
-                    "Host": "59.42.247.189"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
-            "type": "vmess",
-            "server": "24a1bdf7-svc1s0-t2ke0u-1tif6.lzc.plebai.net",
-            "server_port": 5126,
-            "uuid": "3ec273e4-0087-11f0-ab20-f23c91cfbbc9",
-            "security": "auto",
-            "alter_id": 2,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "24a1bdf7-svc1s0-t2ke0u-1tif6.lzc.plebai.net"
+                    "Host": "t.cnmjcn.cyou"
                 }
             }
         },
@@ -1867,7 +1877,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
