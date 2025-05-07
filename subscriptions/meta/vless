@@ -356,7 +356,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"bb344773-1c6f-45f1-a73d-5c2028ace9db","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"6351a164-aa3e-4702-9b7f-8f12328854c5","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"f7286f11-3b13-4342-a829-a8b1563146c7","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d9471598-bdfb-44f4-bc92-6589dac48fb2","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"d9471598-bdfb-44f4-bc92-6589dac48fb2","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 6","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"f4ed5ab6-8c23-43dd-8a74-dc71c7d53008","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 7","type":"vless","server":"website.acveo.ir","port":8080,"udp":false,"uuid":"70558b53-e4fd-43d4-98b2-b7cf84de8276","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 8","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"75f66308-eb61-418f-a0f0-3fe8d6158999","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"foffmelo.com"}}}
@@ -640,7 +640,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
@@ -924,7 +924,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
@@ -1207,7 +1207,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 3'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 4'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 5'
+      - '🇨🇦CA | 🔴 | vless | @flyv2ray | 5'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 6'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 7'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 8'
