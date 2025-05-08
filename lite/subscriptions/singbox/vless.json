@@ -106,7 +106,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 31",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
@@ -122,8 +122,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🟢 | vless | @Outline_Vpn | 9",
-                "❔XX | 🔴 | vless | @prrofile_purple | 146",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+                "❔XX | 🔴 | vless | @prrofile_purple | 154",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -143,8 +143,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @nofiltering2 | 1",
@@ -171,7 +171,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 31",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
@@ -187,8 +187,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🟢 | vless | @Outline_Vpn | 9",
-                "❔XX | 🔴 | vless | @prrofile_purple | 146",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+                "❔XX | 🔴 | vless | @prrofile_purple | 154",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -208,8 +208,8 @@
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @nofiltering2 | 1",
@@ -371,7 +371,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 9",
             "type": "vless",
             "server": "website.acveo.ir",
             "server_port": 8080,
@@ -557,7 +557,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "01cbabc5-9000-4931-a02b-183236468829",
+            "uuid": "47e825c4-0205-4941-b899-1b5d71cc2f44",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -578,7 +578,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "c02ad960-8e5f-46c3-afe4-74cb197d2966",
+            "uuid": "01cbabc5-9000-4931-a02b-183236468829",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -720,7 +720,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 146",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 154",
             "type": "vless",
             "server": "[2a01:4f8:1c1b:2411::1]",
             "server_port": 31086,
@@ -734,7 +734,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 155",
             "type": "vless",
             "server": "178.239.155.42",
             "server_port": 51377,
@@ -1214,11 +1214,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
-            "server": "162.159.153.28",
-            "server_port": 2083,
-            "uuid": "6965e558-73a4-4808-a778-67e8a82d15aa",
+            "server": "104.17.147.22",
+            "server_port": 2096,
+            "uuid": "96a1b724-68d2-4f4d-ab25-38ecd83577bc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1228,7 +1228,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "1.659118019.uk",
+                "server_name": "ScKzAhYz14.qUiCkOrA.OrG",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1238,18 +1238,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/",
                 "headers": {
-                    "Host": "1.659118019.uk"
+                    "Host": "ScKzAhYz14.qUiCkOrA.OrG"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
-            "server": "104.24.163.64",
+            "server": "104.21.96.1",
             "server_port": 443,
-            "uuid": "6453293c-512f-4862-979b-f65f4a3dd3ff",
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1259,7 +1259,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "66.sgfc.dpdns.org",
+                "server_name": "iPsyCHO.SUEx12.iR",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1269,9 +1269,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/RiuadVWEiFmFyL3C?ed=2560",
                 "headers": {
-                    "Host": "66.sgfc.dpdns.org"
+                    "Host": "iPsyCHO.SUEx12.iR"
                 }
             }
         },
