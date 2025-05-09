@@ -108,8 +108,8 @@
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
+                "🇨🇿CZ | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
@@ -141,7 +141,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @nofiltering2 | 1",
@@ -170,8 +170,8 @@
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
+                "🇨🇿CZ | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
@@ -203,7 +203,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+                "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @nofiltering2 | 1",
@@ -400,7 +400,7 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
+            "tag": "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "194.182.79.158",
             "server_port": 23721,
@@ -421,7 +421,7 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
+            "tag": "🇨🇿CZ | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "194.182.79.247",
             "server_port": 13479,
@@ -1176,11 +1176,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8443,
-            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
+            "server": "45.12.30.132",
+            "server_port": 443,
+            "uuid": "4d91916f-a7fd-419b-8b90-640bb8d4b3f2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1190,7 +1190,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "MdLoXlYg.rIcKtMoUsE.InFo",
+                "server_name": "myphotograpicpicture.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1200,9 +1200,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/fJBvsL0uR2MtzRig",
                 "headers": {
-                    "Host": "MdLoXlYg.rIcKtMoUsE.InFo"
+                    "Host": "myphotograpicpicture.ir"
                 }
             }
         },
