@@ -344,6 +344,7 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
                 "🇱🇻LV | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 6",
+                "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 7",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -398,6 +399,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇿🇦ZA | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -446,7 +448,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🚩CF | 🔴 | vless | @kingofilter | 0",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 2",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "❔XX | 🟢 | vless | @kingofilter | 7",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 9",
@@ -722,6 +723,7 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
                 "🇱🇻LV | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 6",
+                "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 7",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -776,6 +778,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 7",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇿🇦ZA | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -824,7 +827,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🚩CF | 🔴 | vless | @kingofilter | 0",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 2",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "❔XX | 🟢 | vless | @kingofilter | 7",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 9",
@@ -6448,6 +6450,35 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 7",
+            "type": "vless",
+            "server": "164.90.182.56",
+            "server_port": 2053,
+            "uuid": "HelloWorld!",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "iubenda.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lxmu1b8ExuOnk1tyM-p7hAaGtA6DS6gdS0daUdktjwE",
+                    "short_id": "beb4c6"
+                }
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @vless_vmess | 0",
             "type": "vless",
             "server": "104.16.128.22",
@@ -7736,6 +7767,27 @@
                 "path": "\/?ed",
                 "headers": {
                     "Host": "txmt.conetcdata.dpdns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -9029,27 +9081,6 @@
                 "path": "\/re5IzbZ9IZZMddtw?ed=2560\/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN",
                 "headers": {
                     "Host": "ipsychO.SUEx12.Ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 4",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
