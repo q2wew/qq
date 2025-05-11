@@ -417,6 +417,7 @@
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 5",
                 "🇱🇻LV | 🔴 | vless | @v2ray1_ng | 7",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -477,7 +478,6 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🔴 | vless | @free1_vpn | 7",
                 "🇸🇬SG | 🟢 | vmess | @free1_vpn | 8",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
@@ -876,6 +876,7 @@
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 5",
                 "🇱🇻LV | 🔴 | vless | @v2ray1_ng | 7",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -936,7 +937,6 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🔴 | vless | @free1_vpn | 7",
                 "🇸🇬SG | 🟢 | vmess | @free1_vpn | 8",
                 "🇨🇾CY | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 11",
@@ -8105,6 +8105,37 @@
             }
         },
         {
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
+            "type": "vless",
+            "server": "104.24.251.4",
+            "server_port": 443,
+            "uuid": "15cc8d40-f0c0-4e5c-9f43-da04c368353c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "66.sgfc.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
+                "headers": {
+                    "Host": "66.sgfc.dpdns.org"
+                }
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @vless_vmess | 0",
             "type": "vless",
             "server": "104.16.128.22",
@@ -9545,37 +9576,6 @@
                 "path": "\/66",
                 "headers": {
                     "Host": "104.26.8.210"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @free1_vpn | 7",
-            "type": "vless",
-            "server": "104.24.251.4",
-            "server_port": 443,
-            "uuid": "15cc8d40-f0c0-4e5c-9f43-da04c368353c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "66.sgfc.dpdns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
-                "headers": {
-                    "Host": "66.sgfc.dpdns.org"
                 }
             }
         },
