@@ -102,7 +102,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇯🇵JP | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
@@ -115,8 +114,6 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 0",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 7",
                 "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 3",
                 "🇩🇪DE | 🟢 | vmess | @DailyV2RY | 295",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 313",
@@ -133,7 +130,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇯🇵JP | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
@@ -146,8 +142,6 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 0",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 7",
                 "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 3",
                 "🇩🇪DE | 🟢 | vmess | @DailyV2RY | 295",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 313",
@@ -178,23 +172,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
-            "type": "vmess",
-            "server": "88.198.93.175",
-            "server_port": 8880,
-            "uuid": "58531009-b664-445b-b896-7bb9026b744d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
         },
         {
             "tag": "🇯🇵JP | 🟢 | vmess | @mftizi | 0",
@@ -398,74 +375,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 0",
-            "type": "vmess",
-            "server": "195.85.59.203",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "obdii.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws#@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1\/?ed=2560",
-                "headers": {
-                    "Host": "obdii.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 7",
-            "type": "vmess",
-            "server": "visa.org",
-            "server_port": 443,
-            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "join---bede.mosiv2-com.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/sgfqkqmltcy.site\/rbqqvws",
-                "headers": {
-                    "Host": "join---bede.mosiv2-com.workers.dev"
-                }
             }
         },
         {
