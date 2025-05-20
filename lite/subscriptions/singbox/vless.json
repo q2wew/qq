@@ -139,8 +139,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 14",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 325",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 326",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 6",
                 "🇳🇱NL | 🟢 | vless | @free1_vpn | 7",
@@ -150,10 +150,10 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 10",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -202,8 +202,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 14",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 325",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 326",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 6",
                 "🇳🇱NL | 🟢 | vless | @free1_vpn | 7",
@@ -213,10 +213,10 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 10",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -1111,7 +1111,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 326",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 325",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -1132,7 +1132,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 327",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 326",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -1391,10 +1391,10 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 12",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 443,
+            "server_port": 80,
             "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1403,21 +1403,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "ipsychO.SUEx12.Ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/re5IzbZ9IZZMddtw?ed=2560\/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN",
+                "path": "\/",
                 "headers": {
-                    "Host": "ipsychO.SUEx12.Ir"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1467,7 +1457,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
