@@ -129,10 +129,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
-                "❔XX | 🔴 | vless | @prrofile_purple | 148",
+                "❔XX | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "❔XX | 🔴 | vless | @ServerNett | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -162,7 +163,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -201,10 +202,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
-                "❔XX | 🔴 | vless | @prrofile_purple | 148",
+                "❔XX | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "❔XX | 🔴 | vless | @ServerNett | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -234,7 +236,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -926,7 +928,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 148",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 156",
             "type": "vless",
             "server": "docs.acveo.ir",
             "server_port": 8080,
@@ -992,7 +994,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+            "tag": "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 0",
+            "type": "vless",
+            "server": "185.188.181.214",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram🇨🇳 @ShadowProxy66 \/?ed=2560",
+                "headers": {
+                    "Host": "185.188.181.214"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
             "type": "vless",
             "server": "116.203.149.50",
             "server_port": 22940,
@@ -1761,7 +1784,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
