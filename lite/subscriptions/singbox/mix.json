@@ -105,7 +105,6 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
@@ -117,7 +116,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
-                "🇫🇮FI | 🔴 | vless | @vpn_xw | 4",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -125,9 +124,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
@@ -179,7 +176,6 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 8",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 30",
@@ -191,7 +187,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
-                "🇫🇮FI | 🔴 | vless | @vpn_xw | 4",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -199,9 +195,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 17",
@@ -354,37 +348,6 @@
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
             "server": "15.237.148.165",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-            "type": "vless",
-            "server": "3.126.195.11",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -636,7 +599,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "96fd0bd1-8724-4f38-984b-bf2c91568fad",
+            "uuid": "35193412-794d-4a74-9d81-a02047c5a228",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -657,7 +620,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "72747001-ebf3-4622-a12d-32470460e494",
+            "uuid": "96fd0bd1-8724-4f38-984b-bf2c91568fad",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -674,7 +637,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @vpn_xw | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
@@ -874,53 +837,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
-            "type": "trojan",
-            "server": "3.126.195.11",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
             "server": "15.237.148.165",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 17",
-            "type": "trojan",
-            "server": "3.126.195.11",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
