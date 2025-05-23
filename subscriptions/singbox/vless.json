@@ -220,8 +220,10 @@
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 2",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 4",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 6",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 7",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 5",
@@ -575,8 +577,10 @@
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 2",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 3",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 4",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 6",
+                "🇮🇷IR | 🔴 | vless | @vpn_xw | 7",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 5",
@@ -3351,7 +3355,7 @@
             "type": "vless",
             "server": "185.143.233.120",
             "server_port": 443,
-            "uuid": "c92348f4-1ebb-4232-b546-c056f3721ffb",
+            "uuid": "675537c4-5916-446f-b90d-15f64f3ccf67",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3371,7 +3375,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/wp-content?ed=2020",
+                "path": "\/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn",
                 "headers": {
                     "Host": "mydigipay.com"
                 }
@@ -3402,7 +3406,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/wp-admin",
+                "path": "\/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn",
                 "headers": {
                     "Host": "mydigipay.com"
                 }
@@ -3444,6 +3448,37 @@
             "type": "vless",
             "server": "185.143.233.120",
             "server_port": 443,
+            "uuid": "675537c4-5916-446f-b90d-15f64f3ccf67",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mydigipay.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wp-admin",
+                "headers": {
+                    "Host": "mydigipay.com"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 4",
+            "type": "vless",
+            "server": "185.143.233.120",
+            "server_port": 443,
             "uuid": "c92348f4-1ebb-4232-b546-c056f3721ffb",
             "flow": "",
             "packet_encoding": "xudp",
@@ -3471,7 +3506,38 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 4",
+            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
+            "type": "vless",
+            "server": "185.143.233.120",
+            "server_port": 443,
+            "uuid": "c92348f4-1ebb-4232-b546-c056f3721ffb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mydigipay.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wp-content?ed=2020",
+                "headers": {
+                    "Host": "mydigipay.com"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 6",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
@@ -3507,7 +3573,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 5",
+            "tag": "🇮🇷IR | 🔴 | vless | @vpn_xw | 7",
             "type": "vless",
             "server": "185.143.233.120",
             "server_port": 443,
