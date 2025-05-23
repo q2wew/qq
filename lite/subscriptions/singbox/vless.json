@@ -126,6 +126,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "❔XX | 🔴 | vless | @ServerNett | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -188,6 +189,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 155",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
                 "❔XX | 🔴 | vless | @ServerNett | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -864,6 +866,20 @@
                 "headers": {
                     "Host": "join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+            "type": "vless",
+            "server": "116.203.149.50",
+            "server_port": 22940,
+            "uuid": "66abb453-9692-4fde-a24f-95e646ce6410",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
