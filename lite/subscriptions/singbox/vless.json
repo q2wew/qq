@@ -123,7 +123,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 139",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 0",
@@ -188,7 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 139",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇫🇮FI | 🔴 | vless | @ShadowProxy66 | 0",
@@ -608,7 +610,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "694af158-4d6f-4bd5-9435-ea58164ed5ba",
+            "uuid": "ddd015f5-22c2-4f16-951c-782ea96d8c06",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -629,7 +631,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "84905641-e5cc-459d-9f4b-2d11c4c73036",
+            "uuid": "694af158-4d6f-4bd5-9435-ea58164ed5ba",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -807,11 +809,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+            "tag": "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 139",
             "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray1",
+            "server": "194.182.79.119",
+            "server_port": 17958,
+            "uuid": "faf51e77-ee0f-4089-a490-b45a1ccdc09f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -820,10 +822,34 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "ws",
-                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "f3e2ba7a-9523-4687-82ba-77f775ff0d0e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
