@@ -152,14 +152,13 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
+                "❔XX | 🟢 | vless | @SvnTeam | 1",
+                "❔XX | 🟢 | vless | @SvnTeam | 2",
+                "❔XX | 🟢 | vless | @SvnTeam | 4",
+                "❔XX | 🟢 | vless | @SvnTeam | 5",
+                "❔XX | 🟢 | vless | @SvnTeam | 6",
+                "❔XX | 🔴 | vless | @SvnTeam | 8"
             ]
         },
         {
@@ -216,14 +215,13 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 9",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
+                "❔XX | 🟢 | vless | @SvnTeam | 1",
+                "❔XX | 🟢 | vless | @SvnTeam | 2",
+                "❔XX | 🟢 | vless | @SvnTeam | 4",
+                "❔XX | 🟢 | vless | @SvnTeam | 5",
+                "❔XX | 🟢 | vless | @SvnTeam | 6",
+                "❔XX | 🔴 | vless | @SvnTeam | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1920,35 +1918,6 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @kingofilter | 9",
-            "type": "vless",
-            "server": "65.109.192.110",
-            "server_port": 55953,
-            "uuid": "b5ee8f67-0f25-467b-aca4-01001f00d802",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU",
-                    "short_id": "ec01ceda"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
             "type": "vless",
             "server": "SvnFree.GiSvn.ir",
@@ -1978,7 +1947,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 1",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -2007,7 +1976,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 2",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -2036,7 +2005,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 4",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -2065,7 +2034,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 5",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -2094,7 +2063,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 6",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -2123,7 +2092,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
