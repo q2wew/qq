@@ -232,6 +232,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 5","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68615","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 6","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68614","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 7","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68613","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
+  - {"name":"🚩CF | 🔴 | vless | @proxy_kafee | 0","type":"vless","server":"108.162.193.20","port":8880,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"reedfree8mahsang2.redorg.ir"}}}
   - {"name":"🇩🇪DE | 🟢 | vless | @prrofile_purple | 117","type":"vless","server":"91.107.180.49","port":443,"udp":true,"uuid":"d32738d3-45c8-43d7-9507-a28e498e193c","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.cdn77.com","reality-opts":{"public-key":"Q2ouEB49GN--g86H491QLk7hHicoqwaioScO6zMXoEE","short-id":"70"}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 118","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"3befa0ef-6582-4bf0-a9c4-31d5d6e5e08f","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 119","type":"vless","server":"pos1.floorshoping22.com","port":2087,"udp":false,"uuid":"f38e1473-0bb8-4190-8d49-ba1aaaf4e264","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"pos1.floorshoping22.com"}
@@ -515,6 +516,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 5'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
+      - '🚩CF | 🔴 | vless | @proxy_kafee | 0'
       - '🇩🇪DE | 🟢 | vless | @prrofile_purple | 117'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 118'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 119'
@@ -798,6 +800,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 5'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
+      - '🚩CF | 🔴 | vless | @proxy_kafee | 0'
       - '🇩🇪DE | 🟢 | vless | @prrofile_purple | 117'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 118'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 119'
@@ -1080,6 +1083,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 5'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
+      - '🚩CF | 🔴 | vless | @proxy_kafee | 0'
       - '🇩🇪DE | 🟢 | vless | @prrofile_purple | 117'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 118'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 119'
