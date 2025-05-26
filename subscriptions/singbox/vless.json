@@ -187,12 +187,11 @@
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @ARv2ray | 1",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @ARv2ray | 7",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇩🇪DE | 🔴 | vless | @ARv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @ARv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 6",
@@ -233,7 +232,7 @@
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 7",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 8",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 9",
-                "🇫🇮FI | 🔴 | vless | @vpn_xw | 10",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 10",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 11",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
@@ -557,12 +556,11 @@
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 11",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @ARv2ray | 1",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @ARv2ray | 7",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇩🇪DE | 🔴 | vless | @ARv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @ARv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 6",
@@ -603,7 +601,7 @@
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 7",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 8",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 9",
-                "🇫🇮FI | 🔴 | vless | @vpn_xw | 10",
+                "🇩🇪DE | 🔴 | vless | @vpn_xw | 10",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 11",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3",
@@ -2806,28 +2804,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ARv2ray | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @ARv2ray | 0",
             "type": "vless",
             "server": "193.46.81.83",
             "server_port": 3567,
@@ -2863,7 +2840,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+            "type": "vless",
+            "server": "151.101.64.155",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
+                "headers": {
+                    "Host": "151.101.64.155"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2884,7 +2882,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ARv2ray | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @ARv2ray | 8",
             "type": "vless",
             "server": "193.46.81.83",
             "server_port": 3567,
@@ -2920,7 +2918,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -2937,27 +2935,6 @@
                 "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
                 "headers": {
                     "Host": "151.101.64.155"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -3885,7 +3862,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @vpn_xw | 10",
+            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 10",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
