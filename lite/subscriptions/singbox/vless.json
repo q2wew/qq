@@ -108,7 +108,7 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "❔XX | 🟢 | vless | @ipV2Ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 33",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 29",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -121,6 +121,7 @@
                 "🇩🇪DE | 🔴 | vless | @vpn_xw | 12",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇬🇧GB | 🔴 | vless | @prrofile_purple | 148",
@@ -148,7 +149,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
+                "❔XX | 🔴 | vless | @flyv2ray | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 6",
@@ -172,7 +173,7 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🟢 | vless | @ipV2Ray | 8",
                 "❔XX | 🟢 | vless | @ipV2Ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 33",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 29",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 9",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -185,6 +186,7 @@
                 "🇩🇪DE | 🔴 | vless | @vpn_xw | 12",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇬🇧GB | 🔴 | vless | @prrofile_purple | 148",
@@ -212,7 +214,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
+                "❔XX | 🔴 | vless | @flyv2ray | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 6",
@@ -458,11 +460,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 33",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 29",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
-            "uuid": "f4ed5ab6-8c23-43dd-8a74-dc71c7d53008",
+            "uuid": "b26e6aca-66c8-491f-8389-b33ac192ffe8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -767,6 +769,27 @@
                 "path": "\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--",
                 "headers": {
                     "Host": "Speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "162.159.7.20",
+            "server_port": 8880,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "162.159.7.20"
                 }
             }
         },
@@ -1422,7 +1445,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 4",
             "type": "vless",
             "server": "Mashhad-Website.thorav.ir",
             "server_port": 2087,
