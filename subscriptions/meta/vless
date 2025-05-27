@@ -368,7 +368,6 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"104.21.56.44","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/TELEGRAM@MARAMBASHI_MARAMBASHI","headers":{"host":"REEdfREe8MahSaNg2.rEDOrG.IR"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"ac8a603b-81a3-4011-b11d-0d1e05664c7a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/spdnet?ed=1024/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI","headers":{"host":"Ws.speedtest.a.Spdnet.ir"}}}
   - {"name":"❔XX | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"Mashhad-Website.thorav.ir","port":2087,"udp":true,"uuid":"df0a7c22-83e7-4580-a123-ce4e1010ba4a","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU","short-id":"55"}}
-  - {"name":"❔XX | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"Mashhad-Website.thorav.ir","port":2087,"udp":true,"uuid":"a7f573cf-f042-4133-8fa5-b24088621d83","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU","short-id":"55"}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 0","type":"vless","server":"cltechip-mci.argha-v2pedia.monster","port":8443,"udp":false,"uuid":"477d2cef-56a3-44ec-a6a1-85050dda1cf6","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"footlo.argha-v2pedia.monster","grpc-opts":{"grpc-service-name":"Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia"}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 3","type":"vless","server":"cltechip-mci.argha-v2pedia.monster","port":8443,"udp":false,"uuid":"cc5b5139-3863-4ce0-ad8d-b4693cbe0c08","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"footlo.argha-v2pedia.monster","grpc-opts":{"grpc-service-name":"Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia"}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 5","type":"vless","server":"cltechip-mci.argha-v2pedia.monster","port":8443,"udp":false,"uuid":"b5978e88-a12a-43ed-be28-1b6b12febffb","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"footlo.argha-v2pedia.monster","grpc-opts":{"grpc-service-name":"Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia"}}
@@ -648,7 +647,6 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '❔XX | 🔴 | vless | @flyv2ray | 4'
-      - '❔XX | 🔴 | vless | @flyv2ray | 5'
       - '❔XX | 🔴 | vless | @vpn_go67 | 0'
       - '❔XX | 🔴 | vless | @vpn_go67 | 3'
       - '❔XX | 🔴 | vless | @vpn_go67 | 5'
@@ -928,7 +926,6 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '❔XX | 🔴 | vless | @flyv2ray | 4'
-      - '❔XX | 🔴 | vless | @flyv2ray | 5'
       - '❔XX | 🔴 | vless | @vpn_go67 | 0'
       - '❔XX | 🔴 | vless | @vpn_go67 | 3'
       - '❔XX | 🔴 | vless | @vpn_go67 | 5'
@@ -1207,7 +1204,6 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @flyv2ray | 1'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '❔XX | 🔴 | vless | @flyv2ray | 4'
-      - '❔XX | 🔴 | vless | @flyv2ray | 5'
       - '❔XX | 🔴 | vless | @vpn_go67 | 0'
       - '❔XX | 🔴 | vless | @vpn_go67 | 3'
       - '❔XX | 🔴 | vless | @vpn_go67 | 5'
