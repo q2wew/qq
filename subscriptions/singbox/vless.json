@@ -347,7 +347,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 1",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 8",
@@ -447,6 +447,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🚩CF | 🔴 | vless | @kingofilter | 6",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "❔XX | 🟢 | vless | @SvnTeam | 1",
@@ -710,7 +711,7 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 1",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🟢 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 8",
@@ -810,6 +811,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
+                "🚩CF | 🔴 | vless | @kingofilter | 6",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "❔XX | 🟢 | vless | @SvnTeam | 1",
@@ -6677,7 +6679,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 1",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 1",
             "type": "vless",
             "server": "fr.lalegan.shop",
             "server_port": 2053,
@@ -9346,6 +9348,27 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @kingofilter | 6",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 80,
+            "uuid": "dda291d1-b8f8-4967-93a6-4ffe46b9717b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560",
+                "headers": {
+                    "Host": "104.17.147.22"
+                }
             }
         },
         {
