@@ -434,6 +434,8 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
                 "❔XX | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
@@ -450,8 +452,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 2",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 3",
@@ -860,6 +860,8 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 13",
                 "❔XX | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 317",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
@@ -876,8 +878,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 332",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 2",
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 3",
@@ -8783,6 +8783,48 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 316",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "2404f667-5969-4883-a71a-ea2e0db2d25b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 317",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "2404f667-5969-4883-a71a-ea2e0db2d25b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 318",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
@@ -9099,48 +9141,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "2404f667-5969-4883-a71a-ea2e0db2d25b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 334",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "2404f667-5969-4883-a71a-ea2e0db2d25b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 335",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
