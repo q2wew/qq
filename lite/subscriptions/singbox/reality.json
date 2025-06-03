@@ -102,9 +102,8 @@
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @ipV2Ray | 7",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 8",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 9",
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 5",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
@@ -117,9 +116,8 @@
             "outbounds": [
                 "❔XX | 🟢 | vless | @ipV2Ray | 7",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 8",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 9",
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 5",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
@@ -218,7 +216,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 8",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 9",
             "type": "vless",
             "server": "p9.punchline.ir",
             "server_port": 29570,
@@ -272,35 +270,6 @@
                     "enabled": true,
                     "public_key": "wwJmfWX0TYAkFhwG2ej66BRss-LHHJD5BFhtBcRZF0Y",
                     "short_id": "ce5a88c525"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
-            "type": "vless",
-            "server": "public.misvn.ir",
-            "server_port": 443,
-            "uuid": "SVNTEAM-2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc",
-                    "short_id": ""
                 }
             }
         },
