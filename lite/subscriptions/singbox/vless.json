@@ -105,9 +105,9 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 14",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
@@ -142,7 +142,7 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
-                "🇸🇬SG | 🔴 | vless | @FreakConfig | 8",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
@@ -167,9 +167,9 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 14",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
@@ -204,7 +204,7 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
-                "🇸🇬SG | 🔴 | vless | @FreakConfig | 8",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
@@ -310,38 +310,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-            "type": "vless",
-            "server": "13.36.8.60",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
             "server": "18.156.138.162",
             "server_port": 22224,
@@ -372,7 +341,38 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+            "type": "vless",
+            "server": "3.124.169.204",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -548,7 +548,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "4690de53-98ac-451c-836e-398645ea5615",
+            "uuid": "2302c824-6a71-4ed0-b784-5191c2e773a4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -569,7 +569,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "823b79de-822d-45d0-98d6-3bc35c43a2ee",
+            "uuid": "4690de53-98ac-451c-836e-398645ea5615",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1204,7 +1204,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🔴 | vless | @FreakConfig | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
             "type": "vless",
             "server": "199.232.13.59",
             "server_port": 80,
