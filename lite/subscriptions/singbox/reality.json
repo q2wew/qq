@@ -102,7 +102,6 @@
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 124",
-                "🇳🇱NL | 🔴 | vless | @flyv2ray | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 3",
@@ -115,7 +114,6 @@
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 124",
-                "🇳🇱NL | 🔴 | vless | @flyv2ray | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 3",
@@ -204,42 +202,6 @@
                     "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
                     "short_id": "e1afb93bfe75a34b"
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @flyv2ray | 12",
-            "type": "vless",
-            "server": "95.164.17.75",
-            "server_port": 443,
-            "uuid": "a943a9e0-792e-4efe-af1e-54751a44fef8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pasVbAjcNpjQvgsHBN_WKxQPXwNdXsI4nXYC1usoV0s",
-                    "short_id": "df"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
