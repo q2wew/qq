@@ -126,7 +126,8 @@
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 1",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 68",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 62",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
                 "🇹🇼TW | 🟢 | vless | @ShadowSocks_s | 1",
                 "🇩🇪DE | 🟢 | vless | @ShadowSocks_s | 2",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 0",
@@ -197,7 +198,8 @@
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 1",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 68",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 62",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
                 "🇹🇼TW | 🟢 | vless | @ShadowSocks_s | 1",
                 "🇩🇪DE | 🟢 | vless | @ShadowSocks_s | 2",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 0",
@@ -816,24 +818,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 68",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 62",
             "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "👉chanel_JOKERRVPN👈",
+            "server": "smartunitedstatesmtn.haftyek.ir",
+            "server_port": 12345,
+            "uuid": "329535df-1a2f-4ff3-9426-c0ffc1ec772d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
+            "type": "vless",
+            "server": "151.101.7.255",
+            "server_port": 80,
+            "uuid": "b198aacc-2812-4c9c-be95-520d7ceb48ac",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
