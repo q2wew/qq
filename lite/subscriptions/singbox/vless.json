@@ -149,7 +149,8 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇩🇪DE | 🔴 | vless | @Capoit | 7",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 7",
+                "🇩🇪DE | 🔴 | vless | @Capoit | 8",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 6",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
@@ -217,7 +218,8 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇩🇪DE | 🔴 | vless | @Capoit | 7",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 7",
+                "🇩🇪DE | 🔴 | vless | @Capoit | 8",
                 "🇬🇧GB | 🔴 | vless | @FreakConfig | 6",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
@@ -1369,7 +1371,38 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Capoit | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 7",
+            "type": "vless",
+            "server": "195.28.169.253",
+            "server_port": 443,
+            "uuid": "e911c552-3a98-41e0-b5fb-0dd3879887b7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vod.ensf.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/api\/v1\/irc",
+                "headers": {
+                    "Host": "vod.ensf.top"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @Capoit | 8",
             "type": "vless",
             "server": "102.177.176.213",
             "server_port": 8880,
