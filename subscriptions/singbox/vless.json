@@ -137,7 +137,6 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 3",
@@ -254,7 +253,7 @@
                 "❔XX | 🔴 | vless | @v2rayNG_Matsuri | 2",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 3",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 4",
-                "🇸🇪SE | 🔴 | vless | @v2rayNG_Matsuri | 5",
+                "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 5",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 6",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 2",
@@ -420,7 +419,6 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 3",
@@ -537,7 +535,7 @@
                 "❔XX | 🔴 | vless | @v2rayNG_Matsuri | 2",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 3",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 4",
-                "🇸🇪SE | 🔴 | vless | @v2rayNG_Matsuri | 5",
+                "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 5",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 6",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 2",
@@ -1629,42 +1627,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
-            "type": "vless",
-            "server": "www.speedtest-divar.ir",
-            "server_port": 443,
-            "uuid": "0d46bbe1-bfd1-45ad-be2d-03b531a2881b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fauxid.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BwXeuQqugoDcQvIWNNUJ5iz7DYldgMJq23Gl9y-S-yc",
-                    "short_id": "eaab9c"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -4111,7 +4073,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @v2rayNG_Matsuri | 5",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 5",
             "type": "vless",
             "server": "direct.gladservices.ir",
             "server_port": 1001,
