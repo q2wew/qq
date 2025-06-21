@@ -104,11 +104,10 @@
                 "🇹🇼TW | 🟢 | vless | @ShadowSocks_s | 1",
                 "🇩🇪DE | 🟢 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🟢 | vless | @free1_vpn | 5",
-                "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 3",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4"
+                "❔XX | 🟢 | vless | @SvnTeam | 3",
+                "❔XX | 🟢 | vless | @SvnTeam | 4"
             ]
         },
         {
@@ -119,11 +118,10 @@
                 "🇹🇼TW | 🟢 | vless | @ShadowSocks_s | 1",
                 "🇩🇪DE | 🟢 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🟢 | vless | @free1_vpn | 5",
-                "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 3",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 4"
+                "❔XX | 🟢 | vless | @SvnTeam | 3",
+                "❔XX | 🟢 | vless | @SvnTeam | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -262,35 +260,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @flyv2ray | 7",
-            "type": "vless",
-            "server": "a.aiteamplus.ir",
-            "server_port": 6020,
-            "uuid": "5d19d8d8-d0c8-4ea0-b86e-082030397ebc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "traffic-tile.maps.snapp.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "OCW4VToUh_2gtej7iO30chCKwUWDmmmpW01kHE4BDwU",
-                    "short_id": "7fcf499c88f80777"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @vpn_go67 | 20",
             "type": "vless",
             "server": "public.alpanel.top",
@@ -363,7 +332,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 3",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 3",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -392,7 +361,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 4",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 4",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
