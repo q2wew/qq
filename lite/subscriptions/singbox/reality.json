@@ -101,7 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @MTConfig | 4",
-                "🇳🇱NL | 🟢 | vless | @Capoit | 2",
+                "🇳🇱NL | 🟢 | vless | @Capoit | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0"
@@ -112,7 +112,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @MTConfig | 4",
-                "🇳🇱NL | 🟢 | vless | @Capoit | 2",
+                "🇳🇱NL | 🟢 | vless | @Capoit | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0"
@@ -174,7 +174,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @Capoit | 2",
+            "tag": "🇳🇱NL | 🟢 | vless | @Capoit | 3",
             "type": "vless",
             "server": "night.dl.darinips.com",
             "server_port": 443,
