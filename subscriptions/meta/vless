@@ -279,14 +279,14 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 7","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"be05581d-a8f4-42f4-b8ab-7e8f438ec290","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/download?ed=2048","headers":{"host":"oFnKGAC26JAs2SXa.xyz"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @Capoit | 9","type":"vless","server":"whats-my-ip.wizardxray.shop","port":701,"udp":false,"uuid":"2567fd40-d432-4ca0-a785-6b10af8e5269","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 10","type":"vless","server":"ma2.reactjsworld.com","port":80,"udp":false,"uuid":"9f25c96c-f91c-473e-a903-a0d6f615da3a","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 0","type":"vless","server":"amirhgermany.norozhost.com","port":6890,"udp":false,"uuid":"d8810bbc-ae3f-43ad-bc8d-4f3ee0ef02a5","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"svnteam.aeza.nisvn.ir","port":80,"udp":false,"uuid":"46845409-de54-4802-aec0-799d7d379123","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@SvnProBot?ed=2560","headers":{"host":"Aeza.net"}}}
-  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"300.shecanmarket.com","port":8443,"udp":false,"uuid":"77371595-b7aa-472a-9d61-e9731861af07","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"ir15.sogol98.com","port":54848,"udp":false,"uuid":"2b4a6b04-9924-4206-b08a-9f0e81382efa","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"yldl.ir","port":2096,"udp":false,"uuid":"0d1cb112-006f-4eaa-89d1-15da714d12e1","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🟢 | vless | @flyv2ray | 7","type":"vless","server":"all32-vip.f-sub.com","port":2434,"udp":true,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
-  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 9","type":"vless","server":"info-4.nobifay.ir","port":60,"udp":false,"uuid":"9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 10","type":"vless","server":"power.teampluss.ir","port":80,"udp":false,"uuid":"758ed714-cac7-4b8c-bcf7-c65383789b60","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/ws/?ed=2048","headers":{"host":"irangamebaz4.ir"}}}
+  - {"name":"🇩🇪DE | 🟢 | vless | @flyv2ray | 0","type":"vless","server":"5.75.192.185","port":35487,"udp":true,"uuid":"1c808cce-3f2a-4f4a-b8fe-e99e06e258f4","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tgju.org","reality-opts":{"public-key":"GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k","short-id":"0b886008af8942c3"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"amirhgermany.norozhost.com","port":6890,"udp":false,"uuid":"d8810bbc-ae3f-43ad-bc8d-4f3ee0ef02a5","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"svnteam.aeza.nisvn.ir","port":80,"udp":false,"uuid":"46845409-de54-4802-aec0-799d7d379123","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@SvnProBot?ed=2560","headers":{"host":"Aeza.net"}}}
+  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"300.shecanmarket.com","port":8443,"udp":false,"uuid":"77371595-b7aa-472a-9d61-e9731861af07","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"ir15.sogol98.com","port":54848,"udp":false,"uuid":"2b4a6b04-9924-4206-b08a-9f0e81382efa","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 6","type":"vless","server":"yldl.ir","port":2096,"udp":false,"uuid":"0d1cb112-006f-4eaa-89d1-15da714d12e1","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇩🇪DE | 🟢 | vless | @flyv2ray | 8","type":"vless","server":"all32-vip.f-sub.com","port":2434,"udp":true,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
+  - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 10","type":"vless","server":"info-4.nobifay.ir","port":60,"udp":false,"uuid":"9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"svnteam.aeza.nisvn.ir","port":80,"udp":false,"uuid":"c29ec2b7-331b-4d6e-88a1-0398d510c9da","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@SvnProBot?ed=2560","headers":{"host":"Aeza.net"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @nofiltering2 | 1","type":"vless","server":"mtn.ivy-net.ir","port":8080,"udp":false,"uuid":"57349012-601d-4425-b5d2-3a94db2f4b1b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @nofiltering2 | 2","type":"vless","server":"fast.v2sub.online","port":80,"udp":false,"uuid":"b7155dd2-eaac-4570-85b7-7138e7b45e49","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
@@ -473,14 +473,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 7'
       - '🇮🇷IR | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 0'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 3'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
-      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 7'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 10'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 6'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 8'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 1'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
@@ -667,14 +667,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 7'
       - '🇮🇷IR | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 0'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 3'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
-      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 7'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 10'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 6'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 8'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 1'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
@@ -860,14 +860,14 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 7'
       - '🇮🇷IR | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 0'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 2'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 3'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
-      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 7'
-      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 9'
-      - '🇺🇸US | 🔴 | vless | @flyv2ray | 10'
+      - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 6'
+      - '🇩🇪DE | 🟢 | vless | @flyv2ray | 8'
+      - '🇮🇷IR | 🔴 | vless | @flyv2ray | 10'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 1'
       - '🇺🇸US | 🔴 | vless | @nofiltering2 | 2'
