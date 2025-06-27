@@ -146,7 +146,8 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 29",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+                "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇬SG | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -216,7 +217,8 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 29",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+                "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇬SG | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -1283,7 +1285,21 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxystore11 | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
+            "type": "vless",
+            "server": "ipfast.maketunnelim.lat",
+            "server_port": 80,
+            "uuid": "ec2c4dfe-7df7-4200-a330-c48b4b9e3b3b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxystore11 | 8",
             "type": "vless",
             "server": "m5.deepmusic.com.tr",
             "server_port": 41376,
