@@ -153,8 +153,8 @@
                 "🇮🇷IR | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇬🇧GB | 🟢 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 2",
@@ -223,8 +223,8 @@
                 "🇮🇷IR | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇬🇧GB | 🟢 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 2",
@@ -1402,6 +1402,27 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
+            "type": "vless",
+            "server": "141.101.120.38",
+            "server_port": 8080,
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha\/",
+                "headers": {
+                    "Host": "141.101.120.38"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
             "type": "vless",
             "server": "Rezaarbabisangkar-94974.edges.chat2.fun",
@@ -1413,27 +1434,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
-            "type": "vless",
-            "server": "104.17.220.188",
-            "server_port": 80,
-            "uuid": "68b48eeb-5770-4eb3-9b77-deeb77a41ccf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "varzesh3.varzesh.dpdns.org"
-                }
             }
         },
         {
