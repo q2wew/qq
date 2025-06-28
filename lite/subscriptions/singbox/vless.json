@@ -159,7 +159,6 @@
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 2",
                 "🇮🇷IR | 🔴 | vless | @proxy_mtm | 0",
@@ -233,7 +232,6 @@
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 2",
                 "🇮🇷IR | 🔴 | vless | @proxy_mtm | 0",
@@ -1574,27 +1572,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "141.193.213.10"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "9e228bc9-c081-4cd4-9968-c0d05e9cfced",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG----@HqV2rayNG",
-                "headers": {
-                    "Host": "151.101.3.8"
                 }
             }
         },
