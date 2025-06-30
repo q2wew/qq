@@ -107,11 +107,11 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 11",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 12",
                 "🇨🇾CY | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -153,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -175,11 +175,11 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 11",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 12",
                 "🇨🇾CY | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -221,7 +221,7 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -369,6 +369,37 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
+            "server": "52.47.70.112",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+            "type": "vless",
             "server": "13.36.196.135",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
@@ -398,38 +429,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
-            "type": "vless",
-            "server": "18.159.150.95",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -471,7 +471,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 11",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 80,
@@ -492,7 +492,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 12",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -1455,7 +1455,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 6",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
