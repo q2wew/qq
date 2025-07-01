@@ -126,8 +126,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
-                "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
+                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 14",
+                "🇮🇷IR | 🔴 | vless | @V2rayNGn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 8",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 57",
@@ -155,8 +155,8 @@
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "❔XX | 🔴 | vless | @Capoit | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
                 "🇸🇬SG | 🔴 | vless | @flyv2ray | 6",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 1",
@@ -200,8 +200,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
-                "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
+                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 14",
+                "🇮🇷IR | 🔴 | vless | @V2rayNGn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 8",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 57",
@@ -229,8 +229,8 @@
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "❔XX | 🔴 | vless | @Capoit | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
                 "🇸🇬SG | 🔴 | vless | @flyv2ray | 6",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 1",
@@ -821,7 +821,7 @@
             }
         },
         {
-            "tag": "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
+            "tag": "🇮🇹IT | 🔴 | vless | @V2rayNGn | 14",
             "type": "vless",
             "server": "cdnf.ten10rocket.top",
             "server_port": 80,
@@ -842,7 +842,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
+            "tag": "🇮🇷IR | 🔴 | vless | @V2rayNGn | 15",
             "type": "vless",
             "server": "2.fasttrade.blog",
             "server_port": 40665,
@@ -1461,27 +1461,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
-            "type": "vless",
-            "server": "172.67.194.241",
-            "server_port": 80,
-            "uuid": "f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
-                "headers": {
-                    "Host": "172.67.194.241"
-                }
-            }
-        },
-        {
             "tag": "🇸🇬SG | 🔴 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "45.8.211.239",
@@ -1500,6 +1479,20 @@
                 "headers": {
                     "Host": "45.8.211.239"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
+            "type": "vless",
+            "server": "91.99.231.218",
+            "server_port": 443,
+            "uuid": "7b6eca4c-44ae-40c6-973a-4e3b29d30803",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
