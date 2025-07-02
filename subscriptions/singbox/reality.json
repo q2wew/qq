@@ -122,8 +122,8 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 46",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 59",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 68",
-                "🇩🇪DE | 🟢 | vless | @vmessorg | 0",
-                "🇳🇱NL | 🟢 | vless | @vmessorg | 11",
+                "🇩🇪DE | 🟢 | vless | @vmessorg | 1",
+                "🇩🇪DE | 🟢 | vless | @vmessorg | 12",
                 "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 29",
@@ -163,8 +163,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
-                "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 0"
+                "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
         },
         {
@@ -191,8 +190,8 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 46",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 59",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 68",
-                "🇩🇪DE | 🟢 | vless | @vmessorg | 0",
-                "🇳🇱NL | 🟢 | vless | @vmessorg | 11",
+                "🇩🇪DE | 🟢 | vless | @vmessorg | 1",
+                "🇩🇪DE | 🟢 | vless | @vmessorg | 12",
                 "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 29",
@@ -232,8 +231,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
-                "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 0"
+                "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -927,7 +925,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @vmessorg | 0",
+            "tag": "🇩🇪DE | 🟢 | vless | @vmessorg | 1",
             "type": "vless",
             "server": "2.59.135.137",
             "server_port": 7022,
@@ -956,7 +954,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @vmessorg | 11",
+            "tag": "🇩🇪DE | 🟢 | vless | @vmessorg | 12",
             "type": "vless",
             "server": "pfwie.marfanet.com",
             "server_port": 55700,
@@ -2247,35 +2245,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
-            "type": "vless",
-            "server": "SvnFree.GiSvn.ir",
-            "server_port": 443,
-            "uuid": "SVNTEAM1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE",
-                    "short_id": ""
-                }
             }
         }
     ],
