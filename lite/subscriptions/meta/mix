@@ -167,7 +167,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @free1_vpn | 9","type":"vless","server":"91.99.150.74","port":51615,"udp":false,"uuid":"2eaef053-5fd6-4def-b234-d760690355ff","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @free1_vpn | 10","type":"vless","server":"104.22.22.78","port":80,"udp":false,"uuid":"cba0b35b-8943-4c70-a864-9f78145b7897","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"agolna.mahsaamini.dpdns.org","ws-opts":{"path":"/Telegram@V2ray_Alpha/?ed=2560","headers":{"host":"agolna.mahsaamini.dpdns.org"}}}
-  - {"name":"🇺🇸US | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"38.33.34.38","port":36002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1738432110766","headers":{"host":""}}}
+  - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"140.245.61.98","port":"23452","cipher":"auto","uuid":"33afaa7d-05f8-42ef-8542-799a37d8f4b3","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"westsg2-ddns.oraclenat.cc"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @fnet00 | 4","type":"vless","server":"104.17.147.22","port":80,"udp":false,"uuid":"e93f923b-92b1-4009-aaeb-3691001347bd","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🟢 | vmess | @fnet00 | 5","type":"vmess","server":"151.101.3.8","port":"80","cipher":"auto","uuid":"1f7e2947-c4a5-4e3c-b284-777ff73a086e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"xhttp"}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5","type":"vless","server":"104.16.103.97","port":80,"udp":false,"uuid":"8c17092b-4d89-44e3-9dcb-a00c2bf28827","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"aymng.bahareh.dpdns.org","ws-opts":{"path":"Telegram@V2ray_Alpha/?ed=2560","headers":{"host":"aymng.bahareh.dpdns.org"}}}
@@ -235,7 +235,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 9'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 10'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
+      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 4'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5'
@@ -303,7 +303,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 9'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 10'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
+      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 4'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5'
@@ -370,7 +370,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇩🇪DE | 🔴 | vless | @free1_vpn | 9'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 10'
-      - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
+      - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 4'
       - '🇺🇸US | 🟢 | vmess | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5'
