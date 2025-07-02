@@ -102,9 +102,9 @@
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇳🇱NL | 🟢 | vmess | @FreakConfig | 0"
             ]
@@ -115,9 +115,9 @@
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇳🇱NL | 🟢 | vmess | @FreakConfig | 0"
             ],
@@ -183,7 +183,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -217,11 +217,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇫🇷FR | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
-            "server": "38.54.94.122",
-            "server_port": 2053,
-            "uuid": "2ca8b9c3-a2c7-4f3e-b3f4-acd85525ace1",
+            "server": "51.77.20.137",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -244,18 +244,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/L0229-16",
+                "path": "\/linkvws",
                 "headers": {
                     "Host": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "acbcbaa-aacb-abac-dbca-abccaababcbc",
+            "server": "104.16.223.254",
+            "server_port": 2096,
+            "uuid": "75de8443-8efe-429c-c5ef-a51f38592f03",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -265,6 +265,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.okcupid.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/3tq4ttrw",
+                "headers": {
+                    "Host": "www.okcupid.com"
+                }
             }
         },
         {
