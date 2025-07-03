@@ -160,7 +160,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 0","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"560c46be-d15d-4083-8fb5-c7ad5f4f24fd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 4","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"c9541d44-150b-4c71-9e88-0071f6316e4d","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 8","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"5781b499-6c56-452d-9e9f-fa43383f3b08","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"8a20ecfe-6a72-4e88-aa2c-65a9e43a8512","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 10","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"8a20ecfe-6a72-4e88-aa2c-65a9e43a8512","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 11","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"4b75a44d-3c91-461e-b5a0-6060ac8aff68","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 13","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"f13e82ba-618f-4b5e-badf-c87d79217639","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17","type":"vless","server":"alfred.dnss-mobile.ir","port":443,"udp":false,"uuid":"c2a1fe98-5a25-4173-be3e-9fe9c7591484","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"alfred.dnss-mobile.ir","ws-opts":{"path":"/alfred?ed=2048","headers":{"host":"alfred.dnss-mobile.ir"}}}
@@ -241,7 +241,7 @@ proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @vmessorg | 1","type":"vless","server":"91.99.187.13","port":443,"udp":false,"uuid":"7a66b8ef-9713-4b69-b839-6bb45070af35","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @vmessorg | 2","type":"vless","server":"185.133.125.10","port":19161,"udp":false,"uuid":"c5b69a7f-8e71-4425-8613-0f3c2a97d6d7","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 3","type":"vless","server":"add.ski1plag.ir","port":80,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/upload","headers":{"host":"my.ski1plag.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 4","type":"vless","server":"Sd.mciickoir.ir","port":9620,"udp":false,"uuid":"3ed3966a-ca0e-4a46-a437-8000836fa495","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇮🇷IR | 🔴 | vless | @vmessorg | 4","type":"vless","server":"Sd.mciickoir.ir","port":9620,"udp":false,"uuid":"3ed3966a-ca0e-4a46-a437-8000836fa495","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @vmessorg | 5","type":"vless","server":"91.99.203.69","port":51615,"udp":false,"uuid":"2eaef053-5fd6-4def-b234-d760690355ff","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @vmessorg | 6","type":"vless","server":"85.9.99.89","port":450,"udp":false,"uuid":"db67312c-8388-470c-a8aa-9995732a6f8d","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @vmessorg | 7","type":"vless","server":"104.22.16.91","port":443,"udp":false,"uuid":"9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kawaiifreevpn-7ds.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"kawaiifreevpn-7ds.pages.dev"}}}
@@ -427,7 +427,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
@@ -508,7 +508,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 1'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 2'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 3'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 4'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 4'
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 5'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🚩CF | 🔴 | vless | @vmessorg | 7'
@@ -694,7 +694,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
@@ -775,7 +775,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 1'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 2'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 3'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 4'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 4'
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 5'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🚩CF | 🔴 | vless | @vmessorg | 7'
@@ -960,7 +960,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
@@ -1041,7 +1041,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 1'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 2'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 3'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 4'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 4'
       - '🇩🇪DE | 🔴 | vless | @vmessorg | 5'
       - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🚩CF | 🔴 | vless | @vmessorg | 7'
