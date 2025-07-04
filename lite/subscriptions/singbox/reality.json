@@ -101,7 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 15",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -111,7 +111,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 15",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -172,11 +172,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 2052,
-            "uuid": "5744c1a5-1f2b-4a8b-a99c-47b906d05c1c",
+            "uuid": "b57a8005-df1b-4462-974b-5992d4c815f5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
