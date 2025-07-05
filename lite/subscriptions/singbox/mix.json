@@ -141,7 +141,6 @@
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
@@ -157,8 +156,8 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -174,7 +173,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇹🇷TR | 🔴 | vless | @kingofilter | 3",
+                "🇹🇷TR | 🔴 | vless | @kingofilter | 4",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ]
@@ -224,7 +223,6 @@
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
@@ -240,8 +238,8 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -257,7 +255,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇹🇷TR | 🔴 | vless | @kingofilter | 3",
+                "🇹🇷TR | 🔴 | vless | @kingofilter | 4",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ],
@@ -1117,37 +1115,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "4d91916f-a7fd-419b-8b90-640bb8d1b9f4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "TITanTabLOmaNAHaMRaH.IR",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/JHVdDlmFTThrY7WI\/NjIuMy4xMi4xODU",
-                "headers": {
-                    "Host": "TITanTabLOmaNAHaMRaH.IR"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1527,11 +1494,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "cbcbaaa-acab-cbaa-acdb-cbbacaaccabb",
+            "server_port": 2080,
+            "uuid": "caabbac-acba-acab-cabd-bcbaacbacbca",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1544,11 +1511,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
             "type": "vmess",
-            "server": "172.111.36.108",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "104.19.150.10",
+            "server_port": 2095,
+            "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1558,23 +1525,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
-                }
             }
         },
         {
@@ -1883,7 +1833,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @kingofilter | 3",
+            "tag": "🇹🇷TR | 🔴 | vless | @kingofilter | 4",
             "type": "vless",
             "server": "38.180.105.218",
             "server_port": 9091,
