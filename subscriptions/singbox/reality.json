@@ -104,9 +104,9 @@
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 0",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 1",
+                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 6",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 8",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 9",
@@ -149,9 +149,9 @@
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 0",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 1",
+                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 6",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 8",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 9",
@@ -273,7 +273,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ipV2Ray | 0",
+            "tag": "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
             "type": "vless",
             "server": "95.164.17.75",
             "server_port": 443,
@@ -309,7 +309,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 1",
+            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
             "type": "vless",
             "server": "45.83.143.71",
             "server_port": 443,
@@ -345,7 +345,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
+            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "45.83.143.71",
             "server_port": 2087,
