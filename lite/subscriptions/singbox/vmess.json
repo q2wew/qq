@@ -103,8 +103,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 6",
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇩🇪DE | 🟢 | vmess | @FreakConfig | 0"
             ]
@@ -116,8 +116,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 6",
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇩🇪DE | 🟢 | vmess | @FreakConfig | 0"
             ],
@@ -217,11 +217,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "aababcc-baca-abac-cdba-caaccabcabbb",
+            "server": "45.159.51.161",
+            "server_port": 39131,
+            "uuid": "2abcabf6-d7bf-48eb-aed2-07f090b7008a",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -234,11 +234,11 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "140.245.43.204",
-            "server_port": 23452,
-            "uuid": "786eeff8-126a-4d90-827d-da5d9410f0d4",
+            "server": "38.147.161.47",
+            "server_port": 44447,
+            "uuid": "6f5637c1-2a46-4d3b-8257-7dc3a70ff1dd",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -248,13 +248,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "140.245.43.204"
-                }
             }
         },
         {
