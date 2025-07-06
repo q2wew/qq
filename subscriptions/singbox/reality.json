@@ -114,8 +114,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 12",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 81",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 83",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 84",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 85",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 90",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 91",
@@ -161,8 +160,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 12",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 81",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 83",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 84",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 85",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 90",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 91",
@@ -637,7 +635,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 81",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 84",
             "type": "vless",
             "server": "91.99.154.53",
             "server_port": 80,
@@ -662,35 +660,6 @@
                     "enabled": true,
                     "public_key": "RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w",
                     "short_id": "fbe3b0"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 83",
-            "type": "vless",
-            "server": "91.99.204.242",
-            "server_port": 19056,
-            "uuid": "d8ed00b9-6002-4482-ade0-611f357a0f3b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "github.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Ip9iGBdMZdKp22Qil5zPD-aAsxch6ACEZ75h8CQCySQ",
-                    "short_id": "f1663ee0"
                 }
             }
         },
