@@ -148,7 +148,7 @@ proxies:
   - {"name":"🇳🇱NL | 🟢 | vless | @ipV2Ray | 1","type":"vless","server":"95.164.17.75","port":443,"udp":true,"uuid":"a943a9e0-792e-4efe-af1e-54751a44fef8","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"ftp.debian.org","grpc-opts":{"grpc-service-name":"Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry"},"reality-opts":{"public-key":"pasVbAjcNpjQvgsHBN_WKxQPXwNdXsI4nXYC1usoV0s","short-id":"df"}}
   - {"name":"🇦🇲AM | 🟢 | vless | @ipV2Ray | 2","type":"vless","server":"45.83.143.71","port":443,"udp":true,"uuid":"f8ff8435-f201-471b-b08b-602cef6ca180","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"ftp.debian.org","grpc-opts":{"grpc-service-name":"Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry"},"reality-opts":{"public-key":"KuXbGeSIqhg5_bFaYN1ZW7F4m4LyjLio8Yh1YEE46xM","short-id":"8a"}}
   - {"name":"🇦🇲AM | 🟢 | vless | @ipV2Ray | 3","type":"vless","server":"45.83.143.71","port":2087,"udp":true,"uuid":"1af8c451-eff1-40cb-a14e-e395a4bd6018","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"maps.google.com","grpc-opts":{"grpc-service-name":"Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry"},"reality-opts":{"public-key":"-hM5NALIIJNPWrREoyKCxYkqaHyEXaPkpD9wJbdbtRs","short-id":"d026"}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @ipV2Ray | 4","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"d78628e8-5b51-4452-b3ce-79f3249b5755","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048","headers":{"host":"www.speedtest.net.1.developsp.ir.gebados.ir."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 4","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"d78628e8-5b51-4452-b3ce-79f3249b5755","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048","headers":{"host":"www.speedtest.net.1.developsp.ir.gebados.ir."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 6","type":"vless","server":"speedtest.net","port":80,"udp":false,"uuid":"f222a575-5a5b-496f-b1b8-7e95aefee02b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"fatmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 7","type":"vless","server":"151.101.3.8","port":80,"udp":false,"uuid":"f222a575-5a5b-496f-b1b8-7e95aefee02b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"fatmelo.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 8","type":"vless","server":"zmaoz.faculty.ucdavis.edu","port":80,"udp":false,"uuid":"f222a575-5a5b-496f-b1b8-7e95aefee02b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"fatmelo.com"}}}
@@ -396,7 +396,7 @@ proxy-groups:
       - '🇳🇱NL | 🟢 | vless | @ipV2Ray | 1'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 2'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 3'
-      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 4'
+      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 6'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 7'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 8'
@@ -644,7 +644,7 @@ proxy-groups:
       - '🇳🇱NL | 🟢 | vless | @ipV2Ray | 1'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 2'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 3'
-      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 4'
+      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 6'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 7'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 8'
@@ -891,7 +891,7 @@ proxy-groups:
       - '🇳🇱NL | 🟢 | vless | @ipV2Ray | 1'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 2'
       - '🇦🇲AM | 🟢 | vless | @ipV2Ray | 3'
-      - '🇨🇦CA | 🔴 | vless | @ipV2Ray | 4'
+      - '🇺🇸US | 🔴 | vless | @ipV2Ray | 4'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 6'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 7'
       - '🇺🇸US | 🔴 | vless | @melov2ray | 8'
