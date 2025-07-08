@@ -105,7 +105,9 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 4"
+                "🇫🇮FI | 🟢 | vless | @kingofilter | 4",
+                "❔XX | 🔴 | vless | @SvnTeam | 6",
+                "❔XX | 🔴 | vless | @SvnTeam | 7"
             ]
         },
         {
@@ -117,7 +119,9 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 4"
+                "🇫🇮FI | 🟢 | vless | @kingofilter | 4",
+                "❔XX | 🔴 | vless | @SvnTeam | 6",
+                "❔XX | 🔴 | vless | @SvnTeam | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -338,6 +342,64 @@
                     "enabled": true,
                     "public_key": "b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw",
                     "short_id": "86"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 6",
+            "type": "vless",
+            "server": "public.misvn.ir",
+            "server_port": 443,
+            "uuid": "SVNTEAM-2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 7",
+            "type": "vless",
+            "server": "public.misvn.ir",
+            "server_port": 443,
+            "uuid": "SVNTEAM",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc",
+                    "short_id": ""
                 }
             }
         }
