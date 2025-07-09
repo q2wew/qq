@@ -532,7 +532,6 @@
                 "🚩CF | 🟢 | vless | @Outlinev2rayNG | 4",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
@@ -1047,7 +1046,6 @@
                 "🚩CF | 🟢 | vless | @Outlinev2rayNG | 4",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
@@ -10393,27 +10391,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "8f.startrich.site"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "141.101.121.55",
-            "server_port": 8080,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "141.101.121.55"
                 }
             }
         },

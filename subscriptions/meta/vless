@@ -457,7 +457,6 @@ proxies:
   - {"name":"🚩CF | 🟢 | vless | @Outlinev2rayNG | 4","type":"vless","server":"104.17.210.171","port":443,"udp":false,"uuid":"c98a16e4-0dc5-42f0-b3db-30f04525c123","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vless10-9sc.pages.dev","ws-opts":{"path":"/","headers":{"host":"vless10-9sc.pages.dev"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 5","type":"vless","server":"104.16.122.80","port":443,"udp":false,"uuid":"90d7db9b-972b-4073-8738-12cf42124260","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kawaiifreevpn.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"kawaiifreevpn.pages.dev"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6","type":"vless","server":"8f.startrich.site","port":8441,"udp":false,"uuid":"c443e676-d800-4150-ad48-39ceb095331f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
-  - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 10","type":"vless","server":"141.101.121.55","port":8080,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"1750293123492.china.baidu.bilibili.china.aeko.cn"}}}
   - {"name":"🚩CF | 🔴 | vless | @Capoit | 0","type":"vless","server":"172.67.92.147","port":443,"udp":false,"uuid":"75fde681-ec64-4654-86fa-30732e8e179c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NGINX.NSCl.IR","ws-opts":{"path":"/assets","headers":{"host":"nginx.nscl.ir"}}}
   - {"name":"🚩CF | 🔴 | vless | @Capoit | 1","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"92f481b6-ad92-43e4-a683-2bb0aeaa9846","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN?ed=2590","headers":{"host":"dw.alibichareh.dpdns.org"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 2","type":"vless","server":"ifcg.crocodileserver.ir","port":80,"udp":false,"uuid":"c0569a4c-7a62-4ed6-9ae8-91fff5625f84","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
@@ -869,7 +868,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vless | @Outlinev2rayNG | 4'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 5'
       - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6'
-      - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🚩CF | 🔴 | vless | @Capoit | 0'
       - '🚩CF | 🔴 | vless | @Capoit | 1'
       - '🇺🇸US | 🔴 | vless | @Capoit | 2'
@@ -1281,7 +1279,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vless | @Outlinev2rayNG | 4'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 5'
       - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6'
-      - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🚩CF | 🔴 | vless | @Capoit | 0'
       - '🚩CF | 🔴 | vless | @Capoit | 1'
       - '🇺🇸US | 🔴 | vless | @Capoit | 2'
@@ -1692,7 +1689,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vless | @Outlinev2rayNG | 4'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 5'
       - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 6'
-      - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 10'
       - '🚩CF | 🔴 | vless | @Capoit | 0'
       - '🚩CF | 🔴 | vless | @Capoit | 1'
       - '🇺🇸US | 🔴 | vless | @Capoit | 2'
