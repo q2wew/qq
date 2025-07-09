@@ -148,8 +148,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -173,13 +173,14 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 15",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇬🇧GB | 🔴 | vless | @iP_CF | 83",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 3",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "🇩🇪DE | 🔴 | vless | @GozargahVPN | 9",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -239,8 +240,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -264,13 +265,14 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 15",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇬🇧GB | 🔴 | vless | @iP_CF | 83",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 3",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "🇩🇪DE | 🔴 | vless | @GozargahVPN | 9",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -1395,11 +1397,32 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
+            "type": "vless",
+            "server": "104.18.26.90",
+            "server_port": 80,
+            "uuid": "148709e4-402b-48dd-8892-ed39b55ea45c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@vpnserverrr",
+                "headers": {
+                    "Host": "104.18.26.90"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2096,
-            "uuid": "dc80ee7e-bad0-450c-a218-f12e05680885",
+            "server": "172.66.132.196",
+            "server_port": 8443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1409,7 +1432,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "arm1.dollardoon.com",
+                "server_name": "UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1419,24 +1442,10 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2096",
+                "path": "\/Telegram@V2ray_Alpha=?ed=2560",
                 "headers": {
-                    "Host": "arm1.dollardoon.com"
+                    "Host": "UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
-            "type": "vless",
-            "server": "91.107.167.104",
-            "server_port": 55713,
-            "uuid": "a149af65-8679-4572-a1d1-2d7af3fa7c3f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1955,6 +1964,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "dc80ee7e-bad0-450c-a218-f12e05680885",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "arm1.dollardoon.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2096",
+                "headers": {
+                    "Host": "arm1.dollardoon.com"
+                }
+            }
+        },
+        {
             "tag": "🇬🇧GB | 🔴 | vless | @iP_CF | 83",
             "type": "vless",
             "server": "102.177.189.248",
@@ -2097,7 +2137,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 4",
             "type": "vless",
             "server": "172.67.67.92",
             "server_port": 80,
