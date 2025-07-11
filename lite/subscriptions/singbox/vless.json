@@ -114,8 +114,8 @@
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 20",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 22",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 25",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 26",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -159,7 +159,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 177",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 178",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 178",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 3",
@@ -205,8 +205,8 @@
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 20",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 22",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 25",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 26",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -250,7 +250,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 177",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 178",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 178",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 3",
@@ -624,31 +624,65 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 21",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 25",
             "type": "vless",
-            "server": "germany.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "15fa49ec-8220-43a7-9d28-1814a31be77a",
+            "server": "162.159.129.11",
+            "server_port": 2053,
+            "uuid": "b1a8ceea-6601-45b5-a674-7e5b64ab6f6f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sub.divib.dynv6.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "sub.divib.dynv6.net"
+                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 22",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 26",
             "type": "vless",
-            "server": "germany.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "69a7a973-a91b-4555-bf2a-fd35053f109e",
+            "server": "162.159.129.11",
+            "server_port": 2053,
+            "uuid": "b1a8ceea-6601-45b5-a674-7e5b64ab6f6f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sub.divib.dynv6.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
+                "headers": {
+                    "Host": "sub.divib.dynv6.net"
+                }
             }
         },
         {
@@ -1537,9 +1571,9 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 177",
             "type": "vless",
-            "server": "91.99.204.234",
+            "server": "91.99.214.14",
             "server_port": 443,
-            "uuid": "b033a808-59b2-4ac2-af21-6d6204d9abb6",
+            "uuid": "9a85ea24-bd5a-4380-94cb-ffb773cafb33",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1549,11 +1583,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 178",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 178",
             "type": "vless",
-            "server": "91.99.137.1",
-            "server_port": 8080,
-            "uuid": "24a4aa9b-b341-4717-9d4a-00d74c2b84e0",
+            "server": "104.156.246.74",
+            "server_port": 443,
+            "uuid": "a333acaf-2817-4bf9-9221-c1a63bb80de8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
