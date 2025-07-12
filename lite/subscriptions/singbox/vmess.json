@@ -103,10 +103,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
-                "🇦🇹AT | 🟢 | vmess | @FreakConfig | 6"
+                "🇦🇹AT | 🟢 | vmess | @FreakConfig | 6",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 23"
             ]
         },
         {
@@ -116,10 +117,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
-                "🇦🇹AT | 🟢 | vmess | @FreakConfig | 6"
+                "🇦🇹AT | 🟢 | vmess | @FreakConfig | 6",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 23"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -217,7 +219,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "www.visa.com.tw",
             "server_port": 443,
@@ -251,7 +253,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "fiwejniavzoj.xn--fiqs8sjz2bull.com",
             "server_port": 19490,
@@ -290,6 +292,23 @@
             "server": "prone.marfanet.com",
             "server_port": 56320,
             "uuid": "c4ec67a8-1dcc-471d-a6d7-4d9b9ec1726d",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 23",
+            "type": "vmess",
+            "server": "sr55.toast.sbs",
+            "server_port": 8080,
+            "uuid": "35cb7088-baee-448d-851a-d03936fd86fa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
