@@ -102,11 +102,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 1",
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 3",
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 6",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 10",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 12",
                 "🇬🇧GB | 🟢 | ss | @vmess_vless_v2rayng | 13",
                 "🇺🇸US | 🟢 | ss | @vmess_vless_v2rayng | 19",
                 "🇬🇧GB | 🟢 | ss | @vmess_vless_v2rayng | 20",
@@ -121,11 +120,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 1",
-                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 3",
                 "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 6",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 10",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 12",
                 "🇬🇧GB | 🟢 | ss | @vmess_vless_v2rayng | 13",
                 "🇺🇸US | 🟢 | ss | @vmess_vless_v2rayng | 19",
                 "🇬🇧GB | 🟢 | ss | @vmess_vless_v2rayng | 20",
@@ -156,7 +154,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 1",
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 3",
             "type": "shadowsocks",
             "server": "admin.c2.webramz.co",
             "server_port": 443,
@@ -166,7 +164,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 4",
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 6",
             "type": "shadowsocks",
             "server": "admin.c1.webramz.co",
             "server_port": 443,
@@ -176,7 +174,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 6",
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 8",
             "type": "shadowsocks",
             "server": "freakconfig13.felafel.org",
             "server_port": 443,
@@ -186,22 +184,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 10",
+            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 12",
             "type": "shadowsocks",
             "server": "45.144.48.63",
             "server_port": 57456,
             "method": "chacha20-ietf-poly1305",
             "password": "d3837224ed465f00",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17",
-            "type": "shadowsocks",
-            "server": "45.87.175.192",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u",
             "plugin": "",
             "plugin_opts": ""
         },
