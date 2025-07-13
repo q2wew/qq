@@ -144,6 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 24",
@@ -235,6 +236,7 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 24",
@@ -1253,6 +1255,20 @@
             "server": "109.122.247.128",
             "server_port": 31311,
             "uuid": "24145c32-ebea-49d0-92d3-e3e089083108",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
+            "type": "vless",
+            "server": "mci.dl101movis.ir",
+            "server_port": 80,
+            "uuid": "dc679323-923b-4f19-bef6-f62b75bc5cc1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

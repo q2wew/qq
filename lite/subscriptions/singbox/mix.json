@@ -150,6 +150,7 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 24",
@@ -176,8 +177,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "🇮🇷IR | 🟢 | vmess | @Hope_Net | 4",
-                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
                 "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
@@ -256,6 +256,7 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 24",
@@ -282,8 +283,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "🇮🇷IR | 🟢 | vmess | @Hope_Net | 4",
-                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
                 "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
@@ -1407,6 +1407,20 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
+            "type": "vless",
+            "server": "mci.dl101movis.ir",
+            "server_port": 80,
+            "uuid": "dc679323-923b-4f19-bef6-f62b75bc5cc1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
             "type": "vless",
             "server": "mci.dl101movis.ir",
@@ -1988,11 +2002,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
-            "server": "87.107.163.4",
-            "server_port": 37198,
-            "uuid": "6f338926-e323-43bd-8dc8-b41f29c49798",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "caababc-acba-acab-adcb-bbacacabbcca",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -2002,40 +2016,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
-            "type": "vmess",
-            "server": "57.129.24.125",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
