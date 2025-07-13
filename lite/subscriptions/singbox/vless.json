@@ -158,8 +158,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 74",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 75",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 93",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 4",
@@ -167,7 +167,8 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 11",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 5",
@@ -250,8 +251,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 74",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 75",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 93",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 4",
@@ -259,7 +260,8 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 7",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 11",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 5",
@@ -1583,7 +1585,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 74",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 93",
             "type": "vless",
             "server": "198.62.62.4",
             "server_port": 443,
@@ -1614,7 +1616,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 75",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 94",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 443,
@@ -1781,11 +1783,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
-            "server": "45.12.30.234",
-            "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "server": "141.101.121.243",
+            "server_port": 8080,
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1797,7 +1799,38 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "45.12.30.234"
+                    "Host": "141.101.121.243"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
+            "type": "vless",
+            "server": "104.19.245.206",
+            "server_port": 443,
+            "uuid": "9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kawaiifreevpn-7ds.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "kawaiifreevpn-7ds.pages.dev"
                 }
             }
         },
