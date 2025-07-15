@@ -120,8 +120,8 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"🇨🇦CA | 🔴 | vless | @EliV2ray | 6","type":"vless","server":"172.67.181.173","port":80,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560","headers":{"host":"paMchall.cOm."}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @EliV2ray | 7","type":"vless","server":"104.21.72.109","port":443,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/Channel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY?ed=2560","headers":{"host":"pamchall.com"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @EliV2ray | 6","type":"vless","server":"172.67.181.173","port":80,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560","headers":{"host":"paMchall.cOm."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @EliV2ray | 7","type":"vless","server":"104.21.72.109","port":443,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/Channel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY?ed=2560","headers":{"host":"pamchall.com"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7","type":"vless","server":"de.foxinonet.ir","port":443,"udp":false,"uuid":"217be117-a1c7-4165-96d1-25a2839b6f06","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"de.foxinonet.ir","ws-opts":{"path":"/lw","headers":{"host":"de.foxinonet.ir"}}}
   - {"name":"🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8","type":"vless","server":"Irancloud.okamii.ir","port":2095,"udp":false,"uuid":"aaf7709c-4f6a-45d4-8c79-e9917dfca010","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @XsV2ray | 3","type":"vless","server":"nv73.momdping.com","port":443,"udp":false,"uuid":"959eb33c-43f8-4f45-9de6-3ffd13319a79","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nv73.momdping.com","ws-opts":{"path":"/"}}
@@ -194,8 +194,8 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 6'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 7'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 6'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 7'
       - '🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7'
       - '🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 3'
@@ -268,8 +268,8 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 6'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 7'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 6'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 7'
       - '🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7'
       - '🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 3'
@@ -341,8 +341,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 6'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 7'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 6'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 7'
       - '🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7'
       - '🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 3'
