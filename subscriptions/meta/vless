@@ -127,8 +127,8 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @EliV2ray | 6","type":"vless","server":"172.67.181.173","port":80,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560","headers":{"host":"paMchall.cOm."}}}
   - {"name":"🚩CF | 🔴 | vless | @EliV2ray | 7","type":"vless","server":"104.21.72.109","port":443,"udp":false,"uuid":"49970ad1-d6ce-4e5a-8909-a1810818821c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"PamcHalL.coM","ws-opts":{"path":"/Channel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY?ed=2560","headers":{"host":"pamchall.com"}}}
   - {"name":"🚩CF | 🔴 | vless | @Parsashonam | 26","type":"vless","server":"104.16.53.11","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Parsashonam | 28","type":"vless","server":"Zula.ir","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Parsashonam | 29","type":"vless","server":"104.31.16.5","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Parsashonam | 28","type":"vless","server":"Zula.ir","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Parsashonam | 29","type":"vless","server":"104.31.16.5","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇸🇪SE | 🔴 | vless | @Parsashonam | 30","type":"vless","server":"185.146.173.39","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @NIM_VPN_ir | 0","type":"vless","server":"104.26.6.89","port":2052,"udp":false,"uuid":"5dfe11a3-566d-41d1-b697-94c6277b7620","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @NIM_VPN_ir | 1","type":"vless","server":"188.114.97.1","port":443,"udp":false,"uuid":"96479a22-9333-4b03-9912-4dd26acef75e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NExtfilmtOmovies.sitE","ws-opts":{"path":"/9EkfcCDedhvB19xj?ed=2560","headers":{"host":"nextfilmtomovies.site"}}}
@@ -551,8 +551,8 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @EliV2ray | 6'
       - '🚩CF | 🔴 | vless | @EliV2ray | 7'
       - '🚩CF | 🔴 | vless | @Parsashonam | 26'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 28'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 29'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 28'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 29'
       - '🇸🇪SE | 🔴 | vless | @Parsashonam | 30'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 1'
@@ -975,8 +975,8 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @EliV2ray | 6'
       - '🚩CF | 🔴 | vless | @EliV2ray | 7'
       - '🚩CF | 🔴 | vless | @Parsashonam | 26'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 28'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 29'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 28'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 29'
       - '🇸🇪SE | 🔴 | vless | @Parsashonam | 30'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 1'
@@ -1398,8 +1398,8 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @EliV2ray | 6'
       - '🚩CF | 🔴 | vless | @EliV2ray | 7'
       - '🚩CF | 🔴 | vless | @Parsashonam | 26'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 28'
-      - '🇨🇦CA | 🔴 | vless | @Parsashonam | 29'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 28'
+      - '🇺🇸US | 🔴 | vless | @Parsashonam | 29'
       - '🇸🇪SE | 🔴 | vless | @Parsashonam | 30'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🚩CF | 🔴 | vless | @NIM_VPN_ir | 1'
