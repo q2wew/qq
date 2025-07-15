@@ -100,10 +100,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -157,8 +157,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 20",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 186",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
@@ -192,10 +192,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -249,8 +249,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 20",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 186",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
@@ -300,7 +300,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "172.67.181.173",
             "server_port": 80,
@@ -321,7 +321,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
             "type": "vless",
             "server": "104.21.72.109",
             "server_port": 443,
@@ -352,7 +352,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
             "type": "vless",
             "server": "172.66.168.210",
             "server_port": 8080,
@@ -373,7 +373,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 8080,
@@ -1608,11 +1608,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 186",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
             "type": "vless",
-            "server": "198.62.62.4",
-            "server_port": 443,
-            "uuid": "cd2e9541-3fce-4d95-9bec-919d884f911e",
+            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+            "server_port": 2096,
+            "uuid": "24a4aa9b-b341-4717-9d4a-00d74c2b84e0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1622,7 +1622,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "hxqom.alexander-sportage.info",
+                "server_name": "3Ed170BsS6.vPbEtHoRvP002.iNfO",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1632,18 +1632,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/tiger",
+                "path": "\/",
                 "headers": {
-                    "Host": "hxqom.alexander-sportage.info"
+                    "Host": "3Ed170BsS6.vPbEtHoRvP002.iNfO"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 187",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
             "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 443,
-            "uuid": "518d0495-2139-4bfd-94df-2a029108f1af",
+            "server": "198.62.62.4",
+            "server_port": 2096,
+            "uuid": "9a3d44cc-3a0d-4229-8a8c-823cbe2e80f7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1653,7 +1653,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "nextMusIcHAMraH.Site",
+                "server_name": "638878473935848916.brussels-prx-dnraaao.info",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1663,9 +1663,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/1E6TZkrhu3EWOwlQ?ed",
+                "path": "\/dezzcpws",
                 "headers": {
-                    "Host": "nextMusIcHAMraH.Site"
+                    "Host": "638878473935848916.brussels-prx-dnraaao.info"
                 }
             }
         },
