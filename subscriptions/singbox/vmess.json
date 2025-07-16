@@ -115,10 +115,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 7",
-                "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 12",
-                "🇩🇪DE | 🟢 | vmess | @customv2ray | 18",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 169",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -150,10 +147,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 7",
-                "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 12",
-                "🇩🇪DE | 🟢 | vmess | @customv2ray | 18",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 169",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -409,79 +403,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 7",
-            "type": "vmess",
-            "server": "112.132.215.12",
-            "server_port": 50002,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 16",
-            "type": "vmess",
-            "server": "57.129.24.125",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🟢 | vmess | @customv2ray | 12",
             "type": "vmess",
             "server": "panel3.ipyar.org",
             "server_port": 32017,
             "uuid": "c0ccdeb9-784c-4d67-b904-20dcaac9902a",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @customv2ray | 18",
-            "type": "vmess",
-            "server": "panel1.ipyar.org",
-            "server_port": 42684,
-            "uuid": "c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
