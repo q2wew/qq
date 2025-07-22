@@ -119,12 +119,11 @@
                 "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 11",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 15",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 8",
-                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @FreakConfig | 0",
                 "🇨🇳CN | 🟢 | vmess | @FreakConfig | 4",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 5"
@@ -151,12 +150,11 @@
                 "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 11",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 15",
                 "🇩🇪DE | 🟢 | vmess | @customv2ray | 8",
-                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @FreakConfig | 0",
                 "🇨🇳CN | 🟢 | vmess | @FreakConfig | 4",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 5"
@@ -522,7 +520,7 @@
             }
         },
         {
-            "tag": "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+            "tag": "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
             "type": "vmess",
             "server": "45.199.138.217",
             "server_port": 41000,
@@ -668,30 +666,6 @@
                 "path": "\/66",
                 "headers": {
                     "Host": "104.26.8.210"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-            "type": "vmess",
-            "server": "104.19.173.68",
-            "server_port": 2086,
-            "uuid": "9ca78a86-07bb-4eaf-a47d-1a7bb40928e3",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
