@@ -120,7 +120,7 @@
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 6",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "🇰🇿KZ | 🔴 | vless | @rxv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 0",
@@ -153,8 +153,8 @@
                 "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
-                "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
@@ -224,7 +224,7 @@
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 6",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "🇰🇿KZ | 🔴 | vless | @rxv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 0",
@@ -257,8 +257,8 @@
                 "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
-                "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
@@ -805,7 +805,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1467,7 +1467,21 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+            "type": "vless",
+            "server": "45.79.218.244",
+            "server_port": 443,
+            "uuid": "3b7fcfbf-f26e-4055-bdaa-bb9fae6cab37",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4",
             "type": "vless",
             "server": "62.3.12.185",
             "server_port": 443,
@@ -1494,27 +1508,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "NGINX-Z.pages.DEV"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
-            "type": "vless",
-            "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
-            "server_port": 80,
-            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK"
                 }
             }
         },
