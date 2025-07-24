@@ -202,10 +202,10 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 18",
@@ -482,9 +482,9 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🚩CF | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 0",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 1",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 2",
@@ -678,10 +678,10 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 18",
@@ -958,9 +958,9 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🚩CF | 🔴 | vless | @fnet00 | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 0",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 1",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 2",
@@ -3351,7 +3351,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3393,7 +3393,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -9647,6 +9647,27 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
             "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "5159e44f-b4cf-49d9-a4c2-5620a6431e87",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/hajmi?ed=2050",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+            "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,
             "uuid": "19e70f3b-8c62-42d7-b8a2-381e086a1397",
@@ -9676,7 +9697,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "188.114.97.202",
             "server_port": 8443,
@@ -9707,7 +9728,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "small-meal.oneeat.co",
             "server_port": 80,
@@ -9725,27 +9746,6 @@
                 "headers": {
                     "Host": "small-meal.oneeat.co"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 11",
-            "type": "vless",
-            "server": "91.107.155.155",
-            "server_port": 443,
-            "uuid": "d4363b0e-8672-43c6-af2a-30824d60e435",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Silver_v2ray@Silver_v2ray@Silver_v2ray@Silver_v2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
