@@ -100,8 +100,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 21",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 22",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 1",
@@ -138,8 +138,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 147",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 23",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 26",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 27",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17",
@@ -193,8 +193,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 21",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 22",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 1",
@@ -231,8 +231,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 147",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 23",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 26",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 27",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 17",
@@ -302,7 +302,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -323,7 +323,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1165,7 +1165,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 26",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 27",
             "type": "vless",
             "server": "104.26.15.69",
             "server_port": 2096,
@@ -1196,7 +1196,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 27",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 28",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
