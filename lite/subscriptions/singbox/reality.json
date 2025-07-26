@@ -103,9 +103,9 @@
                 "🇺🇸US | 🟢 | vless | @v2_team | 2",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
+                "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
                 "🇧🇪BE | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
-                "🇷🇺RU | 🔴 | vless | @free1_vpn | 5",
                 "❔XX | 🔴 | vless | @Capoit | 21",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 22",
                 "❔XX | 🟢 | vless | @iP_CF | 55",
@@ -123,9 +123,9 @@
                 "🇺🇸US | 🟢 | vless | @v2_team | 2",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
+                "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
                 "🇧🇪BE | 🟢 | vless | @ShadowProxy66 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
-                "🇷🇺RU | 🔴 | vless | @free1_vpn | 5",
                 "❔XX | 🔴 | vless | @Capoit | 21",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 22",
                 "❔XX | 🟢 | vless | @iP_CF | 55",
@@ -257,6 +257,35 @@
             }
         },
         {
+            "tag": "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
+            "type": "vless",
+            "server": "45.150.33.157",
+            "server_port": 50810,
+            "uuid": "79de9b1e-d75e-4962-bbd8-42e9a6702033",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg",
+                    "short_id": "aa60a00122200b76"
+                }
+            }
+        },
+        {
             "tag": "🇧🇪BE | 🟢 | vless | @ShadowProxy66 | 4",
             "type": "vless",
             "server": "45.83.20.34",
@@ -312,42 +341,6 @@
                     "public_key": "axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk",
                     "short_id": "b373044d"
                 }
-            }
-        },
-        {
-            "tag": "🇷🇺RU | 🔴 | vless | @free1_vpn | 5",
-            "type": "vless",
-            "server": "213.183.41.63",
-            "server_port": 443,
-            "uuid": "3c631fef-c28c-4dfe-aacc-9e67ace7d5b3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "skyroom.online",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8",
-                    "short_id": "1f"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "free",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
