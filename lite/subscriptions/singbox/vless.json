@@ -141,7 +141,6 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 27",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 13",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -154,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17",
-                "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 3",
                 "🇮🇷IR | 🔴 | vless | @MehradLearn | 4",
@@ -230,7 +229,6 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 27",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12",
-                "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 13",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -243,7 +241,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17",
-                "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 3",
                 "🇮🇷IR | 🔴 | vless | @MehradLearn | 4",
@@ -1190,20 +1188,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 13",
-            "type": "vless",
-            "server": "91.107.155.129",
-            "server_port": 26348,
-            "uuid": "b009f000-37a3-4a56-846f-1c338ccd1b05",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10",
             "type": "vless",
             "server": "168.119.100.113",
@@ -1434,7 +1418,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @vmess_vless_v2rayng | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18",
             "type": "vless",
             "server": "172.67.208.49",
             "server_port": 80,
