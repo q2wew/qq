@@ -104,9 +104,9 @@
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
-                "🇨🇦CA | 🟢 | vmess | @FreakConfig | 15"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 15"
             ]
         },
         {
@@ -117,9 +117,9 @@
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
-                "🇨🇦CA | 🟢 | vmess | @FreakConfig | 15"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
+                "🇺🇸US | 🟢 | vmess | @FreakConfig | 15"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -251,7 +251,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
             "type": "vmess",
             "server": "104.20.173.91",
             "server_port": 443,
@@ -285,7 +285,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
             "type": "vmess",
             "server": "104.26.0.77",
             "server_port": 8880,
@@ -309,7 +309,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @FreakConfig | 15",
+            "tag": "🇺🇸US | 🟢 | vmess | @FreakConfig | 15",
             "type": "vmess",
             "server": "www.meter.net",
             "server_port": 2083,
