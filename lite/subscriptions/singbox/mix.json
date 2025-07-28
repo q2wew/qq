@@ -172,9 +172,10 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 15",
@@ -271,9 +272,10 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 15",
@@ -1894,9 +1896,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
             "type": "vmess",
-            "server": "104.25.69.174",
+            "server": "104.25.241.76",
             "server_port": 443,
             "uuid": "af6eedf5-f2b4-447f-8b93-5fca33af06f8",
             "security": "auto",
@@ -1928,9 +1930,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
             "type": "vmess",
-            "server": "104.20.241.146",
+            "server": "104.25.146.16",
             "server_port": 443,
             "uuid": "af6eedf5-f2b4-447f-8b93-5fca33af06f8",
             "security": "auto",
@@ -1973,6 +1975,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+            "type": "vless",
+            "server": "crazy-identity.oneeat.co",
+            "server_port": 80,
+            "uuid": "64d6d0d4-3706-4837-b154-cda2816adcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "crazy-identity.oneeat.co"
+                }
             }
         },
         {

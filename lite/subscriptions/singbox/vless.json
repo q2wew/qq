@@ -165,6 +165,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 8",
@@ -253,6 +254,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 8",
@@ -1686,6 +1688,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+            "type": "vless",
+            "server": "crazy-identity.oneeat.co",
+            "server_port": 80,
+            "uuid": "64d6d0d4-3706-4837-b154-cda2816adcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "crazy-identity.oneeat.co"
+                }
             }
         },
         {
