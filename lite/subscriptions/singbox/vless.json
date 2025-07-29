@@ -113,7 +113,8 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 34",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 35",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 5",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 6",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 10",
@@ -122,11 +123,11 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇫🇮FI | 🔴 | vless | @rxv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 4",
+                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 4",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇳🇱NL | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -203,7 +204,8 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 34",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 35",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 5",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 6",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 10",
@@ -212,11 +214,11 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇫🇮FI | 🔴 | vless | @rxv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 4",
+                "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 4",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇳🇱NL | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -596,7 +598,28 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 5",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "43c06dde-b530-4536-a9d7-ba7bccb6d0dd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ali",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -773,7 +796,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -867,7 +890,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
