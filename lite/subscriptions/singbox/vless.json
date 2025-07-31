@@ -167,13 +167,14 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇵🇱PL | 🟢 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -258,13 +259,14 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇵🇱PL | 🟢 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -1794,7 +1796,38 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
+            "type": "vless",
+            "server": "45.131.208.14",
+            "server_port": 443,
+            "uuid": "7a80a8d9-92f9-4f0a-8352-9005a8215ab8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rAyAn-12.LeIlA.DpDnS.OrG",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@rayan_config",
+                "headers": {
+                    "Host": "rAyAn-12.LeIlA.DpDnS.OrG"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
             "type": "vless",
             "server": "freevpn.xhamster.biz.id",
             "server_port": 443,
@@ -1821,37 +1854,6 @@
                 "path": "\/Free-CF-Proxy-AU11",
                 "headers": {
                     "Host": "freevpn.xhamster.biz.id"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
-            "type": "vless",
-            "server": "freexxx.xhamster.biz.id",
-            "server_port": 443,
-            "uuid": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "freexxx.xhamster.biz.id",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Free-CF-Proxy-AU12",
-                "headers": {
-                    "Host": "freexxx.xhamster.biz.id"
                 }
             }
         },
@@ -1967,6 +1969,37 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "eDp.SpEeDtEsT2029.CoM",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "eDp.SpEeDtEsT2029.CoM"
+                }
             }
         },
         {
