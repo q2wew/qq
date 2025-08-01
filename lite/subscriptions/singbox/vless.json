@@ -116,6 +116,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
@@ -124,8 +125,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
-                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -142,8 +143,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
@@ -207,6 +208,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
@@ -215,8 +217,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
-                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -233,8 +235,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
@@ -683,6 +685,27 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
+            "type": "vless",
+            "server": "kafshu.ir",
+            "server_port": 8080,
+            "uuid": "defc87a9-1bdd-486f-9e98-a0fbbeef6e39",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "kafshu.ir"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
@@ -847,11 +870,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "90398ddb-8745-41a6-b8eb-671155668614",
+            "server": "162.19.250.117",
+            "server_port": 25921,
+            "uuid": "598d2298-5e1f-4d07-bc4b-6d1949693852",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -861,11 +884,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
-            "server": "162.19.250.117",
-            "server_port": 25921,
-            "uuid": "598d2298-5e1f-4d07-bc4b-6d1949693852",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "90398ddb-8745-41a6-b8eb-671155668614",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1217,7 +1240,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "89ba9206-305a-4dbf-bd62-9144c1b0e0c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/hajmi?ed=2050",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
             "type": "vless",
             "server": "172.67.164.1",
             "server_port": 443,
@@ -1244,35 +1288,6 @@
                 "path": "\/BIA_CHANEL@JKVPN",
                 "headers": {
                     "Host": "verina.ccantarella.dns-dynamic.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
-            "type": "vless",
-            "server": "meow.postpapet.ir",
-            "server_port": 666,
-            "uuid": "508d96e8-953f-4a67-bc7d-8aba5878f38a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
-                    "short_id": "27e6b66aa77662fb"
                 }
             }
         },
