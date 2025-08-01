@@ -173,13 +173,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 3",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
-                "🇺🇸US | 🟢 | vmess | @FreakConfig | 16",
+                "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706498046.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706498046.amsterdam-prx-dnraaal.info#🇺🇸US | 🔴 | vless | @FreakConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
@@ -274,13 +274,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 3",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
-                "🇺🇸US | 🟢 | vmess | @FreakConfig | 16",
+                "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706498046.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706498046.amsterdam-prx-dnraaal.info#🇺🇸US | 🔴 | vless | @FreakConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 63",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 64",
@@ -1959,7 +1959,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -1976,7 +1976,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "104.17.213.241",
             "server_port": 2052,
@@ -2014,9 +2014,9 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
+            "tag": "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
-            "server": "45.131.208.14",
+            "server": "45.8.211.254",
             "server_port": 443,
             "uuid": "7a80a8d9-92f9-4f0a-8352-9005a8215ab8",
             "flow": "",
@@ -2028,7 +2028,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "rAyAn-12.LeIlA.DpDnS.OrG",
+                "server_name": "rAyAn-11.LeIlA.DpDnS.OrG",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -2040,7 +2040,7 @@
                 "type": "ws",
                 "path": "\/@rayan_config",
                 "headers": {
-                    "Host": "rAyAn-12.LeIlA.DpDnS.OrG"
+                    "Host": "rAyAn-11.LeIlA.DpDnS.OrG"
                 }
             }
         },
@@ -2117,37 +2117,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @FreakConfig | 16",
-            "type": "vmess",
-            "server": "172.67.131.27",
-            "server_port": 2053,
-            "uuid": "350e2b01-d410-44a6-90ba-6483f1062972",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
+            "tag": "Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706498046.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706498046.amsterdam-prx-dnraaal.info#🇺🇸US | 🔴 | vless | @FreakConfig | 15",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "rak2d4.89060004.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "rak2d4.89060004.xyz"
-                }
             }
         },
         {
