@@ -148,7 +148,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Outline_Vpn | 18","type":"vless","server":"104.19.245.206","port":443,"udp":false,"uuid":"9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kawaiifreevpn-7ds.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"kawaiifreevpn-7ds.pages.dev"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 153","type":"vless","server":"server1.fergalvpnmod.com","port":28338,"udp":true,"uuid":"0b9ee474-19f6-4d7f-9281-96f239e6cebc","tls":true,"network":"grpc","client-fingerprint":"randomized","servername":"cloudflare.com","grpc-opts":{"grpc-service-name":"Telegram:@FergalVpnMod"},"reality-opts":{"public-key":"MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw","short-id":"9ecc4615ce"}}
   - {"name":"Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#🇺🇸US | 🔴 | vless | @customv2ray | 41","type":"vless","server":"www.visa.com.sg","port":2087,"udp":false,"uuid":"90c7ad5e-cd15-4314-b39b-aeabd397d592","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 14","type":"vless","server":"104.21.112.1","port":8080,"udp":false,"uuid":"17034eef-9472-45cc-bca5-a71f90e36244","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480","headers":{"host":"join-to-unlimiteddev.sabadyt.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 27","type":"vless","server":"104.16.85.3","port":80,"udp":false,"uuid":"de4f383e-d572-42f3-9d96-31d3c7bbe65b","tls":false,"network":"ws","client-fingerprint":"chrome","flow":"xtls-rprx-vision","ws-opts":{"path":"/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480","headers":{"host":"join-to-Vmessorg.sabadyt.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 28","type":"vless","server":"104.16.85.3","port":8880,"udp":false,"uuid":"0e00aafb-b813-42f8-bea5-dabae7a2d18b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome","flow":"xtls-rprx-vision"}
   - {"name":"🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9","type":"vless","server":"193.169.105.181","port":14255,"udp":false,"uuid":"4e1be948-3942-4819-826d-6bbe4fc84982","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -219,7 +218,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 18'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 153'
       - 'Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#🇺🇸US | 🔴 | vless | @customv2ray | 41'
-      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 14'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9'
@@ -290,7 +288,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 18'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 153'
       - 'Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#🇺🇸US | 🔴 | vless | @customv2ray | 41'
-      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 14'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9'
@@ -360,7 +357,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 18'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 153'
       - 'Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#🇺🇸US | 🔴 | vless | @customv2ray | 41'
-      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 14'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 27'
       - '🇺🇸US | 🔴 | vless | @vmessorg | 28'
       - '🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9'
