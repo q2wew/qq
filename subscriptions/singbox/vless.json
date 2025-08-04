@@ -244,7 +244,6 @@
                 "🚩CF | 🔴 | vless | @proxy_kafee | 1",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -523,16 +522,18 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
-                "🇺🇸US | 🟢 | vless | @flyv2ray | 7",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
+                "🇺🇸US | 🟢 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
-                "🚩CF | 🔴 | vless | @flyv2ray | 11",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
+                "🚩CF | 🔴 | vless | @flyv2ray | 12",
                 "🇮🇩ID | 🔴 | vless | @iP_CF | 25",
                 "🇩🇪DE | 🔴 | vless | @iP_CF | 26",
                 "🇫🇮FI | 🟢 | vless | @iP_CF | 27",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 57",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 62",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 8",
@@ -735,7 +736,6 @@
                 "🚩CF | 🔴 | vless | @proxy_kafee | 1",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -1014,16 +1014,18 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
-                "🇺🇸US | 🟢 | vless | @flyv2ray | 7",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
+                "🇺🇸US | 🟢 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
-                "🚩CF | 🔴 | vless | @flyv2ray | 11",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
+                "🚩CF | 🔴 | vless | @flyv2ray | 12",
                 "🇮🇩ID | 🔴 | vless | @iP_CF | 25",
                 "🇩🇪DE | 🔴 | vless | @iP_CF | 26",
                 "🇫🇮FI | 🟢 | vless | @iP_CF | 27",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 57",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 62",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 8",
@@ -4345,37 +4347,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "elegant-corporation.seotoolsforyou.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 4",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vPi.SpEeDtEsT2029.CoM",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "vPi.SpEeDtEsT2029.CoM"
                 }
             }
         },
@@ -10771,6 +10742,27 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "7969f5aa-ca87-47c6-eeb4-45d7e4d5873c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/olem\/ws?ed=1024",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
+            "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
             "uuid": "7969f5aa-ca87-47c6-eeb4-45d7e4d5873c",
@@ -10790,7 +10782,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -10811,7 +10803,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -10832,7 +10824,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -10853,7 +10845,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -10874,7 +10866,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "cafearz.com",
             "server_port": 8080,
@@ -10895,7 +10887,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -10916,7 +10908,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @flyv2ray | 7",
+            "tag": "🇺🇸US | 🟢 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "api.hostbaran.info",
             "server_port": 15810,
@@ -10945,7 +10937,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -10966,7 +10958,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -10987,7 +10979,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @flyv2ray | 11",
+            "tag": "🚩CF | 🔴 | vless | @flyv2ray | 12",
             "type": "vless",
             "server": "172.64.151.232",
             "server_port": 443,
@@ -11130,6 +11122,37 @@
                 "path": "\/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray",
                 "headers": {
                     "Host": "pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 1",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vPi.SpEeDtEsT2029.CoM",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "vPi.SpEeDtEsT2029.CoM"
                 }
             }
         },
