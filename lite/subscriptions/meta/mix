@@ -120,8 +120,8 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"🇨🇦CA | 🔴 | vless | @EliV2ray | 11","type":"vless","server":"172.66.46.246","port":443,"udp":false,"uuid":"49a7f5d2-026e-4c17-8386-b3e073473a13","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"elena.elena.ddns-ip.net","ws-opts":{"path":"/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560","headers":{"host":"elena.elena.ddns-ip.net"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @EliV2ray | 12","type":"vless","server":"188.114.98.112","port":2095,"udp":false,"uuid":"24a4aa9b-b341-4717-9d4a-00d74c2b84e0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560","headers":{"host":"ELENA.ddNS-ip.net."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @EliV2ray | 11","type":"vless","server":"172.66.46.246","port":443,"udp":false,"uuid":"49a7f5d2-026e-4c17-8386-b3e073473a13","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"elena.elena.ddns-ip.net","ws-opts":{"path":"/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560","headers":{"host":"elena.elena.ddns-ip.net"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @EliV2ray | 12","type":"vless","server":"188.114.98.112","port":2095,"udp":false,"uuid":"24a4aa9b-b341-4717-9d4a-00d74c2b84e0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560","headers":{"host":"ELENA.ddNS-ip.net."}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2_team | 4","type":"vless","server":"gr.globalunlimitedinternet.xyz","port":1911,"udp":true,"uuid":"7eac3c03-5204-4d53-833a-a131639f1f5f","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.refersion.com","grpc-opts":{"grpc-service-name":"grpc.reality"},"reality-opts":{"public-key":"VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4","short-id":"32aaf12b"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2_team | 5","type":"vless","server":"gr.globalunlimitedinternet.xyz","port":1911,"udp":true,"uuid":"56ac4f3a-8cbf-4748-966e-0e723317e0af","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"refersion.com","grpc-opts":{"grpc-service-name":"grpc.reality"},"reality-opts":{"public-key":"VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4","short-id":"32aaf12b"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9","type":"vless","server":"91.99.226.71","port":443,"udp":false,"uuid":"9d650d7b-61ac-4b3f-b017-a937236c448c","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -181,6 +181,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @free1_vpn | 4","type":"vless","server":"104.21.67.12","port":443,"udp":false,"uuid":"30f2d443-af46-4dd6-83c9-b5e17299ebd2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"carlotta.shoorekeeper.cloudns.org","ws-opts":{"path":"/proxyip","headers":{"host":"carlotta.shoorekeeper.cloudns.org"}}}
   - {"name":"🇫🇮FI | 🟢 | vless | @free1_vpn | 5","type":"vless","server":"list.dayhostpro.com","port":14685,"udp":true,"uuid":"fc628c94-3c38-44e7-90aa-5ccde28ef29c","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"getchef.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs","short-id":"aa9c5414806589"}}
+  - {"name":"🇩🇪DE | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"154.197.75.248","port":"2082","cipher":"auto","uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip18.6929198.xyz"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8","type":"vless","server":"188.114.96.6","port":443,"udp":false,"uuid":"8df60790-c903-4661-b85d-64c0009378e5","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"F1.paRsa.fiLegEar-Sg.Me","ws-opts":{"path":"/","headers":{"host":"F1.paRsa.fiLegEar-Sg.Me"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9","type":"vless","server":"wonderful-degree.seotoolsforyou.co.uk","port":80,"udp":false,"uuid":"6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 23","type":"vless","server":"Www.speedtest.net","port":2095,"udp":false,"uuid":"065b8c19-e3b8-4e97-b44e-905738d6cb43","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
@@ -201,8 +202,8 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 11'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 12'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 11'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 12'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 4'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 5'
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9'
@@ -262,6 +263,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇫🇮FI | 🟢 | vless | @free1_vpn | 5'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 2'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
@@ -282,8 +284,8 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 11'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 12'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 11'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 12'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 4'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 5'
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9'
@@ -343,6 +345,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇫🇮FI | 🟢 | vless | @free1_vpn | 5'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 2'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
@@ -362,8 +365,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 11'
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 12'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 11'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 12'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 4'
       - '🇩🇪DE | 🔴 | vless | @v2_team | 5'
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9'
@@ -423,6 +426,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '🇺🇸US | 🔴 | vless | @free1_vpn | 4'
       - '🇫🇮FI | 🟢 | vless | @free1_vpn | 5'
+      - '🇩🇪DE | 🟢 | vmess | @Hope_Net | 2'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8'
       - '🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
