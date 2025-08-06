@@ -197,7 +197,7 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 18","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"2e56a2e4-d8ac-4990-843c-d813e889fcbd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 19","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"a85962e7-4c37-477a-a16a-892bbeea60ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @rxv2ray | 1","type":"vless","server":"104.16.69.64","port":8880,"udp":false,"uuid":"02811288-9ef3-42ef-86db-d9b1399c1a59","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/7YVyoVNnbaVzgl6D?ed=2560","headers":{"host":"vghavi32.ip-ddns.com"}}}
-  - {"name":"🚩CF | 🔴 | vless | @rxv2ray | 2","type":"vless","server":"172.67.65.158","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Etb1L6YUdZFZuTOr?ed=2560","headers":{"host":"VngSuPpLY.IP-DdnS.com"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @rxv2ray | 2","type":"vless","server":"172.67.65.158","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Etb1L6YUdZFZuTOr?ed=2560","headers":{"host":"VngSuPpLY.IP-DdnS.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @rxv2ray | 3","type":"vless","server":"small-meal.oneeat.co","port":80,"udp":false,"uuid":"d1e44075-8c92-4698-9db0-e71d7015b757","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
   - {"name":"🚩CF | 🔴 | vless | @rxv2ray | 5","type":"vless","server":"104.21.96.1","port":80,"udp":false,"uuid":"2036e2c3-18a5-4eed-9db4-f91a7f02c7d5","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/193.123.81.105=443","headers":{"host":"zoomgov.vipren.biz.id"}}}
   - {"name":"🚩CF | 🔴 | vless | @rxv2ray | 6","type":"vless","server":"104.25.220.177","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/reklaz1FsDrIv7mW?ed=2560","headers":{"host":"vngsupply.ip-ddns.com"}}}
@@ -589,7 +589,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🚩CF | 🔴 | vless | @rxv2ray | 1'
-      - '🚩CF | 🔴 | vless | @rxv2ray | 2'
+      - '🇺🇸US | 🔴 | vless | @rxv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @rxv2ray | 3'
       - '🚩CF | 🔴 | vless | @rxv2ray | 5'
       - '🚩CF | 🔴 | vless | @rxv2ray | 6'
@@ -981,7 +981,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🚩CF | 🔴 | vless | @rxv2ray | 1'
-      - '🚩CF | 🔴 | vless | @rxv2ray | 2'
+      - '🇺🇸US | 🔴 | vless | @rxv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @rxv2ray | 3'
       - '🚩CF | 🔴 | vless | @rxv2ray | 5'
       - '🚩CF | 🔴 | vless | @rxv2ray | 6'
@@ -1372,7 +1372,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🚩CF | 🔴 | vless | @rxv2ray | 1'
-      - '🚩CF | 🔴 | vless | @rxv2ray | 2'
+      - '🇺🇸US | 🔴 | vless | @rxv2ray | 2'
       - '🇺🇸US | 🔴 | vless | @rxv2ray | 3'
       - '🚩CF | 🔴 | vless | @rxv2ray | 5'
       - '🚩CF | 🔴 | vless | @rxv2ray | 6'
