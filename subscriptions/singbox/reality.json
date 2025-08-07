@@ -103,7 +103,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 1",
-                "🇦🇲AM | 🔴 | vless | @v2_team | 0",
+                "❔XX | 🔴 | vless | @v2_team | 0",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🟢 | vless | @v2_team | 2",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 3",
@@ -138,8 +138,8 @@
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 2",
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 3",
                 "🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 6",
-                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 1",
-                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 7",
+                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 2",
+                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 8",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🟢 | vless | @ServerNett | 1",
                 "🇩🇪DE | 🟢 | vless | @ServerNett | 2",
@@ -195,7 +195,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 1",
-                "🇦🇲AM | 🔴 | vless | @v2_team | 0",
+                "❔XX | 🔴 | vless | @v2_team | 0",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🟢 | vless | @v2_team | 2",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 3",
@@ -230,8 +230,8 @@
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 2",
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 3",
                 "🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 6",
-                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 1",
-                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 7",
+                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 2",
+                "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 8",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🟢 | vless | @ServerNett | 1",
                 "🇩🇪DE | 🟢 | vless | @ServerNett | 2",
@@ -331,7 +331,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🔴 | vless | @v2_team | 0",
+            "tag": "❔XX | 🔴 | vless | @v2_team | 0",
             "type": "vless",
             "server": "soren1.risktravelers.top",
             "server_port": 26779,
@@ -1465,7 +1465,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @v2rayngvpn | 1",
+            "tag": "🇺🇸US | 🟢 | vless | @v2rayngvpn | 2",
             "type": "vless",
             "server": "172.245.33.163",
             "server_port": 10088,
@@ -1494,7 +1494,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 7",
+            "tag": "🇬🇧GB | 🔴 | vless | @v2rayngvpn | 8",
             "type": "vless",
             "server": "159.65.215.131",
             "server_port": 44486,
