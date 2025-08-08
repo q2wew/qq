@@ -100,10 +100,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 28",
+                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 47",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 6",
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -116,10 +115,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 28",
+                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 47",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 6",
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -148,7 +146,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 28",
+            "tag": "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 47",
             "type": "vless",
             "server": "51.210.103.141",
             "server_port": 443,
@@ -238,35 +236,6 @@
                     "enabled": true,
                     "public_key": "xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI",
                     "short_id": "6b"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "graygoat.fonixapp.org",
-            "server_port": 45846,
-            "uuid": "534c8834-d096-462c-8c16-37571a798ef3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg",
-                    "short_id": "ac"
                 }
             }
         },
