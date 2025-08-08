@@ -101,10 +101,9 @@
             "outbounds": [
                 "URL-TEST",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 28",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 15",
+                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 143",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -119,10 +118,9 @@
             "type": "urltest",
             "outbounds": [
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 28",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 15",
+                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 143",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -181,11 +179,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vmessorg | 15",
+            "tag": "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 143",
             "type": "vless",
-            "server": "80.240.23.101",
-            "server_port": 47567,
-            "uuid": "73cc7084-a427-4193-8fe0-6dd72ac48265",
+            "server": "194.182.79.43",
+            "server_port": 25245,
+            "uuid": "aa374d55-b368-4121-8f02-7e6bd9ef1924",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -195,18 +193,25 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.black-moai.com",
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
-                    "short_id": "a862ded52ae3ea"
+                    "public_key": "uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg",
+                    "short_id": "16b619c73e22"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -246,36 +251,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
-            "type": "vless",
-            "server": "5.75.201.180",
-            "server_port": 14703,
-            "uuid": "ServerNett-ServerNett2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Y9zKrv5hG5fbRdibewYRmulK0HEHX6QgaU30EbKxrAU",
-                    "short_id": "a3"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
             "type": "vless",
             "server": "graygoat.fonixapp.org",
             "server_port": 45846,
