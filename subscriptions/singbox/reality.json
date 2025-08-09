@@ -112,7 +112,7 @@
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 21",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 8",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 2",
@@ -130,7 +130,8 @@
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 6",
                 "🇭🇺HU | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
@@ -185,7 +186,7 @@
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 21",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 8",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 2",
@@ -203,7 +204,8 @@
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 6",
                 "🇭🇺HU | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
@@ -589,7 +591,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 7",
             "type": "vless",
             "server": "book.srv2.quest",
             "server_port": 28796,
@@ -1146,11 +1148,11 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
-            "server": "146.59.15.81",
-            "server_port": 443,
-            "uuid": "c14b2731-7db6-49ee-9271-b1efc56c2630",
+            "server": "172.235.133.212",
+            "server_port": 80,
+            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1160,7 +1162,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "dl.google.com",
+                "server_name": "zula.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1169,8 +1171,37 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk",
-                    "short_id": "5bb805"
+                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
+                    "short_id": "94aa1bdc"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "192.142.15.95",
+            "server_port": 443,
+            "uuid": "c1d16861-5a8b-46d9-bfd3-032b9abcb68f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "48720c"
                 }
             }
         },
