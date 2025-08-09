@@ -130,8 +130,8 @@
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 6",
                 "🇭🇺HU | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
@@ -204,8 +204,8 @@
                 "🇦🇲AM | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 6",
                 "🇭🇺HU | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
@@ -1148,9 +1148,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
             "type": "vless",
-            "server": "172.235.133.212",
+            "server": "172.235.158.188",
             "server_port": 80,
             "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
             "flow": "xtls-rprx-vision",
@@ -1177,11 +1177,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "192.142.15.95",
+            "server": "198.98.51.36",
             "server_port": 443,
-            "uuid": "c1d16861-5a8b-46d9-bfd3-032b9abcb68f",
+            "uuid": "d0a86835-954b-4c2d-9f35-584ce0e052be",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1201,7 +1201,7 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "48720c"
+                    "short_id": "d3b13f31"
                 }
             }
         },
