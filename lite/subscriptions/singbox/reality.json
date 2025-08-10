@@ -104,9 +104,8 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 67",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
-                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -124,9 +123,8 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 67",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
-                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -293,35 +291,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "germany-sexy.krot.tech",
-            "server_port": 8443,
-            "uuid": "c26a4bc6-e513-4f81-bb11-bc19b5b9d566",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PeQ7ScU1LBQfD3QADxIcGWq5s1VlYcFgM0R2SOIFoRw",
-                    "short_id": "6023ef844c0048a1"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
             "type": "vless",
             "server": "vip1.proxystore11.news",
@@ -351,7 +320,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "46.226.160.215",
             "server_port": 34045,
