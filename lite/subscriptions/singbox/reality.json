@@ -102,8 +102,9 @@
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 5",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 67",
-                "🇭🇺HU | 🟢 | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
@@ -121,8 +122,9 @@
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @v2_team | 5",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 67",
-                "🇭🇺HU | 🟢 | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 8",
@@ -226,6 +228,42 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 11",
+            "type": "vless",
+            "server": "book.srv2.quest",
+            "server_port": 28796,
+            "uuid": "260f4e3a-e436-47a0-86c8-4c2b60aa17f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc",
+                    "short_id": "2eb360"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 67",
             "type": "vless",
             "server": "51.210.103.141",
@@ -255,11 +293,11 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "5.182.38.91",
-            "server_port": 17267,
-            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+            "server": "germany-sexy.krot.tech",
+            "server_port": 8443,
+            "uuid": "c26a4bc6-e513-4f81-bb11-bc19b5b9d566",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -269,7 +307,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "www.apple.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -278,8 +316,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
-                    "short_id": "4ae260"
+                    "public_key": "PeQ7ScU1LBQfD3QADxIcGWq5s1VlYcFgM0R2SOIFoRw",
+                    "short_id": "6023ef844c0048a1"
                 }
             }
         },
