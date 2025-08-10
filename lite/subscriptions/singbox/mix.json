@@ -171,8 +171,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -277,8 +276,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -1911,25 +1909,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "EVAY_VPN.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "104.21.11.173",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "server": "91.228.10.202",
+            "server_port": 2096,
+            "uuid": "9e769ce1-34be-4e3f-b0a6-823f30eb8f69",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1939,7 +1923,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "server_name": "91.228.10.202",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1949,9 +1933,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/proxyip",
+                "path": "\/",
                 "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
+                    "Host": "91.228.10.202"
                 }
             }
         },
@@ -2076,31 +2060,7 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
             "type": "vmess",
-            "server": "104.18.114.138",
-            "server_port": 8880,
-            "uuid": "90f8f4dc-8092-4355-9047-05f506f5e9ab",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "104.18.114.138"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 17",
-            "type": "vmess",
-            "server": "104.18.114.247",
+            "server": "104.21.238.94",
             "server_port": 2082,
             "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
             "security": "auto",
@@ -2117,7 +2077,31 @@
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "104.18.114.247"
+                    "Host": "104.21.238.94"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 17",
+            "type": "vmess",
+            "server": "104.26.0.141",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": "104.26.0.141"
                 }
             }
         },
