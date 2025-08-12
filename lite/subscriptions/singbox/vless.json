@@ -106,7 +106,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
@@ -162,8 +162,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 14",
@@ -198,7 +197,7 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
@@ -254,8 +253,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 14",
@@ -452,7 +450,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
             "type": "vless",
             "server": "still-bar-5702.vpnetwork3567.workers.dev",
             "server_port": 443,
@@ -1725,46 +1723,17 @@
             }
         },
         {
-            "tag": "=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "7e049ef3-3b80-46e4-be51-ce53d2034c1b",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "c54ba325-c1be-4845-a2e7-922b5cd211c3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "64.188.96.208",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
-                }
             }
         },
         {
