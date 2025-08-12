@@ -144,15 +144,15 @@
                 "🇮🇹IT | 🟢 | vless | @v2rayngvpn | 4",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 5",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 4",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 7",
-                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 9",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 10",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
+                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 4",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 5",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 5",
@@ -241,15 +241,15 @@
                 "🇮🇹IT | 🟢 | vless | @v2rayngvpn | 4",
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 5",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 1",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 4",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 7",
-                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 8",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 9",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 10",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
+                "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 4",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 5",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 5",
@@ -1621,36 +1621,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 0",
-            "type": "vless",
-            "server": "iwillconectyou.to.usa.irancdngame.com",
-            "server_port": 2012,
-            "uuid": "38dc5272-341f-4b77-9c07-ed748425afb8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.pcmag.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 0",
             "type": "vless",
             "server": "89.58.1.98",
             "server_port": 44807,
@@ -1679,7 +1650,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
             "type": "vless",
             "server": "89.58.1.98",
             "server_port": 44807,
@@ -1708,7 +1679,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 7",
+            "tag": "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 4",
             "type": "vless",
             "server": "185.189.12.204",
             "server_port": 34045,
@@ -1737,7 +1708,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | @ConfigsHUB | 8",
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 5",
             "type": "vless",
             "server": "185.189.12.204",
             "server_port": 34045,
@@ -1766,7 +1737,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 9",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "64.188.96.208",
             "server_port": 34045,
@@ -1795,7 +1766,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 10",
+            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "64.188.96.208",
             "server_port": 34045,
@@ -1824,7 +1795,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
             "server": "109.61.16.89",
             "server_port": 30938,
@@ -1853,7 +1824,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 13",
             "type": "vless",
             "server": "109.61.16.89",
             "server_port": 30938,
@@ -1878,6 +1849,35 @@
                     "enabled": true,
                     "public_key": "OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE",
                     "short_id": "9f2b1f07"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "amazon-13.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
