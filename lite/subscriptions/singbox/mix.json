@@ -175,14 +175,14 @@
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇴🇲OM | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 17",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇮🇷IR | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇮🇳IN | 🔴 | vless | @Outlinev2rayNG | 12",
@@ -285,14 +285,14 @@
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+                "🇴🇲OM | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 17",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇮🇷IR | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇮🇳IN | 🔴 | vless | @Outlinev2rayNG | 12",
@@ -1976,40 +1976,25 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇴🇲OM | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "46.62.139.162",
-            "server_port": 29752,
-            "uuid": "2c3b3e80-a2ec-459e-b898-206ead4edc9d",
-            "flow": "xtls-rprx-vision",
+            "server": "154.205.147.214",
+            "server_port": 443,
+            "uuid": "accc0d7e-759d-4f00-97a0-ed30e7780a32",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs",
-                    "short_id": "3dd812"
-                }
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "25.129.198.213",
-            "server_port": 8880,
-            "uuid": "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf",
+            "server": "small-meal.oneeat.co",
+            "server_port": 80,
+            "uuid": "d1e44075-8c92-4698-9db0-e71d7015b757",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2019,9 +2004,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed?----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY",
+                "path": "\/",
                 "headers": {
-                    "Host": "25.129.198.213"
+                    "Host": "small-meal.oneeat.co"
                 }
             }
         },
@@ -2144,7 +2129,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 14",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 16",
             "type": "vmess",
             "server": "104.21.238.107",
             "server_port": 2095,
@@ -2168,7 +2153,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 15",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 17",
             "type": "vmess",
             "server": "104.26.0.129",
             "server_port": 2082,
