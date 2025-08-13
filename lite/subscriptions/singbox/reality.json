@@ -104,8 +104,7 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 4",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 22",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 23",
@@ -125,8 +124,7 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 4",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 13",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 22",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 23",
@@ -288,7 +286,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
             "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
             "server_port": 39001,
@@ -313,35 +311,6 @@
                     "enabled": true,
                     "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
                     "short_id": "f23547"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "92.112.126.22",
-            "server_port": 8442,
-            "uuid": "31303020-3531-4035-b120-343920343920",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "creativecommons.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA",
-                    "short_id": "59b75803"
                 }
             }
         },
