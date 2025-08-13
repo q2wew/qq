@@ -100,10 +100,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @v2_team | 6",
-                "🇩🇪DE | 🔴 | vless | @v2_team | 7",
+                "🇺🇸US | 🔴 | vless | @v2_team | 6",
+                "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
-                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 6",
+                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 14",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 24",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 25",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
@@ -118,10 +119,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @v2_team | 6",
-                "🇩🇪DE | 🔴 | vless | @v2_team | 7",
+                "🇺🇸US | 🔴 | vless | @v2_team | 6",
+                "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
-                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 6",
+                "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 14",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 24",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 25",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
@@ -152,7 +154,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 6",
             "type": "vless",
             "server": "gr.globalunlimitedinternet.xyz",
             "server_port": 1911,
@@ -188,7 +190,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 7",
             "type": "vless",
             "server": "gr.globalunlimitedinternet.xyz",
             "server_port": 1911,
@@ -253,7 +255,7 @@
             }
         },
         {
-            "tag": "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 6",
+            "tag": "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 7",
             "type": "vless",
             "server": "195.133.8.126",
             "server_port": 8081,
@@ -278,6 +280,35 @@
                     "enabled": true,
                     "public_key": "oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc",
                     "short_id": "220463"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "18.217.49.184",
+            "server_port": 4433,
+            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
+                    "short_id": "f785b38130e64177"
                 }
             }
         },
