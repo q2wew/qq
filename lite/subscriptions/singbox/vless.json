@@ -150,8 +150,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -168,8 +168,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -246,8 +246,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -264,8 +264,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -1423,11 +1423,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
             "type": "vless",
-            "server": "sss48716.tas-bazi.com",
+            "server": "sss93336.tas-bazi.com",
             "server_port": 443,
-            "uuid": "92b022a6-67f3-4406-840b-8fec2f4aace8",
+            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1437,24 +1437,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "a8e56dbd-5cc1-4b2f-850f-92779fb62b3d",
+            "server": "91.99.15.181",
+            "server_port": 443,
+            "uuid": "82aa1f3f-29d4-42ab-a5d5-66b13ba13545",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
             }
         },
         {
@@ -1765,11 +1758,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "104.16.69.64",
-            "server_port": 8880,
-            "uuid": "02811288-9ef3-42ef-86db-d9b1399c1a59",
+            "server": "104.26.7.89",
+            "server_port": 8443,
+            "uuid": "f5cf098f-5143-440f-a490-7fc24ff27fb0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1777,32 +1770,50 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "brmahasang.ahaysiahzangi.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560",
+                "path": "\/?ed",
                 "headers": {
-                    "Host": "104.16.69.64"
+                    "Host": "brmahasang.ahaysiahzangi.dpdns.org"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "75b63c38-ba6a-4bc8-b1ce-eb7df9931faf",
-            "flow": "",
+            "server": "92.53.107.193",
+            "server_port": 27129,
+            "uuid": "1dc60f16-1593-485e-949d-8459edba6430",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM_join_JKVPN_JKVPN_JKVPN_JKVPN",
-                "headers": {
-                    "Host": "www.speedtest.net"
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ",
+                    "short_id": "d70393f0ad1c7552"
                 }
             }
         },
