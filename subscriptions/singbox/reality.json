@@ -146,10 +146,8 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 131",
                 "🇬🇧GB | 🟢 | vless | @customv2ray | 5",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 4",
+                "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 5",
                 "🇳🇱NL | 🟢 | vless | @v2rayngvpn | 8",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 8",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 8",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 0",
@@ -238,10 +236,8 @@
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 131",
                 "🇬🇧GB | 🟢 | vless | @customv2ray | 5",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 4",
+                "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 5",
                 "🇳🇱NL | 🟢 | vless | @v2rayngvpn | 8",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 8",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 8",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 0",
@@ -1669,7 +1665,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 4",
+            "tag": "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 5",
             "type": "vless",
             "server": "46.226.162.144",
             "server_port": 443,
@@ -1730,64 +1726,6 @@
                     "enabled": true,
                     "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
                     "short_id": "e8ab71d0"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 6",
-            "type": "vless",
-            "server": "us02.528965.xyz",
-            "server_port": 31158,
-            "uuid": "e6b6f680-797c-4354-b2d8-bad9adbe89ae",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.hkust.edu.hk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "m2_mTpJOzyR-Cy3r8Ryf-3lYPZ_zYheZz7twWq9fXX8",
-                    "short_id": "9444ff"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 8",
-            "type": "vless",
-            "server": "83.147.18.179",
-            "server_port": 443,
-            "uuid": "06db4892-6047-4a8a-a9f9-a0d49e05b5e9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "snapp.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
-                    "short_id": "5bef46444e87"
                 }
             }
         },
