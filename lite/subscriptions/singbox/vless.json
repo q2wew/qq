@@ -101,7 +101,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
@@ -167,8 +167,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -196,7 +196,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
@@ -262,8 +262,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -337,7 +337,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
             "type": "vless",
             "server": "188.114.98.112",
             "server_port": 2095,
@@ -1764,12 +1764,12 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "45.131.5.26",
-            "server_port": 2053,
-            "uuid": "ee2bb495-2632-445b-b1f8-3c476a50b78b",
-            "flow": "",
+            "server": "109.61.16.89",
+            "server_port": 30938,
+            "uuid": "1068814a-6d43-40d9-a127-0f6b6b77ccfc",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1778,28 +1778,26 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "dl1-fr-cdn.easy-upload.org",
+                "server_name": "indeed.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "dl1-fr-cdn.easy-upload.org"
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE",
+                    "short_id": "9f2b1f07"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
+            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "104.18.102.129",
-            "server_port": 443,
-            "uuid": "ee2bb495-2632-445b-b1f8-3c476a50b78b",
+            "server": "45.12.134.217",
+            "server_port": 80,
+            "uuid": "ed242313-b502-4a4a-97f4-336da621a837",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1807,21 +1805,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "dl1-de-cdn.easy-upload.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/vless\/",
                 "headers": {
-                    "Host": "dl1-de-cdn.easy-upload.org"
+                    "Host": "45.12.134.217"
                 }
             }
         },
