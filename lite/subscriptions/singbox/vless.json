@@ -117,7 +117,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
@@ -144,7 +144,6 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "🇫🇷FR | 🔴 | vless | @customv2ray | 35",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 12",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 10",
@@ -167,7 +166,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -211,7 +209,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 54",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
@@ -238,7 +236,6 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "🇫🇷FR | 🔴 | vless | @customv2ray | 35",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 12",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇬🇧GB | 🔴 | vless | @v2rayNG_Matsuri | 10",
@@ -261,7 +258,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -713,7 +709,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -1350,7 +1346,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
@@ -1367,27 +1363,6 @@
                 "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
                 "headers": {
                     "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 13",
-            "type": "vless",
-            "server": "104.21.112.1",
-            "server_port": 8080,
-            "uuid": "6be4fd18-d9ad-4ea5-d517-da25914b7829",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "104.21.112.1"
                 }
             }
         },
@@ -1808,27 +1783,6 @@
                 "path": "\/193.123.81.105=443",
                 "headers": {
                     "Host": "104.21.112.1"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "ec80ee4b-8c32-479e-b683-6612608e3437",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT\/www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
