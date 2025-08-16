@@ -167,7 +167,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -261,7 +261,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
@@ -840,7 +840,7 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "04dcaa2c-b287-4a04-9253-634cffbb1711",
+            "uuid": "f32b681e-1917-4bee-b1bc-856e11116a2e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -861,7 +861,7 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "9d0e812d-d25b-4a19-a577-929f051a0806",
+            "uuid": "04dcaa2c-b287-4a04-9253-634cffbb1711",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1822,11 +1822,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "45.12.134.217",
-            "server_port": 80,
-            "uuid": "ed242313-b502-4a4a-97f4-336da621a837",
+            "server": "134.209.90.171",
+            "server_port": 443,
+            "uuid": "707012d8-6b03-454f-89e6-15070a3ecbe7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1834,11 +1834,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/vless\/",
+                "path": "\/ws",
                 "headers": {
-                    "Host": "45.12.134.217"
+                    "Host": "zula.ir"
                 }
             }
         },
