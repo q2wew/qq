@@ -103,7 +103,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇮FI | 🟢 | vmess | @free1_vpn | 4",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 18",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 19"
@@ -116,7 +116,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇮FI | 🟢 | vmess | @free1_vpn | 4",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 18",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 19"
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -253,7 +253,7 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 18",
             "type": "vmess",
-            "server": "104.21.238.31",
+            "server": "104.21.238.37",
             "server_port": 2082,
             "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
             "security": "auto",
@@ -270,16 +270,16 @@
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "104.21.238.31"
+                    "Host": "104.21.238.37"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 19",
             "type": "vmess",
-            "server": "104.26.0.102",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "server": "104.21.238.99",
+            "server_port": 8880,
+            "uuid": "90f8f4dc-8092-4355-9047-05f506f5e9ab",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -294,7 +294,7 @@
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "104.26.0.102"
+                    "Host": "104.21.238.99"
                 }
             }
         }
