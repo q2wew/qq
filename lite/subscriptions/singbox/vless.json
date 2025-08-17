@@ -131,7 +131,7 @@
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 57",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 58",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -146,7 +146,7 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -165,7 +165,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
@@ -224,7 +225,7 @@
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 57",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 58",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -239,7 +240,7 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -258,7 +259,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
@@ -715,7 +717,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
-            "uuid": "35a04287-2470-4fed-bc91-4d9779dedfe7",
+            "uuid": "3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1033,7 +1035,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,
@@ -1351,17 +1353,34 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
             "type": "vless",
-            "server": "172.234.236.56",
-            "server_port": 443,
-            "uuid": "498de120-ed30-4f7e-b498-da4917465793",
+            "server": "104.16.176.185",
+            "server_port": 2087,
+            "uuid": "905076f9-e34e-40b1-9e33-df06726f6336",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "jkLkL-CX6.PAGEs.DEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/51uBuxfAJBLSkC6b\/NjIuMy4xMi43Ng==",
+                "headers": {
+                    "Host": "jkLkL-CX6.PAGEs.DEV"
+                }
             }
         },
         {
@@ -1714,11 +1733,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8880,
-            "uuid": "6ec52bc7-fcd7-4841-ab69-70d6e03a6eda",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "bc2f38fb-7172-450c-88ee-ca8762317102",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1728,9 +1747,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
                 "headers": {
-                    "Host": "104.17.148.22"
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "bc2f38fb-7172-450c-88ee-ca8762317102",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "172.66.40.99"
                 }
             }
         },
