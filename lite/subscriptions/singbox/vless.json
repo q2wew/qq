@@ -122,8 +122,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
-                "🇩🇪DE | 🔴 | vless | @lightning6 | 9",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 10",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
+                "🇩🇪DE | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 7",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -131,7 +131,7 @@
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 57",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 58",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -166,8 +166,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
@@ -218,8 +218,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
-                "🇩🇪DE | 🔴 | vless | @lightning6 | 9",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 10",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
+                "🇩🇪DE | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 7",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -227,7 +227,7 @@
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 57",
                 "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 58",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -262,8 +262,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
@@ -809,25 +809,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @lightning6 | 9",
-            "type": "vless",
-            "server": "146.75.123.82",
-            "server_port": 80,
-            "uuid": "04ba133d-1f99-4f5c-b942-bed79cddd0a0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "f32b681e-1917-4bee-b1bc-856e11116a2e",
+            "uuid": "03c7a062-fa7d-4e08-a261-aa9b18df7495",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -841,6 +827,20 @@
                 "headers": {
                     "Host": "172.66.40.99"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @lightning6 | 10",
+            "type": "vless",
+            "server": "146.75.123.82",
+            "server_port": 80,
+            "uuid": "04ba133d-1f99-4f5c-b942-bed79cddd0a0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -1039,7 +1039,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,
@@ -1768,11 +1768,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2053,
-            "uuid": "8cf61002-0f8c-482e-997d-078283d52363",
+            "server": "104.26.6.18",
+            "server_port": 443,
+            "uuid": "004ba5d4-d448-4960-a762-e5190ab415f2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1782,7 +1782,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "dl1-de1-cdn.easy-upload.org",
+                "server_name": "albedoalbedochan.violetchaan.ip-ddns.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1792,24 +1792,41 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/?JOKERRVPN_BIA_CHANEL@JOKERRVPN",
                 "headers": {
-                    "Host": "dl1-de1-cdn.easy-upload.org"
+                    "Host": "albedoalbedochan.violetchaan.ip-ddns.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "Www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "7df5a558-c45c-4002-ac52-c0b4e91b6968",
+            "server": "104.21.80.252",
+            "server_port": 443,
+            "uuid": "289a4e03-317f-4bf8-97d3-e33200df6a3b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "SimoWeBsITesPEEDTEst.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/1u40Y2pvl82tR3i8\/MTk0LjM4LjIwLjc4?ed=2560",
+                "headers": {
+                    "Host": "SimoWeBsITesPEEDTEst.ir"
+                }
             }
         },
         {
