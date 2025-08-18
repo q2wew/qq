@@ -122,7 +122,6 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
@@ -167,8 +166,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -219,7 +217,6 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
@@ -264,8 +261,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -843,7 +839,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -854,27 +850,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 10",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "03c7a062-fa7d-4e08-a261-aa9b18df7495",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
             }
         },
         {
@@ -1782,25 +1757,11 @@
             }
         },
         {
-            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "9e7b3b9f-ab4b-4f2c-9529-2fc61840db40",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "malaysia.com",
-            "server_port": 443,
-            "uuid": "c4587bda-09fc-4b3b-8221-4450fccc33d1",
+            "server": "104.19.122.202",
+            "server_port": 8880,
+            "uuid": "c54ba325-c1be-4845-a2e7-922b5cd211c3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
