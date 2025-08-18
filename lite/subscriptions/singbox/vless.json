@@ -167,8 +167,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -186,7 +186,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -264,8 +264,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🔴 | vless | @free1_vpn | 4",
@@ -283,7 +283,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 11",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
                 "❔XX | 🔴 | vless | @SvnTeam | 7",
@@ -1782,65 +1782,31 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "212.95.34.14",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "784646e5-8e84-4672-8670-efc9cafcd2cc",
+            "uuid": "9e7b3b9f-ab4b-4f2c-9529-2fc61840db40",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "212.95.34.14",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "212.95.34.14"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "104.18.131.54",
+            "server": "malaysia.com",
             "server_port": 443,
-            "uuid": "d88937d0-ce43-4bf8-9df6-d632810ba9ff",
+            "uuid": "c4587bda-09fc-4b3b-8221-4450fccc33d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "007.xingfu.qzz.io",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
-                "headers": {
-                    "Host": "007.xingfu.qzz.io"
-                }
             }
         },
         {
@@ -2283,7 +2249,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 5",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 3",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 80,
