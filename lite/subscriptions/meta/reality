@@ -127,7 +127,6 @@ proxies:
   - {"name":"🇭🇺HU | 🟢 | vless | @proxy_kafee | 11","type":"vless","server":"5.182.38.91","port":17267,"udp":true,"uuid":"1c7fcc38-e6be-43c5-875f-b8de2516b9f2","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"yahoo.com","reality-opts":{"public-key":"SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk","short-id":"4ae260"}}
   - {"name":"🇷🇺RU | 🟢 | vless | @prrofile_purple | 140","type":"vless","server":"158.160.131.112","port":14872,"udp":true,"uuid":"8b79f4a9-468f-46cf-9823-ba6cfe529f75","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"yahoo.com","reality-opts":{"public-key":"6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc","short-id":"738a824c0bdf"}}
   - {"name":"🇩🇪DE | 🟢 | vless | @customv2ray | 34","type":"vless","server":"real-z3.sdcards1.ir","port":8585,"udp":true,"uuid":"19de5ba4-82b2-4a11-898e-ae460d6733fe","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"tgju.org","reality-opts":{"public-key":"58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg","short-id":"ea0e387f2b260e0d"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"91.99.117.197","port":8443,"udp":true,"uuid":"37201919-2dbd-4020-89f0-94b454af7b3d","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"},"reality-opts":{"public-key":"X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @proxystore11 | 11","type":"vless","server":"vip1.proxystore11.news","port":15110,"udp":true,"uuid":"b1400a69-146b-4534-8718-5f2122b620f5","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"yahoo.com","reality-opts":{"public-key":"y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk","short-id":"0570"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @Capoit | 12","type":"vless","server":"91.107.158.231","port":80,"udp":true,"uuid":"087dd1f9-644a-4a4e-9659-0523c74b8c70","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"canva.com","reality-opts":{"public-key":"onJ1zaTDbXbMMSfmp-wCt2ZwGDOK-VxvPQi3TPwPoTk","short-id":"5517d782302df4"}}
   - {"name":"🇩🇪DE | 🟢 | vless | @FreakConfig | 18","type":"vless","server":"az7-sub.serverfreedom.com","port":20000,"udp":true,"uuid":"5d72af32-b620-4a7e-8e49-f6a159a20699","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"refersion.com","reality-opts":{"public-key":"lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo"}}
@@ -145,7 +144,6 @@ proxy-groups:
       - '🇭🇺HU | 🟢 | vless | @proxy_kafee | 11'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 140'
       - '🇩🇪DE | 🟢 | vless | @customv2ray | 34'
-      - '🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇩🇪DE | 🔴 | vless | @proxystore11 | 11'
       - '🇩🇪DE | 🔴 | vless | @Capoit | 12'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 18'
@@ -163,7 +161,6 @@ proxy-groups:
       - '🇭🇺HU | 🟢 | vless | @proxy_kafee | 11'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 140'
       - '🇩🇪DE | 🟢 | vless | @customv2ray | 34'
-      - '🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇩🇪DE | 🔴 | vless | @proxystore11 | 11'
       - '🇩🇪DE | 🔴 | vless | @Capoit | 12'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 18'
@@ -180,7 +177,6 @@ proxy-groups:
       - '🇭🇺HU | 🟢 | vless | @proxy_kafee | 11'
       - '🇷🇺RU | 🟢 | vless | @prrofile_purple | 140'
       - '🇩🇪DE | 🟢 | vless | @customv2ray | 34'
-      - '🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇩🇪DE | 🔴 | vless | @proxystore11 | 11'
       - '🇩🇪DE | 🔴 | vless | @Capoit | 12'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 18'
