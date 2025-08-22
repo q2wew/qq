@@ -123,9 +123,8 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"18.195.47.244","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"35.181.96.121","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🔴 | trojan | @ConfigsHUB | 16","type":"trojan","server":"eyJhZGQiOiJiZS50YXdhcmQub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS50YXdhcmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZS50YXdhcmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8","type":"vmess","server":"192.166.82.42","port":"36010","cipher":"auto","uuid":"dc36afe6-31fe-4c64-8d50-4528622665b8","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"🇨🇷CR | 🟢 | vmess | @Hope_Net | 14","type":"vmess","server":"190.93.247.170","port":"2082","cipher":"auto","uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip18.6929198.xyz"}}}
   - {"name":"🇳🇱NL | 🟢 | ss | @iP_CF | 23","type":"ss","server":"164.92.156.41","port":24206,"password":"zI7kiNZ0UfV9cXB73a4nRD","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: MANUAL
@@ -138,9 +137,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '❔XX | 🔴 | trojan | @ConfigsHUB | 16'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇨🇷CR | 🟢 | vmess | @Hope_Net | 14'
       - '🇳🇱NL | 🟢 | ss | @iP_CF | 23'
   - name: URL-TEST
     type: url-test
@@ -153,9 +151,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '❔XX | 🔴 | trojan | @ConfigsHUB | 16'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇨🇷CR | 🟢 | vmess | @Hope_Net | 14'
       - '🇳🇱NL | 🟢 | ss | @iP_CF | 23'
   - name: FALLBACK
     type: fallback
@@ -167,9 +164,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '❔XX | 🔴 | trojan | @ConfigsHUB | 16'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇨🇷CR | 🟢 | vmess | @Hope_Net | 14'
       - '🇳🇱NL | 🟢 | ss | @iP_CF | 23'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
