@@ -109,8 +109,8 @@
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 62",
@@ -165,7 +165,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 4",
@@ -201,8 +202,8 @@
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 62",
@@ -257,7 +258,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 4",
@@ -521,9 +523,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.37.25.118",
+            "server": "18.159.228.109",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -552,9 +554,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "51.44.193.63",
+            "server": "18.195.47.244",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1738,11 +1740,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "104.18.37.228",
+            "server": "172.66.40.99",
             "server_port": 8080,
-            "uuid": "0518ca46-4313-45ce-df4d-5268c1b30cf2",
+            "uuid": "86f18e8b-0c66-4d47-b086-85e71d13b1f0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1752,10 +1754,46 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
+                "path": "\/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
                 "headers": {
-                    "Host": "104.18.37.228"
+                    "Host": "172.66.40.99"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "91.99.117.197",
+            "server_port": 8443,
+            "uuid": "7585c7f8-5e6a-411e-ecf1-31f9bc7d7e38",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -1956,6 +1994,37 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
             "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "aBs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "aBs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
+            "type": "vless",
             "server": "104.17.147.22",
             "server_port": 443,
             "uuid": "5879d109-8c92-448a-801b-3f3989019934",
@@ -1981,27 +2050,6 @@
                 "path": "\/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray",
                 "headers": {
                     "Host": "pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 12",
-            "type": "vless",
-            "server": "172.67.73.233",
-            "server_port": 8080,
-            "uuid": "f0ce50ac-f469-457d-c0d0-309391439014",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "172.67.73.233"
                 }
             }
         },
