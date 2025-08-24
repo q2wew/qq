@@ -150,8 +150,6 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"15.236.172.89","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"15.236.155.98","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"63.178.133.8","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇸🇬SG | 🔴 | trojan | @ConfigsHUB | 2","type":"trojan","server":"gy1.hdcloud.link","port":443,"udp":false,"password":"5d4a795b-8f1b-4e08-b155-d729b1f726ae","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"static.icloud.com"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @ConfigsHUB | 5","type":"trojan","server":"test.hdcloud.link","port":443,"udp":false,"password":"5d4a795b-8f1b-4e08-b155-d729b1f726ae","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"static.icloud.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -190,8 +188,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
-      - '🇸🇬SG | 🔴 | trojan | @ConfigsHUB | 2'
-      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 5'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -230,8 +226,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
-      - '🇸🇬SG | 🔴 | trojan | @ConfigsHUB | 2'
-      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 5'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -269,8 +263,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 15'
-      - '🇸🇬SG | 🔴 | trojan | @ConfigsHUB | 2'
-      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
