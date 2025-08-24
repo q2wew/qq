@@ -114,8 +114,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 5",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -146,8 +145,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 5",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -386,11 +384,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 5",
             "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "3d76ac40-80c4-11f0-b432-205c6d5f5d78",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -400,47 +398,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/b87r3d9e",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
-            "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "3d76ac40-80c4-11f0-b432-205c6d5f5d78",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/b87r3d9e",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
