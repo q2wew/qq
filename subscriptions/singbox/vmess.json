@@ -114,8 +114,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
                 "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -147,8 +148,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
                 "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -388,9 +390,26 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
             "type": "vmess",
-            "server": "57.129.24.124",
+            "server": "57.129.28.65",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -405,7 +424,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+                "server_name": "kapelleng.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -417,16 +436,16 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
+                    "Host": "kapelleng.com"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 5",
             "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
+            "server": "npmjs.com",
+            "server_port": 8080,
+            "uuid": "pmxnbcrrfd",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -436,6 +455,13 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/download\/cdn",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
