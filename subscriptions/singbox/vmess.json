@@ -114,8 +114,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 10",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -147,8 +147,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 10",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -388,11 +388,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 10",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 4",
             "type": "vmess",
-            "server": "103.124.107.144",
-            "server_port": 29800,
-            "uuid": "cc31ddfc-d92e-4dab-cd06-00dfb84af8ac",
+            "server": "57.129.24.124",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -402,10 +402,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
+                }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 12",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 6",
             "type": "vmess",
             "server": null,
             "server_port": 0,
